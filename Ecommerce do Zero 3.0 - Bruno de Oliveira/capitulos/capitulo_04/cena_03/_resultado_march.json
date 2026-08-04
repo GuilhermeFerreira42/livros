@@ -1,0 +1,23 @@
+{
+  "cena_id": "cap_04_cena_03",
+  "capitulo": 4,
+  "cena": 3,
+  "data_validacao": "2026-07-30T18:25:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 8,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'MEI (Microempreendedor Individual). Limite R$ 80 mil/ano, é isento de imposto sobre venda, mas paga contribuição social.' Corpus '3 - Marca, CNPJ, MEI, ME' detalha: o imposto mensal do DAS (Documento de Arrecadação do Simples) para MEI em 2024 está em torno de R$ 70/mês (R$ 65,60 a R$ 71,60 conforme a atividade).", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus '3 - Marca, CNPJ, MEI, ME' detalha: ME exige contador (R$ 150-300/mês, valores de mercado), Simples Nacional é o regime (faixas de 4% a 19% conforme receita bruta), abertura leva de 7 a 30 dias (registro na Junta, CNPJ, IE, etc.).", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '3 - Marca, CNPJ, MEI, ME' trata da CNAE. A 4789-0 (Comércio varejista de outros produtos não especificados anteriormente) é a CNAE genérica para e-commerce. Funciona para produtos físicos diversos sem CNAE específica. Atividades reguladas (cosméticos, alimentos) têm CNAEs específicas e podem exigir IE ou vigilância sanitária.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '3 - Marca, CNPJ, MEI, ME': abertura MEI é 100% online pelo Portal do Empreendedor, em 15-20 minutos, com aprovação em 24-48h. Certificado digital A1 (arquivo + senha) é o padrão para MEI/ME, custa R$ 80-150/ano. A3 (token físico) é desnecessário para esse perfil.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mitos: 'Vender como CPF funciona' - 'Não. Não emite nota fiscal, passa insegurança, infringe legislação em barreiras fiscais.' Corpus '3' reforça: sem CNPJ não emite NF, não abre conta em marketplace, não constrói reputação.", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' detalha integração com marketplaces: cada pedido aprovado gera NF automaticamente. Bíblia Glossário: 'Bling: ERP brasileiro líder... Centraliza cadastros, vendas, estoque, notas fiscais, etiquetas, financeiro e integrações com marketplaces.' A integração com Mercado Livre e outros é nativa.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Corpus '3 - Marca, CNPJ, MEI, ME' detalha o regime de pró-labore: para MEI, o valor é isento até R$ 1.320/mês (salário mínimo 2024 + 30%). Para ME no Simples Nacional, o sócio pode retirar pró-labore de até R$ 1.320 isento (INSS) e o restante tributado em 11% de INSS (ou 20% se ultrapassar o teto). Os valores exatos variam por ano, mas a estrutura é a do corpus.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-008", "status": "CONFIRMADO", "evidencia": "Corpus '3 - Marca, CNPJ, MEI, ME' recomenda abertura de conta PJ. Bancos digitais brasileiros (Banco do Brasil MEI, C6 Bank, Inter Empresas, Nubank PJ) oferecem conta PJ gratuita ou de baixo custo para MEI, integrada ao CNPJ. Mercado de fato, em 2024.", "tipo": "PROTOCOLO"}
+  ],
+  "metricas": {"confirmados": 8, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:25:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "cena_id": "cap_02_cena_01",
+  "capitulo": 2,
+  "cena": 1,
+  "total_afirmacoes_extraidas": 6,
+  "total_apos_filtro": 4,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_01",
+      "afirmacao": "O curso Ecommerce do Zero 3.0 é dividido em 12 capítulos que cobrem do planejamento à escala.",
+      "tipo": "PROTOCOLO",
+      "pergunta_para_validador": "O treinamento Ecommerce do Zero 3.0 é estruturado em 12 módulos/capítulos que cobrem desde o planejamento até a escala? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado no corpus original."
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_01",
+      "afirmacao": "A jornada é dividida em três blocos: fundamentação, operação, escala/especialização.",
+      "tipo": "PROTOCOLO",
+      "pergunta_para_validador": "O Bruno organiza o método em fases sequenciais (planejamento, estrutura, audiência, vendas, atendimento, impulsão) que podem ser agrupadas em blocos lógicos de progressão? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_01",
+      "afirmacao": "O capítulo 3 é o mais denso e exige decisões sobre nicho, persona, produto, fornecedor e oferta.",
+      "tipo": "PROTOCOLO",
+      "pergunta_para_validador": "O módulo de planejamento (cap. 3) é descrito no corpus como o mais denso, onde o aluno deve definir nicho, persona, produto, fornecedor e oferta? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_01",
+      "afirmacao": "O capítulo 5 (audiência) tem participação direta da Ana Clara como instrutora.",
+      "tipo": "PROTOCOLO",
+      "pergunta_para_validador": "O módulo de Audiência conta com a participação da Ana Clara, diretora de marketing de embalagem do Ecommerce na Prática, como instrutora? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."
+    }
+  ],
+  "perguntas": [
+    {"id": "AFC-001", "pergunta_para_validador": "O treinamento Ecommerce do Zero 3.0 é estruturado em 12 módulos? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "pergunta_para_validador": "O método é dividido em fases sequenciais? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "pergunta_para_validador": "O módulo de planejamento é descrito como denso e exige decisões? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-004", "pergunta_para_validador": "O módulo de Audiência tem participação da Ana Clara? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ]
+}

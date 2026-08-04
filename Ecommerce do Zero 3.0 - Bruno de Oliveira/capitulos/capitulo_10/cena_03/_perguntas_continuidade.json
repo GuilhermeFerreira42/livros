@@ -1,0 +1,26 @@
+{
+  "cena": "10.3",
+  "categoria": "validacao_continuidade_bible_estado",
+  "perguntas": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector 'No próximo capítulo' (cena→cap), fecho variado (Toca dominar o Bling)"},
+    {"id": "p2", "tema": "Coerência com cena 10.2", "status": "APROVADO", "nota": "Triângulo mantido equilibrado pelas 4 táticas"},
+    {"id": "p3", "tema": "Fios narrativos centrais", "status": "APROVADO", "nota": "Termômetro, Triângulo, Mercado Líder preservados"},
+    {"id": "p4", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "ROAS e ciclo virtuoso vêm do corpus ML 2.0"},
+    {"id": "p5", "tema": "Conector para Cap 11", "status": "APROVADO", "nota": "'Toca dominar o Bling' prepara ERP"},
+    {"id": "p6", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p7", "tema": "Preparação para Cap 11", "status": "APROVADO", "nota": "Bling mencionado como 'engrenagem que sustenta tudo'"},
+    {"id": "p8", "tema": "Cases ou dados inconsistentes", "status": "APROVADO", "nota": "Patacori ROAS (R$ 640 → R$ 6.400) preservado"},
+    {"id": "p9", "tema": "Encerramento do Cap 10", "status": "APROVADO", "nota": "Cap 10 fechado com 4 táticas práticas"},
+    {"id": "p10", "tema": "POV mentor + 2ª pessoa", "status": "APROVADO", "nota": "Alternância correta"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [
+    "Atualizar Bible com 4 táticas avançadas do ML (Mercado Líder, Kits, Anúncios Múltiplos, Publicidade ML)",
+    "Adicionar métrica ROAS como parte do glossário"
+  ],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 10.3 ser fechada, atualizar Cena_atual para {capitulo: 11, cena: 1}",
+    "Incrementar Capitulos_concluidos para 10 (Cap 10 fechado)"
+  ],
+  "status_geral": "APROVADO"
+}

@@ -1,0 +1,19 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_TECNICO", "pergunta": "Triangulação (cliente → você → fornecedor → cliente) é explicada com clareza?", "referencia_bible": "Corpus '10 - A Verdade sobre Dropshipping'"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "Fluxo prático de 6 passos (pedido → repasse → confirmação → rastreio → suporte) é detalhado?", "referencia_bible": "Corpus '10'"},
+  {"id": "CONT-007", "categoria": "REGRA_MERCADO", "pergunta": "Regra 'transparência sobre NF do fornecedor' é explícita e justificada?", "referencia_bible": "Corpus '10'"},
+  {"id": "CONT-008", "categoria": "REGRA_MERCADO", "pergunta": "Regra de mistura (estoque + dropshipping) é justificada?", "referencia_bible": "Princípio MVP"},
+  {"id": "CONT-009", "categoria": "REGRA_MERCADO", "pergunta": "Erro 'dar desconto em dropshipping' é desconstruído?", "referencia_bible": "Princípio de margem"},
+  {"id": "CONT-010", "categoria": "CAUSALIDADE", "pergunta": "Causalidade: 10-20 unid/mês = migração para estoque próprio (margem 25% → 50%)?", "referencia_bible": "Economia de escala"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Dropshipping Nacional Homologado' é aprofundado (triangulação)?", "referencia_bible": "Fios: Dropshipping Nacional Homologado"},
+  {"id": "CONT-012", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Próxima cena (descrição, foto, vídeo) é anunciada com gancho?", "referencia_bible": "Bible Cronologia: Dias 22-35"},
+  {"id": "CONT-013", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Dropshipping (parte de Dias 22-35) é a peça correta do MVP neste momento?", "referencia_bible": "Cronologia: Dias 22-35"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa narrativa de caos/medo (cliente estranhando NF do fornecedor, vendedor com desconto zero) para evitar virar manual?", "referencia_bible": "Diretriz editorial crítica: âncoras sensoriais"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena tem fecho propulsor variado?", "referencia_bible": "Diretriz editorial: variar fechos"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular, fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-017", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

@@ -1,0 +1,133 @@
+{
+  "cena_id": "6.1",
+  "cena_anterior": "5.6 (Impulsão) — checksum 9c7788d5",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 6.1 faz ponte explícita com o Cap. 5 (audiência)?",
+      "resposta_observada": "Sim. Abertura: 'A gente fechou o capítulo cinco com a máquina de audiência rodando. Audiência-razão, persona-Claudia, canais focados, autoridade construída, jornada de compra alinhada, impulsão seletiva. E tudo isso, no final do capítulo cinco, parecia lindo. Parecia que o negócio ia fluir. E vai fluir. Mas tem uma peça que, se você não montar agora, no capítulo seis, vai transformar a sua audiência em um castelo de areia.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada na próxima cena como 'cliente que vai te procurar no WhatsApp, no Direct, no Messenger'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 6.2 (Canais de atendimento) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai mergulhar nos canais de atendimento, e vai te mostrar onde o cliente te procura, em qual canal, em qual formato, e como você organiza isso sem enlouquecer. Porque a Claudia, depois de comprar, vai te procurar no WhatsApp, no Direct, no Messenger, no marketplace, no e-mail. E ela espera, em todos esses canais, a mesma experiência.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Case Fernando é prototípico com atrito (auge→queda→recuperação)?",
+      "resposta_observada": "Sim. Fernando teve R$ 18k/mês em 2020 → queda 40% em 60 dias por 3 problemas combinados → 90 dias depois, com CX: NPS 70, recompra 18%, R$ 18k/mês com 30% mais margem.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Case Nubank é reconstruído com fidelidade ao corpus?",
+      "resposta_observada": "Sim. Citações literais: 'NoBank não só reinviou o cartão sem cobrar nenhum custoio adicional, como enviou de brinde um brinquedo para o cachorro'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Conceitos técnicos alinhados com glossário Bible v1.5?",
+      "resposta_observada": "Termos SAC, CX, NPS estão alinhados com a Bible v1.5 (conceito 'SAC vs CX' no glossário com regra rígida 'SIM').",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (atendimento é o que acontece sempre) → Analogia (Fernando auge/queda) → Analogia (Nubank) → Framework (SAC vs CX) → Protocolo (3 camadas) → Compromisso.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado. Sem menção a pipeline Greenforge ou ferramentas do sistema.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Audiência é Rei' continua (Cap 6 é o que sustenta audiência). Fio 'Cliente no Centro (CX)' é instalado como conceito-âncora do Cap 6. Fio 'Patacori como prova social' continua (citada no Cap 6).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo das próximas cenas (6.2-6.5)?",
+      "resposta_observada": "WhatsApp, Direct, Messenger, marketplace, e-mail são citados como canais que serão tratados na 6.2, sem desenvolver. Solução de conflitos (6.5) não é citado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Fernando tem auge (R$ 18k, NPS 65), queda (R$ 10.8k, NPS 18), recuperação (NPS 70, recompra 18%). Padrão atrito completo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 6 = Dias 70-80 (atendimento estruturado), conforme cronologia da Bible v1.5.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 6.1 fecha com 'Bora organizar os canais. Te vejo lá.' 'Bora' (que não era usado desde 5.1) + 'Te vejo'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'ela espera, em todos esses canais, a mesma experiência. E o desafio é entregar isso sem ter um exército de atendentes.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Fernando perdia 40% (caos) → 90 dias depois recupera com CX (solução). Nubank entrega brinquedo (solução que encanta) depois de problema (cartão comido).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Métricas externas (NPS) são introduzidas com fidelidade ao corpus?",
+      "resposta_observada": "Sim. NPS = % promotores - % detratores, com faixas do corpus. Citação literal.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-019",
+      "pergunta": "Cena 6.1 instala CX como conceito-âncora do Cap. 6?",
+      "resposta_observada": "Sim. 'Atendimento não é o que acontece quando dá errado. Atendimento é o que acontece sempre' é a tese-âncora do capítulo. As próximas cenas (6.2-6.5) operacionalizam.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-020",
+      "pergunta": "Bible v1.5 - conceito 'SAC vs CX' (regra rígida SIM) é respeitado?",
+      "resposta_observada": "Sim. Cena 6.1 instala CX como conceito central, alinhado com a Bible v1.5 que define: 'SAC = reativo, resolve problemas. CX = proativo, constrói a jornada inteira. A obra adota CX.'",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 6.1 cumpre integralmente os contratos de continuidade. Case Nubank é literal. Case Fernando é prototípico com atrito completo (auge/queda/recuperação). 3 camadas CX são plano tático coerente. NPS é literal do corpus. CX é instalado como conceito-âncora do Cap. 6. Próxima cena (6.2 Canais) pode avançar com Claudia já saturada de contexto."
+  }
+}

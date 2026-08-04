@@ -1,0 +1,93 @@
+[
+  {
+    "id": "CONT-001",
+    "categoria": "VOZ_NARRATIVA",
+    "pergunta": "A cena usa POV em 1ª pessoa do mentor (Bruno) com alternância para 2ª pessoa ('você') conforme Bible v1.4?",
+    "referencia_bible": "POV_padrao: '2ª pessoa (\"você\") com alternância controlada para 1ª pessoa do mentor (\"eu\") em histórias e casos reais'"
+  },
+  {
+    "id": "CONT-002",
+    "categoria": "VOZ_NARRATIVA",
+    "pergunta": "O tempo verbal é presente (conceitos atemporais, sensação de mentoria ao vivo) conforme Bible v1.4?",
+    "referencia_bible": "Tempo_verbal: 'Presente (conceitos atemporais; sensação de orientação ao vivo)'"
+  },
+  {
+    "id": "CONT-003",
+    "categoria": "VOZ_NARRATIVA",
+    "pergunta": "O tom é pragmático, transformador, pé no chão ('campo de batalha'), encorajador, mentor de negócios?",
+    "referencia_bible": "Tom_de_voz: 'Pragmático, transformador, pé no chão (\"campo de batalha\"), encorajador, mentor de negócios'"
+  },
+  {
+    "id": "CONT-004",
+    "categoria": "VOZ_NARRATIVA",
+    "pergunta": "A distância narrativa é de Mentor/Consultor (proximidade de mentoria particular)?",
+    "referencia_bible": "Distancia_narrativa: 'Mentor/Consultor de negócios (proximidade de mentoria particular)'"
+  },
+  {
+    "id": "CONT-005",
+    "categoria": "CONCEITO_REGRA",
+    "pergunta": "As seis etapas do método aparecem na ordem fixa: Planejamento → Estrutura → Audiência → Vendas → Atendimento → Impulsão?",
+    "referencia_bible": "Decisão editorial travada: ordem das 6 etapas é fixa. Bible: '6 Etapas do Método: Planejamento → Estrutura → Audiência → Vendas → Atendimento → Impulsão'"
+  },
+  {
+    "id": "CONT-006",
+    "categoria": "CONCEITO_DEFINICAO",
+    "afirmacao": "A meta de validação (R$ 10 mil, 100 pedidos, 90 dias) está presente e correta?",
+    "pergunta": "A cena repete a tríade R$ 10 mil / 100 pedidos / 90 dias conforme Bible?",
+    "referencia_bible": "Glossário: 'Validação: Meta concreta: R$ 10 mil em vendas + 100 pedidos em ~90 dias.'"
+  },
+  {
+    "id": "CONT-007",
+    "categoria": "FIO_NARRATIVO_SETUP",
+    "pergunta": "O fio narrativo 'Validação (R$ 10K / 100 pedidos)' é referenciado como bússola/meta do capítulo?",
+    "referencia_bible": "Fios: 'A Validação (R$ 10K / 100 pedidos)' - Tema Central, introduzido Cap. 3, payoff Cap. 9"
+  },
+  {
+    "id": "CONT-008",
+    "categoria": "FIO_NARRATIVO_SETUP",
+    "pergunta": "O fio narrativo 'Estrutura Mínima Viável' é mencionado como princípio da etapa 2?",
+    "referencia_bible": "Fios: 'Estrutura Mínima Viável' - Conceito Âncora, introduzido Cap. 4, payoff Cap. 8"
+  },
+  {
+    "id": "CONT-009",
+    "categoria": "FIO_NARRATIVO_SETUP",
+    "pergunta": "O fio narrativo 'Audiência > Conteúdo' é antecipado na etapa 3?",
+    "referencia_bible": "Fios: 'Audiência > Conteúdo' - Mudança de Paradigma, introduzido Cap. 5, payoff Cap. 8"
+  },
+  {
+    "id": "CONT-010",
+    "categoria": "PERSONAGEM_ACAO",
+    "pergunta": "Ana Clara é referida como diretora de marketing e Babi como diretora de CX?",
+    "referencia_bible": "Ana Clara: 'diretora de marketing'. Babi: 'diretora de produtos e customer experience'"
+  },
+  {
+    "id": "CONT-011",
+    "categoria": "TIMELINE_CRONOLOGIA",
+    "pergunta": "A cronologia do método (Bible: Dias 1-7 Planejamento, Dias 8-21 Estrutura, Dias 22-35 Produtos, Dias 36-60 Audiência, Dias 60-75 Vendas, Dias 70-80 Atendimento, Dias 80-90 Impulsão) é respeitada implicitamente na ordem das etapas?",
+    "referencia_bible": "Cronologia do Método na Bible v1.4"
+  },
+  {
+    "id": "CONT-012",
+    "categoria": "MITO_DESCONSTRUIDO",
+    "pergunta": "O mito 'E-commerce é para ficar rico rápido' é desconstruído (Cap. 1) e não reafirmado aqui?",
+    "referencia_bible": "Mitos: 'E-commerce é para ficar rico rápido' -> Verdade: 'Não. E-commerce é validação lenta até romper a barreira da incerteza.'"
+  },
+  {
+    "id": "CONT-013",
+    "categoria": "MITO_DESCONSTRUIDO",
+    "pergunta": "O mito 'Loja virtual própria é obrigatória para começar' é respeitado (não recomendado na validação)?",
+    "referencia_bible": "Mitos: 'Loja virtual própria é obrigatória para começar' -> Verdade: 'Não. Comece nos marketplaces. Loja virtual vem quando estiver validado.'"
+  },
+  {
+    "id": "CONT-014",
+    "categoria": "VOZ_NARRATIVA",
+    "pergunta": "A cena tem gancho de abertura forte, desenvolvimento modular (Teoria → Analogia → Campo de Batalha), e fecho propulsor para próxima cena?",
+    "referencia_bible": "Ritmo_padrao: 'Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Genero: gancho + fecho propulsor obrigatórios."
+  },
+  {
+    "id": "CONT-015",
+    "categoria": "VOZ_NARRATIVA",
+    "pergunta": "A cena termina com '## Resumo da cena' e '## Seu checklist desta cena' (formato Podbook obrigatório, sem JSON/metadados no meio do texto)?",
+    "referencia_bible": "FORMATO_CENA_PODBOOK.md: final de cada cena = '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena"
+  }
+]

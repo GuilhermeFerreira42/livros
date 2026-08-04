@@ -1,0 +1,115 @@
+{
+  "cena_id": "7.1",
+  "cena_anterior": "6.5 (Solução de conflitos) — checksum cf82d722",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 7.1 faz ponte explícita com o Cap. 6 (Atendimento)?",
+      "resposta_observada": "Sim. Abertura: 'A gente fechou o capítulo seis com a máquina de atendimento rodando. CX no paradigma, canais organizados, pré-venda ativa, pós-venda encurtando o LTV, solução de conflito com protocolo. E tudo isso, ao longo de 6 capítulos, parecia um sistema completo. E é. Mas o sistema, sem estrutura de vendas, vira um sistema que recebe leads e perde vendas.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada nas 3 camadas (atração, consideração, decisão) e na analogia da loja física.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 7.2 (Post de Conversão) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai mergulhar no post de conversão, que é a peça que mais confunde o iniciante, e que é a que mais vende quando bem feita.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Distinção venda passiva/ativa é literal do corpus?",
+      "resposta_observada": "Sim. Aula 1 define literalmente 'vendas passivas que acontecem dentro dos marketing places' e 'vendas ativas são as vendas que acontecem em rei do social'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Tese 'conteúdo sozinho não dá volume' é literal?",
+      "resposta_observada": "Sim. Citação literal: 'a tua produção de conteúdo vai gerar a venda indireta, só que essa venda indireta ela não vai ter o volume que você precisa. Para a gente conseguir vender com mais volume, a gente vai precisar fazer vendas diretas.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (venda passiva/ativa) → Analogia (loja física) → Framework (3 camadas) → Proporção (70-20-10) → Erro clássico → Mapa do Cap. 7.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Patacori como prova social' continua. Fio 'Audiência > Conteúdo' (Cap 5) continua. Fio 'CX' (Cap 6) continua. Fio 'Vendas como 4ª etapa do método' é instalado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Não antecipa conteúdo das próximas cenas?",
+      "resposta_observada": "7.2 (Post de conversão) é citada como próxima, com gancho claro. 7.3-7.6 são citadas como mapa, sem desenvolver.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Atalho: loja física que erra no funil (só vitrine sem vendedor / só vendedor sem caixa) antes do funil completo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 7 = Dias 60-75 (vendas orgânicas começam, ofertas, cross/upsell, kits, NF, expedição), conforme Bible v1.5.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 7.1 fecha com 'Te vejo lá' + frase-âncora do capítulo + 'Bora abrir a peça que mais converte'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'a peça que mais confunde o iniciante e mais vende quando bem feita'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Lojas que postam só decisão (caos) ou só atração (caos) antes do equilíbrio 70-20-10 (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Proporção 70-20-10 é construção editorial ou literal?",
+      "resposta_observada": "Construção editorial. Corpus não dá a proporção exata mas implica (vendas diretas são 1/3 do conteúdo se postar 3-4x por semana, com 1 post de venda por semana).",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 17,
+    "aprovadas": 17,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 7.1 cumpre integralmente os contratos de continuidade. 3 citações literais da Aula 1. Cases Patacori, Cleide, Patrícia são oficiais do corpus. Próxima cena (7.2 Post de Conversão) pode avançar com Claudia já saturada de contexto."
+  }
+}

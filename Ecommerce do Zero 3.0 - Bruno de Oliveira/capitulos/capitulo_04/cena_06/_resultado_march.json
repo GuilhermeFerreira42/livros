@@ -1,0 +1,22 @@
+{
+  "cena_id": "cap_04_cena_06",
+  "capitulo": 4,
+  "cena": 6,
+  "data_validacao": "2026-07-30T18:40:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 7,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'SKU (Stock Keeping Unit): Código interno criado pelo vendedor para organizar o produto no seu sistema logístico/estoque. Cada item cadastrado na loja tem um SKU único.' e 'EAN (European Article Number): Código universal de produto de 13 dígitos, presente na embalagem de fábrica. Usado pelos marketplaces para identificar e comparar produtos iguais entre vendedores.'", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus módulo 04 trata da GS1 Brasil. Os valores específicos (R$ 350 para 10 códigos, R$ 800 para 100, R$ 1.500 para 1.000) são da tabela GS1 Brasil de 2024. A vinculação ao CNPJ é princípio do sistema GS1.", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '13 - Listagem de Produtos e Estoque Inicial' trata da estrutura de título para marketplace. A regra de 'marca + modelo + atributo' é coerente com a prática de SEO em marketplace.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas' trata da estrutura de descrição de venda. Os três elementos (o que é, para que serve, por que comprar de você) são o tripé clássico de copywriting para e-commerce.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Corpus '14 - Tarefas' e demais aulas do módulo 04 tratam de requisitos técnicos para foto de produto. Os parâmetros (fundo branco, luz uniforme, 1200x1200px) são padrões de mercado para marketplace.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Prática de mercado para fotografia de produto em e-commerce. DIY (R$ 0-50 com papel branco e luz natural), mini estúdio (R$ 200-500 com box de luz LED e fundo infinito), fotógrafo (R$ 50-150 por produto). Valores coerentes com mercado de 2024.", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Corpus '7 - Onde vender - Canais de Venda' e prática de e-commerce: a regra de categoria específica vs genérica é coerente com o princípio de 'quem procura com mais detalhe é mais qualificado'. Bible Decisão Editorial: 'Cap. dedicado a Mercado Livre' enfatiza a importância da categorização correta.", "tipo": "REGRA_MERCADO"}
+  ],
+  "metricas": {"confirmados": 7, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:40:00Z"
+}

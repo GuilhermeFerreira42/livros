@@ -1,0 +1,19 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "PROTOCOLO", "pergunta": "Integração Bling + Mercado Livre é explicada passo a passo?", "referencia_bible": "Corpus '11 - Configurações Iniciais do Bling'"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "Fluxo Mercado Pago + Mercado Envios + Bling é descrito?", "referencia_bible": "Corpus '11 - Bling' + '7 - Onde vender'"},
+  {"id": "CONT-007", "categoria": "REGRA_MERCADO", "pergunta": "Regra 'não aceitar Pix por fora' é explícita e justificada?", "referencia_bible": "Mitos: venda por fora é ilegal"},
+  {"id": "CONT-008", "categoria": "REGRA_MERCADO", "pergunta": "Regra 'Mercado Envios Full só com 50+ unid/SKU/mês' é explícita?", "referencia_bible": "Corpus '10 - Mercado Livre do Zero'"},
+  {"id": "CONT-009", "categoria": "CAUSALIDADE", "pergunta": "Causalidade: over-selling = vendas duplicadas = reputação destruída é citada?", "referencia_bible": "Conceito: sincronização de estoque"},
+  {"id": "CONT-010", "categoria": "CASE_REFERENCIADO", "pergunta": "Case Patacori (300 NFs no Word → 30s no Bling, 4h/dia recuperadas) é citado com fidelidade?", "referencia_bible": "Cases: Patacori (PRIMÁRIA)"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Estrutura Mínima Viável' continua avançando (Bling, gateway, envios)?", "referencia_bible": "Fios: Estrutura Mínima Viável"},
+  {"id": "CONT-012", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Próxima cena (SKU, EAN, cadastro) é anunciada com gancho?", "referencia_bible": "Bible Cronologia: Dias 22-35"},
+  {"id": "CONT-013", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Bling, gateway e envios (Dias 8-21) são peças corretas neste momento?", "referencia_bible": "Cronologia: Dias 8-21"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa narrativa de caos (Patacori no Word) → alívio (Bling) para evitar virar manual?", "referencia_bible": "Diretriz editorial crítica: âncoras sensoriais"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena tem fecho propulsor variado?", "referencia_bible": "Diretriz editorial: variar fechos"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular, fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-017", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

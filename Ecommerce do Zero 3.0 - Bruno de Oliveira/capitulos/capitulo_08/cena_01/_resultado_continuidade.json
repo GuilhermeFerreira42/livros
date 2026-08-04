@@ -1,0 +1,36 @@
+{
+  "cena_id": "8.1",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-08-01",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_cap_7": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_8_2_conta_anuncios": "APROVADO",
+    "tese_ancora_literal": "APROVADO",
+    "case_patacori_11k_fans_literal": "APROVADO",
+    "estrategia_3_dias_literal": "APROVADO",
+    "justificativa_3_vs_7_dias_literal": "APROVADO",
+    "2_caminhos_literal": "APROVADO",
+    "investimento_571_dia_literal": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "bible_impulsao_seletiva_ancora": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 20 eixos. Pode avançar para 8.2."
+}

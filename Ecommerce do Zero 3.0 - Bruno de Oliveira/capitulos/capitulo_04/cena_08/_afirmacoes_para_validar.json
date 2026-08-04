@@ -1,0 +1,54 @@
+{
+  "cena_id": "cap_04_cena_08",
+  "capitulo": 4,
+  "cena": 8,
+  "total_afirmacoes_extraidas": 8,
+  "total_apos_filtro": 5,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_08",
+      "afirmacao": "Foto profissional + descrição reescrita do kit 7 chakras da Patacori triplicou vendas (de 15-20/mês para 60/mês), sem mudar produto, preço ou marketplace",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo de abertura: 'As vendas do kit subiram de 15-20 para 60 unidades por mês. Triplicou. Sem mudar o produto, sem mudar o preço, sem mudar o marketplace. Só mudou a vitrine.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma essa virada da Patacori com kit 7 chakras (15-20 → 60 vendas/mês via foto + descrição)?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_08",
+      "afirmacao": "Foto do produto precisa ter 3 ângulos mínimos: frente, lado e detalhe. No MVP, 3 ângulos são suficientes",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'foto do produto': 'A foto do produto tem que ter, no mínimo, três ângulos diferentes: frente, lado, e detalhe'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a regra de 3 ângulos mínimos para foto de produto no marketplace?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_08",
+      "afirmacao": "Luz natural de janela (produto a 1,5m, cortina fina branca difusora) dá resultado fotográfico profissional sem equipamento caro",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'iluminação da foto': 'Luz natural de janela, com o produto a 1,5 metro da janela, com cortina fina branca difusora, dá resultado profissional'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que luz natural de janela com cortina branca é suficiente para fotografia de produto profissional?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_08",
+      "afirmacao": "Vídeo do produto (15-30 segundos, hands-on, sem narração obrigatória) converte 3-5x mais que anúncio sem vídeo",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'vídeo do produto': 'o vídeo de 15 a 30 segundos, mostrando o produto sendo desembalado, sendo usado, sendo visto de todos os ângulos... é o que faz o cliente converter 3 a 5 vezes mais que anúncio sem vídeo'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que vídeo de produto converte 3-5x mais que anúncio sem vídeo?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_08",
+      "afirmacao": "Descrição avançada: 4 parágrafos (dor, o que é, diferencial, logística) + chamada para ação. Erro clássico é escrever para algoritmo (spam de keywords) em vez de para o cliente",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'descrição do produto avançada': 'Título em três linhas, primeiro parágrafo com a dor, segundo parágrafo com o que o produto é, terceiro parágrafo com o que diferencia, quarto parágrafo com a logística. E fecha com a chamada para a ação'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a estrutura de 4 parágrafos + CTA para descrição de produto no marketplace?"
+    }
+  ]
+}

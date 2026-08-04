@@ -1,0 +1,28 @@
+{
+  "cena": "10.3",
+  "validador": "MARCH",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {"status": "APROVADO"},
+    "D2_arena": {"status": "APROVADO"},
+    "D3_ressonancia": {"status": "APROVADO"},
+    "D4_consistencia": {"status": "APROVADO"},
+    "D5_heuristica": {"status": "APROVADO"}
+  },
+  "reverso": {"quebras_tentadas": 5, "quebras_criticas": 0},
+  "holistico": {
+    "impressao_geral": "Cena fecha Cap 10 com 4 táticas práticas: Mercado Líder, Kits, Anúncios Múltiplos, Publicidade ML. ROAS e taxa de conversão são as 2 métricas-chave. Ciclo virtuoso documentado.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 19,
+    "fatos_verificaveis": 21,
+    "casos_com_atrito": "anúncios múltiplos eliminados pelo ML",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Toca dominar o Bling",
+    "encerramento_capitulo": true,
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

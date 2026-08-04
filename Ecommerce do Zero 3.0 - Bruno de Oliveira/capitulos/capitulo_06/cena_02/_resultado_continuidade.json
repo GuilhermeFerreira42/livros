@@ -1,0 +1,35 @@
+{
+  "cena_id": "6.2",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_6_1": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_6_3_pre_venda": "APROVADO",
+    "patricori_2019_coerente": "APROVADO",
+    "whatsapp_5_funcionalidades_literais": "APROVADO",
+    "marketplaces_canonicos_bible": "APROVADO",
+    "regra_80_15_4_1_atenuada": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "ml_sigla_definida": "APROVADO",
+    "via_varejo_literal": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 20 eixos. Pode avançar para 6.3 (Pré-venda)."
+}

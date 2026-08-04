@@ -1,0 +1,36 @@
+{
+  "cena_id": "8.2",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-08-01",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_8_1": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_8_3_analise_resultados": "APROVADO",
+    "case_patacori_bm_literal": "APROVADO",
+    "cartao_virtual_literal": "APROVADO",
+    "superdigital_paypal_literal": "APROVADO",
+    "faixas_cobranca_literal": "APROVADO",
+    "limite_bruno_800_literal": "APROVADO",
+    "4_cuidados_literal": "APROVADO",
+    "bloqueio_por_robo_literal": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 20 eixos. Pode avançar para 8.3."
+}

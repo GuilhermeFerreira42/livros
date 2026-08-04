@@ -1,0 +1,18 @@
+{
+  "cena_id": "cap_02_cena_03",
+  "total_verificacoes": 5,
+  "confirmados": 5,
+  "contraditos": 0,
+  "nao_encontrados": 0,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Cena 2.3 mantém padrão: 1ª ('eu preciso te contar', 'eu não costumo contar', 'eu te conto isso', 'eu também me perdia') e 2ª em comandos ('você pode, você consegue', 'você vai precisar', 'lembre-se de uma coisa').", "categoria": "PERSONAGEM_ACAO"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Cena 2.3 reforça a persona do mentor-vulnerável coerente com Cenas 1.1, 1.2 e 1.3 (Bruno no quarto sozinho, sem rede de apoio, começou errado, teve que refazer plano). Não há quebra de persona.", "categoria": "PERSONAGEM_ESTADO"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Cena 2.3: presente atemporal, tom vulnerável ('eu repeti de ano, não entrei na faculdade na primeira tentativa') e encorajador ('você pode, você consegue'). O uso da primeira pessoa em momentos de vulnerabilidade dá peso ao tom sem quebrar a voz do mentor.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Os 3 pilares (resiliência, humildade, constância) são a operacionalização do fio central 'Validação R$ 10K / 100 pedidos / 90 dias' — esse fio exige persistência (90 dias), adaptação (mudança de plano se dado apontar) e constância (volume de 100 pedidos). Coerente com a estrutura da obra.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Cena 2.3 cumpre o objetivo. Diferencia validador de apostador, apresenta os 3 pilares, oferece caminho de aplicação (qual pilar é o mais fraco). Mudança de estado documentada no checklist.", "categoria": "OBJETIVO_CENA"}
+  ],
+  "erros": [],
+  "auditoria_cegueira": {"validador_viu_saida_escritor": false, "violacao": false},
+  "timestamp": "2026-07-27T23:09:00Z"
+}

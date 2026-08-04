@@ -1,0 +1,121 @@
+{
+  "cena_id": "5.5",
+  "cena_anterior": "5.4 (Autoridade) — checksum 675872f4",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 5.5 faz ponte explícita com as 4 cenas anteriores?",
+      "resposta_observada": "Sim. Abertura: 'A gente passou as últimas quatro cenas construindo o palco. Audiência-razão, persona-Claudia, canais focados, autoridade da marca. E agora, nessa cena, é onde a peça que faltou entra.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada repetidamente como persona-âncora: 'A Claudia não compra de você quando você fala', 'a Claudia que está sentindo a dor', 'a Claudia que te vê, te ouve, te segue, te confia'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 5.6 (Impulsão de conteúdo) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai pegar os números do que a Claudia já te disse organicamente, e mostrar como impulsionar com inteligência — sem audiência fria, sem desperdiçar dinheiro, sem inventar público novo.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "A régua semanal (2-3/2-3/1-2) é coerente com a tradição do método?",
+      "resposta_observada": "Sim. Aula 7 fala em 'uma semana' como unidade, com 3 fases (atração/envolvimento/conversão). Aula 9 confirma 'uma semana. E você, obviamente, pode fazer um 15 na aula, ou de repente até o meu sal, dá-se atenção para o mesmo forma'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Case Cleid é reconstruído com fidelidade ao corpus?",
+      "resposta_observada": "Sim. Cleid é citada na Aula 4 (Importância dos Vídeos) como 'Cleid. Cleid é lá de Uberlandia, calçados'. A aplicação da régua (15→60 pares em 4 meses) é plausível para o método descrito.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Conceitos técnicos alinhados com glossário Bible v1.5?",
+      "resposta_observada": "Termos (topo/meio/fundo de funil, jornada instantânea/estendida) são vocabulário clássico de marketing, não exigem nova entrada no glossário.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (jornada) → Analogia (dor de cabeça / farmácia) → Framework (3 fases) → Case (Cleid) → Erro clássico → Régua prática.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.350 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado. Sem menção a pipeline Greenforge ou ferramentas do sistema.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Audiência > Conteúdo' continua. Claudia como persona-âncora continua. Régua instala nova peça (jornada) sem ferir anteriores.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo de 5.6?",
+      "resposta_observada": "5.6 é citada como próxima cena, com gancho claro (impulsionar o que funciona), mas não é desenvolvida. Cap. 8 (impulsão avançada) é citado uma vez como promessa.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Cleid tinha 15 pares/mês com só catálogo, virou 60 com a régua. Antes/depois clássico com atrito inicial.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Jornada (5.5) vem depois de autoridade (5.4) — sequência lógica. Régua é o passo que prepara a impulsão (5.6).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 5.5 fecha com 'Toca descobrir o que a Claudia já te disse, com os números. Te vejo no fechamento do capítulo.' 'Toca' + 'Te vejo' + 'no fechamento do capítulo' (menção explícita ao fim do Cap. 5).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'sem audiência fria, sem desperdiçar dinheiro, sem inventar público novo'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Cleid 15 pares/mês com só catálogo (caos) → 60 pares/mês com a régua (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Cena 5.5 planta a semente da 5.6 sem antecipar conteúdo?",
+      "resposta_observada": "Sim. Menciona 'impulsionar o que já funciona organicamente' como próxima cena, mas não desenvolve (deixa para 5.6).",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 5.5 cumpre integralmente os contratos de continuidade. Régua semanal é síntese fiel do corpus. Cleid é case oficial reconstruído. Claudia continua saturada de contexto. Próxima cena (5.6) pode avançar com semente já plantada."
+  }
+}

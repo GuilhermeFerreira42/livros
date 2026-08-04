@@ -1,0 +1,27 @@
+{
+  "cena_id": "7.6",
+  "validador": "MARCH (blind)",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "afirmacoes_total": 10,
+    "aprovadas_direto": 10,
+    "aprovadas_com_ressalva": 0,
+    "reprovadas": 0,
+    "taxa_suportabilidade_percent": 100,
+    "afirmacoes_com_fonte_literal": 8,
+    "afirmacoes_com_case_ancorado": 0,
+    "construcoes_editoriais_do_metodo": 2
+  },
+  "checks_realizados": {
+    "fidelidade_voz_bruno": "APROVADO",
+    "ancoragem_caso_real": "APROVADO (Patacori, Mercado Coleta, Bling)",
+    "show_dont_tell": "APROVADO",
+    "estrutura_interna": "APROVADO",
+    "caos_antes_solucao": "APROVADO (refém da notificação → rotina)",
+    "fechos_variados": "APROVADO (fechamento de capítulo)",
+    "lei_6_zero_marketing": "APROVADO",
+    "lei_5_isolamento_pasta": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA. Pode ser consolidada como última cena do Cap. 7."
+}

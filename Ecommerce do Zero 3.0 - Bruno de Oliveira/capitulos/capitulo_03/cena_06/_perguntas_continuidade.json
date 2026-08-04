@@ -1,0 +1,18 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_DEFINICAO", "pergunta": "Conceito 'ninguém compra produto, compra oferta' está consistente com a Bible (oferta = produto + preço + condição + urgência + garantia)?", "referencia_bible": "Glossário: Cross-sell / Upsell / Down-sell"},
+  {"id": "CONT-006", "categoria": "CONCEITO_REGRA", "pergunta": "Triângulo Audiência × Estrutura × Ofertas — se um faltar, venda não acontece?", "referencia_bible": "Conceitos-chave: Triângulo do Sucesso"},
+  {"id": "CONT-007", "categoria": "CONCEITO_DEFINICAO", "pergunta": "Produto estrela definido como alto lucro + baixa competição (agulha no palheiro)?", "referencia_bible": "Glossário: produto estrela implícito"},
+  {"id": "CONT-008", "categoria": "PROTOCOLO", "pergunta": "Critérios de nota para produto estrela: lucro (margem, ticket, recorrência, cross/upsell) + competição (anúncios, fotos, descrições, avaliações)?", "referencia_bible": "Corpus '9 - Ofertas': dar nota para lucro/competitividade"},
+  {"id": "CONT-009", "categoria": "CASE_REFERENCIADO", "pergunta": "Cases Patrícia, Vitor, John citados com fidelidade?", "referencia_bible": "Corpus '9 - Ofertas' detalha os 3 cases"},
+  {"id": "CONT-010", "categoria": "CONCEITO_TECNICO", "pergunta": "Alta demanda (procuram: Nike, HP) → Marketplace; Baixa demanda (novidade) → loja virtual própria?", "referencia_bible": "Corpus '8 - Gerador ou Atendedor de Demanda'"},
+  {"id": "CONT-011", "categoria": "PROTOCOLO", "pergunta": "Anatomia da oferta (10 elementos) é apresentada?", "referencia_bible": "Glossário: cross-sell, kits, NF"},
+  {"id": "CONT-012", "categoria": "REGRA_MERCADO", "pergunta": "Regra: testa no orgânico, só impulsiona o que converte?", "referencia_bible": "Impulsão Seletiva"},
+  {"id": "CONT-013", "categoria": "MECANISMO", "pergunta": "Impulsão amplia, não cria; se não vende orgânico, problema é produto/oferta/persona?", "referencia_bible": "Corpus '1': Impulsão amplia, não cria"},
+  {"id": "CONT-014", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Próximo capítulo (Cap. 4): Estrutura Mínima Viável (MVP) com CNPJ, Bling, marketplaces, SKU/EAN?", "referencia_bible": "Cronologia: Dias 8-21 / 22-35"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular, fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

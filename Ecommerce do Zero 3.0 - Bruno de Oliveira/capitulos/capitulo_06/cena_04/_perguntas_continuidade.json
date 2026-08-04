@@ -1,0 +1,121 @@
+{
+  "cena_id": "6.4",
+  "cena_anterior": "6.3 (Pré-venda) — checksum fa7449d4",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 6.4 faz ponte explícita com 6.3 (Pré-venda)?",
+      "resposta_observada": "Sim. Abertura: 'A gente entrou na pré-venda (cena 6.3), e a gente viu como conduzir a Claudia até o clique. E o clique aconteceu. E o Pix caiu. E agora, meu amigo, é onde 95% dos vendedores cometem o erro mais caro do e-commerce.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada repetidamente: 'a Claudia some', 'a Claudia que não volta', 'a Claudia que não recebe nada'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 6.5 (Solução de conflitos) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai usar o case do Fernando (o que NÃO fazer), e o case do Nubank (o que SIM fazer) pra mostrar como resolver um problema sem perder a Claudia, e às vezes até fortalecendo a relação. Vamos ver como transformar crise em oportunidade.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Case Beatriz é prototípico com atrito completo?",
+      "resposta_observada": "Sim. Auge (R$ 30k dez/2021) → queda (R$ 0 jan/2022, 0% recompra) → recuperação (R$ 25-30k/mês, 28% recompra, LTV R$ 75 → R$ 280 em 6 meses).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "4 momentos do pós-venda ativo são sínteses fiéis do corpus?",
+      "resposta_observada": "Sim. Aula 4 fala explicitamente de: D+1 (se apresentar, código de rastreio), D+3-7 (checar se recebeu), D+15-20 (pedir feedback/prova social), D+30-45 (pedir recomendação/segunda compra).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Benchmarks (40-60% depoimento, 15-25% recompra) estão atenuados?",
+      "resposta_observada": "Sim. Texto diz 'da nossa experiência' e 'dependendo do nicho'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Tese (venda começa no Pix) → Analogia (Beatriz) → Protocolo (4 momentos) → Erros clássicos.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.400 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'CX' (Cap 6) continua. Fio 'Patacori' continua (implícito). Fio 'Audiência > Conteúdo' ecoa. Cases Fernando e Nubank (6.1) são referenciados como gancho para 6.5.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo de 6.5?",
+      "resposta_observada": "6.5 (Solução de conflitos) é citada como próxima cena, com gancho claro usando cases Fernando (NÃO fazer) e Nubank (SIM fazer), mas não é desenvolvida.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Beatriz: auge → queda 100% (R$ 0) → recuperação 28% recompra.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 6 = Dias 70-80 (atendimento). 6.4 (Pós-venda) é a segunda metade do atendimento ativo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 6.4 fecha com 'Te vejo lá.' Variação com 'Vamos ver como transformar crise em oportunidade'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'transformar crise em oportunidade'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Beatriz R$ 0 de recompra (caos) → R$ 30k/mês com pós-venda ativo (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Frases-âncora da cena são memoráveis?",
+      "resposta_observada": "Sim. 'A venda não acaba quando o Pix cai. A venda começa quando o Pix cai' / 'cada cliente perdido é um cliente que você vai ter que repor com CPA alto' / 'o pós-venda ativo muda o negócio de transacional pra relacional'.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 6.4 cumpre integralmente os contratos de continuidade. Case Beatriz é prototípico com atrito completo (auge/queda/recuperação). 4 momentos do pós-venda são síntese estruturada do corpus. Próxima cena (6.5 Solução de conflitos) pode avançar com cases Fernando e Nubank já plantados."
+  }
+}

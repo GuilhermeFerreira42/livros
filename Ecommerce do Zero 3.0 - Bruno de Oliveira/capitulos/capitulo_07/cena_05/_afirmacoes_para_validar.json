@@ -1,0 +1,93 @@
+{
+  "cena_id": "7.5",
+  "titulo": "Nota fiscal na prática: emitindo pelo Bling",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "Sem NF, o kit não pode ser vendido oficialmente. Sem o Bling, a NF vira inferno operacional. NF é a peça que sustenta a operação inteira.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'nota fiscal como é metinota fiscal pelo bling' + 'Tudo que você pensava saber em relação ao mercado Lives Bling, está nesse vídeo')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central da cena"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "TESE",
+      "afirmacao": "2 caminhos de NF no Mercado Livre: (1) direto pelo ML; (2) pelo Bling. Bruno prefere o Bling (centralizado).",
+      "fonte_no_corpus": "transcrição literal Aula 6 - 'eu poderia emitir essa nota fiscal aqui pelo mercado livre, conseguiria emitir aqui por dentro do mercado livre adicionando dados de schicás e por aí vai. Só que acontece, dá mais trabalho e não é o ideal, o ideal é fazer isso pelo bling. Mesmo inserindo aqui o certificado digital, eu prefiro fazer isso por dentro do bling.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "6 passos: (1) Comprar certificado digital A1 (R$ 80-150/ano, .pfx); (2) Cadastrar no Bling; (3) Configurar CFOP (6.102 intra, 6.202 inter); (4) Configurar NCM dos produtos; (5) Emitir NF direto do pedido; (6) Sincronizar com status de pagamento.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 6 (que detalha cada passo na prática)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Protocolo tático coerente com o corpus"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "DADO",
+      "afirmacao": "Certificado digital A1 custa R$ 80-150/ano (Certisign, Serasa, Valid). A3 custa R$ 200-300/ano (token físico).",
+      "fonte_no_corpus": "construção editorial baseada na cena 4.3 do Cap. 4 (que já apresenta o custo de R$ 80-150 para A1) + coerente com o corpus",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Faixa plausível; coerente com a cena 4.3"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "DADO",
+      "afirmacao": "CFOP 6.102 (intra-estadual), 6.202 (interestadual). Configurado por contador no Bling.",
+      "fonte_no_corpus": "construção editorial baseada em conhecimento fiscal padrão brasileiro (CFOPs corretos) + coerente com a lógica do corpus (que menciona 'configurar tributação')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "CFOPs corretos por convenção fiscal"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "TESE",
+      "afirmacao": "NCM errado = NF rejeitada = pedido parado = cliente sem rastreio = termômetro do ML desce. Cadastrar NCM correto antes de começar a vender.",
+      "fonte_no_corpus": "transcrição literal Aula 6 - 'Por que? Podendo que o NCM está em válido. O NCM é um código fiscal do produto e realmente está. O que a gente pode fazer para corrigir isso? Calera tive que recorrer os universitários, Google... Não vocês não vão ter esse tipo de problema.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "TESE",
+      "afirmacao": "NF centralizada no Bling: pedido aprovado → NF emitida → etiqueta liberada → produto embalado → despacho → rastreio → status atualizado no ML. Substitui 4h/dia de trabalho manual.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 9 (que detalha o fluxo completo 'pedido de venda → nota fiscal → etiqueta → remessa → expedição')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o método"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "3 erros fatais: (1) Vender sem NF (crime tributário); (2) Cadastrar NCM errado (NF rejeitada, pedido parado, termômetro cai); (3) Emitir NF pelo marketplace (perde controle centralizado, operação vira Frankenstein).",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que detalha cada erro)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "TESE",
+      "afirmacao": "NF pelo Bling libera a etiqueta de envio. NF rejeitada (NCM errado, dados incompletos) trava etiqueta e pedido.",
+      "fonte_no_corpus": "transcrição literal Aula 6 - 'Só que essa aqui acabou de ser feita... Eu não consigo. Não existe aqui, está vendo? A opção de informar de imprimir essa etiqueta. Por quê? Porque ele está travando. Como estamos no mercado em vius coleta, eu só consigo liberar a etiqueta depois de emitir a nota.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "TESE",
+      "afirmacao": "Bling como ERP central: 'na hora de cadastrar um produto, você cadastro o produto no bling, você exporta para os marketing places. Fez uma venda no marketplace, a venda bate no bling, a atualização de stock vai para os outros marketing places.' (citação literal da Aula 9)",
+      "fonte_no_corpus": "transcrição literal Aula 9 - 'na hora de cadastrar um produto, você cadastro o produto no bling, você exporta para os marketing places. Fez uma venda no marketplace, a venda bate no bling, a atualização de stock vai para os outros marketing places.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 7.5 é densa e fiel ao corpus. 4 citações literais (AFC-002 Bruno prefere Bling, AFC-006 NCM errado, AFC-009 etiqueta travada, AFC-010 Bling como ERP central). 6 passos práticos são síntese estruturada. 3 erros fatais são coerentes com a tese. CFOPs 6.102/6.202 são corretos por convenção fiscal."
+  }
+}

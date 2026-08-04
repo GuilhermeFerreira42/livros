@@ -1,0 +1,17 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_TECNICO", "pergunta": "Diferença entre foto, descrição e vídeo como peças da vitrine é clara?", "referencia_bible": "Glossário: produto"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "Avanços em foto (3 ângulos), iluminação (luz janela) e vídeo (15-30s) são práticos?", "referencia_bible": "Corpus '13 - Listagem de Produtos' + '14 - Tarefas'"},
+  {"id": "CONT-007", "categoria": "PROTOCOLO", "pergunta": "Descrição avançada (4 parágrafos + CTA) é detalhada com exemplo do kit 7 chakras?", "referencia_bible": "Corpus '9 - Ofertas'"},
+  {"id": "CONT-008", "categoria": "CASE_REFERENCIADO", "pergunta": "Case Patacori (kit 7 chakras, 15-20 → 60 vendas/mês) é citado com fidelidade?", "referencia_bible": "Cases: Patacori (PRIMÁRIA)"},
+  {"id": "CONT-009", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Estrutura Mínima Viável' é FECHADO (capítulo 4 completo)?", "referencia_bible": "Fios: Estrutura Mínima Viável - payoff Cap. 8"},
+  {"id": "CONT-010", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Audiência é Rei' é ANTECIPADO (próximo capítulo)?", "referencia_bible": "Fios: Audiência > Conteúdo - introduzido Cap. 5"},
+  {"id": "CONT-011", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Capítulo 4 (Dias 8-21) é fechado completamente?", "referencia_bible": "Cronologia: Dias 8-21"},
+  {"id": "CONT-012", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa narrativa de caos/medo (foto de celular, descrição técnica, cliente clicando no concorrente) para evitar virar manual?", "referencia_bible": "Diretriz editorial crítica: âncoras sensoriais"},
+  {"id": "CONT-013", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena tem fecho propulsor variado (não só 'Bora')?", "referencia_bible": "Diretriz editorial: variar fechos"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena é a última do capítulo e tem fecho de capítulo (não só de cena)?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

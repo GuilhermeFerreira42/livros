@@ -1,0 +1,127 @@
+{
+  "cena_id": "7.5",
+  "cena_anterior": "7.4 (Kits) — checksum 84c6d25a",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 7.5 faz ponte explícita com 7.4?",
+      "resposta_observada": "Sim. Abertura: 'A gente fechou a cena passada vendo os kits, a alavanca passiva do ticket médio. E o case da Patacori, com o incenso indo de R$ 30 pra R$ 300, mostrou que kit é a forma mais elegante de multiplicar o valor por pedido sem multiplicar cliente.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada como cliente que recebe NF, com garantia legal, rastreio.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 7.6 (Gestão de pedidos) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai entrar na gestão de pedidos, horário de corte, e expedição — que é a peça que organiza o dia a dia da operação, e que faz a engrenagem inteira rodar sem virar caos. E sem horário de corte, o iniciante vira escravo do próprio negócio.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Bruno prefere Bling para NF é literal?",
+      "resposta_observada": "Sim. Citação literal: 'Mesmo inserindo aqui o certificado digital, eu prefiro fazer isso por dentro do bling.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Case NCM errado é literal?",
+      "resposta_observada": "Sim. Citação literal: 'Por que? Podendo que o NCM está em válido. O NCM é um código fiscal do produto e realmente está. O que a gente pode fazer para corrigir isso? Calera tive que recorrer os universitários, Google.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Etiqueta travada por NF é literal?",
+      "resposta_observada": "Sim. Citação literal: 'eu só consigo liberar a etiqueta depois de emitir a nota.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Bling como ERP central é literal?",
+      "resposta_observada": "Sim. Citação literal: 'na hora de cadastrar um produto, você cadastro o produto no bling, você exporta para os marketing places. Fez uma venda no marketplace, a venda bate no bling, a atualização de stock vai para os outros marketing places.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (NF sustenta operação) → 2 caminhos (analogia ML vs Bling) → 6 passos (campo de batalha) → 3 erros.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.400 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Bling ERP canônico' (Bible) continua. Fio 'Patacori' continua. Fio 'Vendas' (4ª etapa) continua. Fio 'NF obrigatória para ME' (Bible regra rígida) continua.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Não antecipa conteúdo da próxima cena?",
+      "resposta_observada": "7.6 (Gestão de pedidos) é citada como próxima, com gancho claro (horário de corte, expedição), mas não é desenvolvida.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Bruno com NCM errado (NF rejeitada) antes de aprender a configurar.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 7 = Dias 60-75. 7.5 (NF) é a quinta cena, sequencial lógica.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 7.5 fecha com 'Toca organizar a rotina.' Variação curta e impactante.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'sem horário de corte, o iniciante vira escravo do próprio negócio'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Bruno com NCM errado, NF rejeitada, etiqueta travada (caos) antes da solução do Bling com CFOP+NCM+fluxo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-019",
+      "pergunta": "Coerência com cena 4.3 (certificado digital R$ 80-150 A1) e 4.5 (Bling ERP R$ 50-100/mês) é mantida?",
+      "resposta_observada": "Sim. Certificado A1 R$ 80-150 mantido. Bling como ERP central mantido.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 7.5 cumpre integralmente os contratos de continuidade. 4 citações literais (Bruno prefere Bling, NCM errado, etiqueta travada, Bling como ERP central). 6 passos práticos são síntese coerente. 3 erros fatais são construções alinhadas. Próxima cena (7.6 Gestão de pedidos) pode avançar."
+  }
+}

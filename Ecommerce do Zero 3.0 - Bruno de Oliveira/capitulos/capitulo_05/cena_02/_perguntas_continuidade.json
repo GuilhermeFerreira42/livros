@@ -1,0 +1,115 @@
+{
+  "cena_id": "5.2",
+  "cena_anterior": "5.1 (Audiência é rei) — checksum da664f9a",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 5.2 faz ponte explícita com a 5.1?",
+      "resposta_observada": "Sim. 'a gente abriu o capítulo cinco mostrando por que audiência virou rei, e a pergunta que fica, depois daquela aula, é a seguinte. Tá. Mas pra quem eu falo?' — gancho direto.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "A Claudia é introduzida com fidelidade ao corpus?",
+      "resposta_observada": "Sim. Todos os atributos da Claudia (32, advogada, casada, mãe, espiritual, medita, lê, gosta de natureza) são da transcrição literal da Aula 3.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 5.3 (Canais de conteúdo) é claro e emocional?",
+      "resposta_observada": "Sim. 'onde ela está? Em qual rede social ela passa mais tempo? Em qual horário? Em qual formato?'. Também: 'Toca descobrir onde mora a sua persona no digital. Te vejo lá.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "A Claudia é plantada como persona que vai aparecer nas próximas cenas?",
+      "resposta_observada": "Sim, explicitamente: 'a gente vai usar a Claudia, a persona da Patacori, ao longo de todo o capítulo cinco, como exemplo. Você vai ver a Claudia aparecendo na cena de canais, na cena de autoridade, na cena de jornada, e na cena de impulsão.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Personagens novos (Marcos, Ricardo) são ancorados minimamente?",
+      "resposta_observada": "Sim. Marcos é 'um aluno' (anônimo pedagógico), com loja de suplementos. Ricardo é a persona construída por ele, fictícia dentro do case fictício.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Conceitos técnicos alinhados com glossário Bible v1.5?",
+      "resposta_observada": "Não há termos técnicos novos. Persona, público-alvo, persona-para-conteúdo são construções editoriais que não exigem entrada no glossário.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (pessoa ≠ público) → Analogia (Claudia + Marcos/Ricardo) → Campo de Batalha (5 passos práticos).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.250 palavras. Dentro do target (1.700-2.200, com pequena folga).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado. Citação à Babi (sócio real do Bruno, citado no corpus) e Ana Clara (citada no corpus) — sem inventar personas.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Audiência > Conteúdo' continua. Patacori como prova social continua. Persona como conceito-âncora é instalado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo das próximas cenas?",
+      "resposta_observada": "Antecipa o uso da Claudia como exemplo, mas não desenvolve canais, autoridade, jornada, impulsão.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito (fracasso antes do sucesso) respeitados?",
+      "resposta_observada": "Sim. Marcos começa em fracasso (R$ 3k, 1.200 seguidores, 1% engajamento) e só vira com a persona Ricardo. Patacori tinha persona vaga e conteúdo medíocre antes de construir a Claudia.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Persona é construída ANTES de canais (5.3) e antes de conteúdo — sequência lógica do método.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do 'Bora' da cena 5.1?",
+      "resposta_observada": "Sim. Cena 5.1 fechou com 'Bora descobrir pra quem você fala, de verdade. Te vejo na próxima cena.' Cena 5.2 fecha com 'Toca descobrir onde mora a sua persona no digital. Te vejo lá.' — 'Toca' + 'Te vejo', variação.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional, não mecânico?",
+      "resposta_observada": "Sim. Pergunta retórica ('em qual rede social ela mora, em qual horário, em qual formato?') cria curiosidade.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Patacori tinha persona vaga e conteúdo medíocre. Marcos tinha persona técnica e resultado medíocre. Só depois da construção da persona veio a solução.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 17,
+    "aprovadas": 17,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 5.2 cumpre integralmente os contratos de continuidade. Claudia é instalada como persona-âncora que vai percorrer todo o Cap. 5. Marcos/Ricardo atende a diretriz 'cases com atrito'. 5 passos práticos são síntese fiel do corpus. Fecho varia de 'Bora' para 'Toca'. Próxima cena (5.3) pode avançar com Claudia já plantada."
+  }
+}

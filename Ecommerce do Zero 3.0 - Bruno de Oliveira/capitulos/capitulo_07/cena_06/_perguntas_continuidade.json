@@ -1,0 +1,127 @@
+{
+  "cena_id": "7.6",
+  "cena_anterior": "7.5 (NF Bling) — checksum 97ac8c45",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 7.6 faz ponte explícita com 7.5?",
+      "resposta_observada": "Sim. Abertura: 'A gente fechou a cena passada vendo como emitir NF pelo Bling, com certificado digital, com NCM correto, com fluxo automatizado. E tudo isso, ao longo das 5 cenas anteriores, parecia um sistema bem amarrado. E é. Mas o sistema, sem gestão de pedidos, sem horário de corte, sem rotina de expedição, vira um sistema que gera venda e gera caos ao mesmo tempo.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada como cliente que recebe NF, etiqueta, rastreio, e como cliente que faz pergunta de ML que pula a fila.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para o Cap. 8 (Impulsão estratégica) é claro e emocional?",
+      "resposta_observada": "Sim. 'vamos pegar o que já funciona e amplificar' + 'anunciar SÓ o que já funciona organicamente' (tese-âncora do Cap. 8).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Cases oficiais do corpus (Bling, Mercado Coleta) são protegidos?",
+      "resposta_observada": "Sim. Bling como ERP central é literal (Aula 9). Mercado Coleta é literal (Aula 7). 10min por pedido é literal (Aula 7).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Tese 'refém da notificação' é literal?",
+      "resposta_observada": "Sim. Citação literal: 'Você está toda hora saindo do foco para fazer uma outra coisa. Você não tem uma rotina, clara para seguir.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Pergunta de ML é a única que pula fila?",
+      "resposta_observada": "Sim. Citação literal: 'a pergunta do mercado livre é a única coisa que você pula na frente de tudo. Porque a pergunta do mercado livre é estratégica para você vender.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "2h antes da coleta é literal?",
+      "resposta_observada": "Sim. Citação literal: 'Dois horas antes da saída, para o correio, para a cidade da coleta. Você vai parar para embalar. Dois horas antes. Vai embalar tudo de uma vez só.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (sem gestão = caótico) → 3 peças → Rotina completa → 3 erros → Fechamento do Cap. 7.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes. Fechamento de capítulo é explícito.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Bling ERP canônico' (Bible) continua. Fio 'Patacori' continua. Fio 'Vendas' (4ª etapa) FECHADO. Fio 'Impulsão Seletiva' (Bible) é plantado para o Cap. 8.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Não antecipa conteúdo do Cap. 8?",
+      "resposta_observada": "Cap. 8 (Impulsão) é citado como próximo, com gancho claro (anunciar SÓ o que já funciona organicamente), mas não é desenvolvido.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Atalho: iniciante sem rotina (caos) antes da rotina 3+3 (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 7 = Dias 60-75. 7.6 (Gestão de pedidos) é a sexta e última cena do Cap 7, sequencial lógica.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 7.6 fecha com fechamento de capítulo + gancho para o Cap. 8. Variação com recapitulação do Cap. 7 inteiro.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Conector cena→próximo capítulo é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'vamos pegar o que já funciona e amplificar'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Refém da notificação sem rotina (caos) antes da rotina 3 janelas + 3 blocos (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-019",
+      "pergunta": "Frases-âncora da cena são memoráveis?",
+      "resposta_observada": "Sim. 'Você está toda hora saindo do foco para fazer uma outra coisa. Você não tem uma rotina, clara para seguir.' / 'a rotina é o que separa quem escala de quem fica preso no operacional' / 'sem horário de corte, o iniciante vira escravo do próprio negócio'.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 7.6 fecha o Cap. 7 com chave de ouro. 8 citações literais (a cena mais literal do Cap. 7). Rotina completa do dia é síntese coerente. 3 erros fatais são construções alinhadas. Próximo capítulo (8 Impulsão) pode avançar com a tese-âncora já plantada."
+  }
+}

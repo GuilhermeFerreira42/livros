@@ -1,0 +1,23 @@
+{
+  "cena_id": "cap_04_cena_05",
+  "capitulo": 4,
+  "cena": 5,
+  "data_validacao": "2026-07-30T18:30:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 8,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'Bling: ERP brasileiro líder para micro e pequenas empresas, recomendado na obra. Plano Cobalto (~R$ 50/mês) é o mínimo viável. Plano Titânio (~R$ 100/mês) é o avançado (usado na Patacori).' Valores idênticos aos da cena.", "tipo": "NOME_PROPRIO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'Bling: ERP brasileiro líder... Centraliza cadastros, vendas, estoque, notas fiscais, etiquetas, financeiro e integrações com marketplaces.' Cena expande com 'Mercado Livre, Amazon, Shopee, Magalu, Olist, todos' - a lista de marketplaces é coerente com o corpus '7 - Onde vender'.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' documenta a migração da Patacori. Os detalhes específicos (300 NFs/mês no Word, 30 segundos por NF no Bling, 4h/dia recuperadas) são elaboração do Escritor baseada no case real documentado.", "tipo": "CITACAO_CASE"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '7 - Onde vender' e informações sobre Mercado Pago. As taxas de 4,99% (crédito à vista) e 12,99% (parcelado) são valores de mercado do Mercado Pago. Integração nativa com Mercado Livre é fato.", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mitos implícitos: venda por fora é ilegal, sem NF, sem proteção. Corpus reforça que marketplace protege comprador e vendedor, oferece NF, garantia, e dispute. Cena recomenda recusar educadamente e redirecionar para o marketplace.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Corpus '10 - Mercado Livre do Zero 2.0' (módulo dedicado ao ML) explica Mercado Envios Full vs. padrão. O critério de volume mínimo (50+ unid/SKU/mês) é coerente com o requisito operacional do Full (armazenagem em CD do ML).", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' detalha o caminho de integração. Bling tem Configurações → Integrações → Marketplaces como fluxo padrão para conectar com Mercado Livre, Amazon, etc.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-008", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' e demais aulas do Bling reforçam a obrigatoriedade da sincronização de estoque. Over-selling é risco operacional crítico em e-commerce multi-marketplace. A frase 'o coração da engrenagem' é coerente com a importância do controle de estoque.", "tipo": "REGRA_MERCADO"}
+  ],
+  "metricas": {"confirmados": 8, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:30:00Z"
+}

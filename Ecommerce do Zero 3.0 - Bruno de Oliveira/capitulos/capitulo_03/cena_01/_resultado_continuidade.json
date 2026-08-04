@@ -1,0 +1,113 @@
+{
+  "cena_id": "cap_03_cena_01",
+  "capitulo": 3,
+  "cena": 1,
+  "data_validacao": "2026-07-30T17:25:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {
+    "log_prompt_contem_saida_escritor": false,
+    "violacao": false
+  },
+  "total_verificacoes": 15,
+  "resultados": [
+    {
+      "id": "CONT-001",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'POV_padrao: 2ª pessoa (\"você\") com alternância controlada para 1ª pessoa do mentor (\"eu\") em histórias e casos reais'. Cena: 'E aí, tudo bem?' (mentor 1ª) + 'você vai', 'se você pular' (2ª); 'eu não tinha método' (mentor 1ª); 'a Ana Clara vai te dar' (2ª).",
+      "categoria": "VOZ_NARRATIVA"
+    },
+    {
+      "id": "CONT-002",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'Tempo_verbal: Presente (conceitos atemporais; sensação de orientação ao vivo)'. Cena: 'chega', 'para', 'coloca', 'define', 'existe', 'é', 'garante', 'custa' — tudo no presente.",
+      "categoria": "VOZ_NARRATIVA"
+    },
+    {
+      "id": "CONT-003",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'Tom_de_voz: Pragmático, transformador, pé no chão (\"campo de batalha\"), encorajador, mentor de negócios'. Cena: 'sem exagero, o capítulo mais denso', 'pega o caderno', 'pular etapa, no e-commerce, custa caro'.",
+      "categoria": "VOZ_NARRATIVA"
+    },
+    {
+      "id": "CONT-004",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'Distancia_narrativa: Mentor/Consultor de negócios (proximidade de mentoria particular)'. Cena: 'Deixa eu te contar', 'eu vou te entregar', 'te vejo na próxima cena'.",
+      "categoria": "VOZ_NARRATIVA"
+    },
+    {
+      "id": "CONT-005",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: '6 Etapas do Método: Planejamento → Estrutura → Audiência → Vendas → Atendimento → Impulsão'. Cena lista exatamente nessa ordem, parágrafos 3-8 (Primeira, Segunda, Terceira, Quarta, Quinta, Sexta etapa).",
+      "categoria": "CONCEITO_REGRA"
+    },
+    {
+      "id": "CONT-006",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Glossário: 'Validação: Meta concreta: R$ 10 mil em vendas + 100 pedidos em ~90 dias.' Cena: 'Dez mil reais em vendas. Cem pedidos. Noventa dias. Cada etapa do método existe para te levar até lá.'",
+      "categoria": "CONCEITO_DEFINICAO"
+    },
+    {
+      "id": "CONT-007",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Fios: 'A Validação (R$ 10K / 100 pedidos)' - Tema Central, introduzido Cap. 3, payoff Cap. 9. Cena: 'Lembra dos três números? Dez mil reais em vendas. Cem pedidos. Noventa dias. Cada etapa do método existe para te levar até lá.'",
+      "categoria": "FIO_NARRATIVO_SETUP"
+    },
+    {
+      "id": "CONT-008",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Fios: 'Estrutura Mínima Viável' - Conceito Âncora, introduzido Cap. 4. Cena: 'Tudo o que precisa para a operação rodar, sem excesso, sem queimar dinheiro. Essa é a estrutura de validação. Não é a estrutura definitiva. É a estrutura para testar.' (antecipa o conceito).",
+      "categoria": "FIO_NARRATIVO_SETUP"
+    },
+    {
+      "id": "CONT-009",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Fios: 'Audiência > Conteúdo' - Mudança de Paradigma, introduzido Cap. 5. Cena: 'Você não vende para algoritmo. Você vende para gente. E gente compra de quem confia. [...] gerar demanda para o seu produto ANTES de você gastar um real com anúncio.' (antecipa o paradigma).",
+      "categoria": "FIO_NARRATIVO_SETUP"
+    },
+    {
+      "id": "CONT-010",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'Ana Clara Magalhães é a nossa diretora de marketing de embalagem... A Babi é a nossa diretora de produtos e customer experience'. Cena: 'A Ana Clara, nossa diretora de marketing' / 'A Babi, nossa diretora de CX'.",
+      "categoria": "PERSONAGEM_ACAO"
+    },
+    {
+      "id": "CONT-011",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Cronologia: 'Dias 1–7 Planejamento, Dias 8–21 Estrutura, Dias 22–35 Produtos, Dias 36–60 Audiência, Dias 60–75 Vendas, Dias 70–80 Atendimento, Dias 80–90 Impulsão'. Cena respeita a ordem sequencial das 6 etapas; 'Enquanto você monta a estrutura, já pode ir pesquisando fornecedor' mostra sobreposição Cronologia.",
+      "categoria": "TIMELINE_CRONOLOGIA"
+    },
+    {
+      "id": "CONT-012",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Mitos: 'E-commerce é para ficar rico rápido' -> 'Não. E-commerce é validação lenta até romper a barreira da incerteza.' Cena: 'Eu não vou te prometer que você vai ficar rico em trinta dias... existe um caminho... começa agora, nesta aula, com você sentado onde está' (Cap. 1.1 é re-aproveitado em alusão). Aqui a régua dos 90 dias reforça: 'Quem tenta validar em trinta dias pula etapa. Quem pula etapa, a gente já sabe: gasta mais, vende menos, desiste antes da hora.'",
+      "categoria": "MITO_DESCONTRUIDO"
+    },
+    {
+      "id": "CONT-013",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Mitos: 'Loja virtual própria é obrigatória para começar' -> 'Não. Comece nos marketplaces. Loja virtual vem quando estiver validado.' Cena etapa 2: 'Marketplace — Mercado Livre, Amazon, Olist, Enjoei, Elo7, Elu7, onde sua persona compra.' Loja virtual NÃO listada na estrutura de validação.",
+      "categoria": "MITO_DESCONSTRUIDO"
+    },
+    {
+      "id": "CONT-014",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Cena: Teoria (6 etapas definidas) → Analogia/Campo de Batalha (exemplos práticos, 'Eu já vi gente...', 'pular etapa custa caro', 'ciclo de validação') → Fecho propulsor ('Te vejo na próxima cena. Bora planejar.'). Gancho abertura: 'este é, sem exagero, o capítulo mais denso de todo o treinamento'.",
+      "categoria": "VOZ_NARRATIVA"
+    },
+    {
+      "id": "CONT-015",
+      "status": "CONFIRMADO",
+      "evidencia": "FORMATO_CENA_PODBOOK.md exige '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem exatamente essas 3 seções no final, sem JSON/metadados no meio do texto.",
+      "categoria": "VOZ_NARRATIVA"
+    }
+  ],
+  "metricas": {
+    "confirmados": 15,
+    "contraditos": 0,
+    "nao_encontrados": 0,
+    "taxa_confirmacao": 1.0
+  },
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T17:25:00Z"
+}

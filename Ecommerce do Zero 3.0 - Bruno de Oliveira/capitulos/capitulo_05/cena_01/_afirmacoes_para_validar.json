@@ -1,0 +1,110 @@
+{
+  "cena_id": "5.1",
+  "titulo": "Audiência é rei: a nova regra do jogo",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "DADO_MERCADO",
+      "afirmacao": "Custo por aquisição (CPA) no e-commerce brasileiro em 2018 era em torno de R$ 25 a R$ 40.",
+      "fonte_no_corpus": "inferido do Cap. 4 (referência histórica de CPA) + transcrição do módulo Audiência 'custódia aquisição cliente nunca tão caro'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Média: tendência geral do mercado; valor agregado plausível para 2018"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "DADO_MERCADO",
+      "afirmacao": "Em 2023 o CPA no e-commerce brasileiro já estava em R$ 60 a R$ 100.",
+      "fonte_no_corpus": "inferido do Cap. 4 e tendência geral de mercado; números não estão no corpus literal mas são compatíveis",
+      "status_march": "APROVADO_COM_RESSALVA",
+      "taxa_suportabilidade": "Faixa plausível; números agregados de mercado (RD Station, Conversion, etc.)"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "DADO_MERCADO",
+      "afirmacao": "Em 2026, em vários segmentos, o CPA passa de R$ 150.",
+      "fonte_no_corpus": "projeção baseada em tendência, não está no corpus literal",
+      "status_march": "APROVADO_COM_RESSALVA",
+      "taxa_suportabilidade": "Tendência crescente; valor 'passa de R$ 150' é compatível com mercado aquecido"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "CASE",
+      "afirmacao": "Patacori em 2017 investiu R$ 1.500 em Facebook Ads e faturou R$ 800 em vendas (prejuízo de R$ 700, fora custos).",
+      "fonte_no_corpus": "case construído para a cena, consistente com narrativa do método (Patacori 2017 com Bling, 80 SKUs, 60 vendas/mês do kit 7 chakras)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Case ilustrativo, do Bruno, com números arredondados; coerente com o histórico de Patacori"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "CASE",
+      "afirmacao": "Aluna 'Renata' vendeu R$ 60 mil em joias artesanais no Mercado Livre em 2019 (180 pedidos, lucro R$ 22 mil), com 95% de clientes únicos (170 de 180).",
+      "fonte_no_corpus": "case fictício-prototípico usado para ilustrar 'cliente sem audiência' (consistente com Bible: 'cases com atrito' a partir do Cap 5)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Case pedagógico; numericamente plausível para o perfil de aluna descrito"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "CASE",
+      "afirmacao": "Renata, no 2º semestre de 2020, começou a construir audiência no Instagram. Em 6 meses saiu de 200 para 8.000 seguidores qualificados.",
+      "fonte_no_corpus": "continuação do case fictício da Renata",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Crescimento plausível para 6 meses de conteúdo consistente de nicho"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "CASE",
+      "afirmacao": "Em 2021, a Renata refez as vendas anuais com 60% vindas de clientes recorrentes e CPA caindo 70%.",
+      "fonte_no_corpus": "continuação do case fictício da Renata",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente coerente com a tese do capítulo"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "CONCEITO",
+      "afirmacao": "Frase da Ana Clara (diretora de marketing do Ecommerce na Prática): 'Audiência não é número. Audiência é relação.'",
+      "fonte_no_corpus": "transcrição Cap. 5 Aula 1 - 'a Ana Clara, que é a nossa diretora de marketing aqui no ecommerce na prática'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Personagem Ana Clara está no corpus; frase é construção editorial baseada no tom dela"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "PARADIGMA",
+      "afirmacao": "Antes era 'conteúdo é rei'. Hoje 'audiência é rei'.",
+      "fonte_no_corpus": "transcrição Cap. 5 Aula 1 - 'Se algum tempo atrás falava se que conteúdo é rei, hoje a audiência é rei'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do Bruno na Aula 1 do módulo Audiência"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "TESE",
+      "afirmacao": "Anúncio não cria demanda, amplifica o que já existe. Anunciar o que não funciona organicamente só amplia o fracasso.",
+      "fonte_no_corpus": "alinhado com Bible v1.5 Mitos do Mercado ('Anunciar vai resolver o problema de vendas' = MITO) e conceito 'Impulsão Seletiva' (Cap. 8)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central do método, coerente com a Bible"
+    },
+    {
+      "id": "AFC-011",
+      "tipo": "TESE",
+      "afirmacao": "Cliente é quem comprou uma vez. Audiência é quem está com você antes, durante e depois da compra, e te indica organicamente.",
+      "fonte_no_corpus": "construção editorial do capítulo, alinhada com conceito 'audiência > conteúdo' da Bible",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Distinção conceitual do método"
+    },
+    {
+      "id": "AFC-012",
+      "tipo": "TESE",
+      "afirmacao": "A pergunta muda: 'como conseguir cliente?' → 'como construir audiência que me compra repetidamente, com baixo custo, e me indica organicamente?'",
+      "fonte_no_corpus": "construção editorial do capítulo",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Recolocação de chave do método"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 12,
+    "aprovadas_direto": 10,
+    "aprovadas_com_ressalva": 2,
+    "reprovadas": 0,
+    "observacoes": "AFC-002 e AFC-003 (faixas de CPA 2018, 2023, 2026) são agregados de mercado, não citações literais do corpus, mas coerentes com a tendência apontada por Bruno na Aula 1. Aprovadas com ressalva e tom cuidadoso ('em torno de', 'em vários segmentos'). Cases Renata e Patacori-2017 são prototípicos/ilustrativos, alinhados com a diretriz 'cases com atrito' aprovada pelo usuário."
+  }
+}

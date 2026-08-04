@@ -1,0 +1,17 @@
+{
+  "cena_id": "cap_02_cena_04",
+  "capitulo": 2,
+  "cena": 4,
+  "total_afirmacoes_extraidas": 5,
+  "total_apos_filtro": 3,
+  "afirmacoes_filtradas": [
+    {"id": "AFC-001", "segmento": "cena_04", "afirmacao": "O objetivo de validação padrão do método é R$ 10 mil em vendas, 100 pedidos, em 90 dias.", "tipo": "PROTOCOLO", "pergunta_para_validador": "Bruno define a régua padrão de validação como R$ 10 mil em vendas + 100 pedidos em 90 dias? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "segmento": "cena_04", "afirmacao": "Um objetivo SMART é Específico, Mensurável, Atingível, Relevante e com Prazo.", "tipo": "CONCEITO_TECNICO", "pergunta_para_validador": "O Bruno usa ou cita o framework de objetivo SMART (Específico, Mensurável, Atingível, Relevante, com Prazo) no treinamento? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "segmento": "cena_04", "afirmacao": "Os 5 princípios do negócio sugeridos são: cliente no centro, transparência, respeito, foco no longo prazo, aprendizado contínuo.", "tipo": "PROTOCOLO", "pergunta_para_validador": "O Bruno defende valores como foco no cliente, transparência e aprendizado contínuo como pilares do negócio? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ],
+  "perguntas": [
+    {"id": "AFC-001", "pergunta_para_validador": "A régua padrão é R$ 10K + 100 pedidos + 90 dias? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "pergunta_para_validador": "Bruno cita objetivo SMART? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "pergunta_para_validador": "Bruno defende valores como foco no cliente, transparência e aprendizado contínuo? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ]
+}

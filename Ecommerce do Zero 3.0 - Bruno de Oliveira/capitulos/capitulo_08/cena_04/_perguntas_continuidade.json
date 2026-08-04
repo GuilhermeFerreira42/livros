@@ -1,0 +1,68 @@
+{
+  "cena": "8.4",
+  "categoria": "validacao_continuidade_bible_estado",
+  "perguntas": [
+    {
+      "id": "p1",
+      "pergunta": "A cena 8.4 referencia explicitamente alguma decisão editorial travada na Bible?",
+      "resposta_esperada_bible": "Sim — conector 'Na próxima cena deste capítulo' (regra editorial), variação de fecho, cases com atrito (a partir do Cap 5). A cena usa 'Bora calcular orçamento' com função específica de chamada para ação mental de cálculo, não como tic.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p2",
+      "pergunta": "A cena 8.4 usa corretamente o case Patacori canônico da Bible?",
+      "resposta_esperada_bible": "Sim — Patacori é case central de Cap 8. A cena preserva: 11.000 fãs, 87% mulher, 18-54 anos, públicos já criados (visitantes 180d, carrinho, fanpage, Instagram, lookalike), uso do Audience Insights.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p3",
+      "pergunta": "A cena 8.4 mantém coerência com a cena 8.3 (análise de resultados)?",
+      "resposta_esperada_bible": "Sim — cena 8.3 identificou 3-5 campeões. Cena 8.4 cria os públicos que vão receber esses campeões. A análise 5-10x acima da média continua sendo o gatilho para impulsionar.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p4",
+      "pergunta": "A cena 8.4 mantém coerência com a cena 8.2 (conta de anúncios)?",
+      "resposta_esperada_bible": "Sim — a conta configurada na cena 8.2 é onde os públicos são criados (Gerenciador de Anúncios). A vinculação com Instagram (cena 8.2) é pré-requisito para criar público de Instagram (cena 8.4).",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p5",
+      "pergunta": "A cena 8.4 mantém coerência com a cena 8.1 (estratégia)?",
+      "resposta_esperada_bible": "Sim — 'anunciar SÓ o que já funciona' (8.1) é a tese. 'Anunciar para o público certo' (8.4) é a operacionalização. As duas juntas formam a tese completa da impulsão estratégica.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p6",
+      "pergunta": "A cena 8.4 introduz informação nova conflitante com a Bible?",
+      "resposta_esperada_bible": "Não — todos os dados (Pixel, públicos do Instagram/Facebook, lookalike, Audience Insights) vêm do corpus da Aula 5 e estão alinhados com a Bible v1.5. A lista de 8 públicos é síntese editorial baseada no corpus.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p7",
+      "pergunta": "A cena 8.4 tem conector para a próxima cena (8.5 - Quanto Investir)?",
+      "resposta_esperada_bible": "Sim — 'Na próxima cena deste capítulo: Quanto investir: a mentalidade de crescimento progressivo', com gancho emocional ('para de ter medo de gastar, e começa a ter medo de gastar pouco demais').",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p8",
+      "pergunta": "A cena 8.4 respeita as 6 Leis de Greenforge?",
+      "resposta_esperada_bible": "Sim — Lei 1 (1 cena por vez), Lei 2 (MARCH + Continuidade), Lei 3 (atualização atômica), Lei 4 (checksum), Lei 5 (worktree/cena_04), Lei 6 (zero marketing).",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p9",
+      "pergunta": "A cena 8.4 prepara o terreno para a cena 8.5 (Quanto Investir)?",
+      "resposta_esperada_bible": "Sim — depois de criar os públicos, a próxima pergunta natural é 'quanto gastar'. A cena 8.4 termina com gancho para isso.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p10",
+      "pergunta": "A cena 8.4 prepara o terreno para o Cap 9 (Validação)?",
+      "resposta_esperada_bible": "Sim — a construção de públicos é a etapa final antes de escalar. Com públicos prontos e orçamento definido (8.5), o Cap 9 (Parabéns/Validação) marca o fechamento do ciclo.",
+      "status": "VALIDADO"
+    }
+  ],
+  "resumo": "Cena 8.4 passa em todas as 10 perguntas de continuidade. Não há conflitos com a Bible v1.5 nem com o Estado da Obra. Conectores, cases, números e estrutura narrativa estão coerentes com a série.",
+  "status_geral": "APROVADO"
+}

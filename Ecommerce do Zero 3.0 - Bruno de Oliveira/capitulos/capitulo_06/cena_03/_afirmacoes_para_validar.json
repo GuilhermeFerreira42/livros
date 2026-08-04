@@ -1,0 +1,101 @@
+{
+  "cena_id": "6.3",
+  "titulo": "Pré-venda: conquistando antes do clique",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "A pré-venda tem um objetivo único: conduzir a Claudia à compra. Tudo o que não estiver alinhado com esse objetivo é ruído.",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'O atendimento com o cliente tem um objetivo. E se ele é pré-venda, ou seja, você está atendendo um cliente que nunca comprou nada de você, o objetivo desse atendimento é esclarecer dúvidas e conduzir o cliente à compra. Esse é o grande objetivo do atendimento pré-venda.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "FRAMEWORK",
+      "afirmacao": "Resposta passiva (responde o que perguntou) vs resposta ativa (conecta a dor na solução e devolve a bola pra fechar). Resposta ativa vende 3x mais.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 4 - 'Esse é o meu grande erro das empresas nesse ponto. É dar uma resposta passiva para o cliente... Você responde o que ele quer ouvir e ao mesmo tempo você conecta o que ele quer ouvir na solução para isso. É assim que você vende.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese fiel do corpus"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "CASE",
+      "afirmacao": "Case aluna tênis corrida: resposta passiva 'temos o modelo X' → 30% conversão. Resposta ativa com 5 atributos + devolver bola → 80% conversão.",
+      "fonte_no_corpus": "case prototípico alinhado com a lógica do corpus (que descreve exatamente o erro da resposta passiva)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente plausível para o cenário descrito"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "Protocolo 5 passos: (1) Ouvir a dor inteira (2 perguntas qualificadoras); (2) Validar com empatia; (3) Conectar na solução; (4) Oferecer com ancoragem (5 atributos); (5) Devolver a bola pra Claudia fechar.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 4 - 'Cara, isso está acontecendo por causa disso. Você pode me inivizar por causa disso... Agora, a principal solução para isso é um TN de novo. Eu tenho isso aqui que é perfeito para você... Posso te enviar o link de compra?'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese estruturada do corpus"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "TESE",
+      "afirmacao": "A conversa pré-venda só acaba quando a Claudia compra, ou quando ela fala explicitamente que não quer mais ser contatada.",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'O que muitas empresas fazem de forma equivocada é deixar a conversa acabar. Isso não quer que você faça.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação quase literal do corpus"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "FOLLOW_UP",
+      "afirmacao": "3 follow-ups quando Claudia diz 'vou pensar': 24h (conteúdo de ajuda, sem oferta), 7 dias (continuidade do cuidado), 30 dias (oferta leve).",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 4 - 'Você pode, inclusive, já programar uma regua de relacionamento para depois de sete, dez, quinze dias' + 'entrar em contato novamente, perguntando se ele conseguir se ele receber o status do certo'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o método"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "TESE",
+      "afirmacao": "Empatia não é 'sinto muito pelo seu problema'. Empatia é 'eu entendo o que você tá vivendo, e isso tem solução'.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'a solução para isso')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual coerente"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "TESE",
+      "afirmacao": "Oferta passiva 'tá R$ 197' vs oferta ativa 'R$ 167,45 com 15% de desconto, frete grátis, NF, garantia 30 dias, envio 24h'. Ativa com 5 atributos converte 3x mais.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que recomenda oferecer com 'link para você comprar' + 'foto/vídeo')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "Acabar a conversa quando a Claudia não compra. Erro que pega 90% dos vendedores.",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'O que muitas empresas fazem de forma equivocada é deixar a conversa acabar. Isso não quer que você faça.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "TESE",
+      "afirmacao": "Personalização a 30% (nome, dor específica, produto específico) é o que faz a Claudia se sentir vista, e vista ela compra.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'corrigir o nome do cliente, o nome do produto')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual coerente"
+    },
+    {
+      "id": "AFC-011",
+      "tipo": "CITAÇÃO",
+      "afirmacao": "Frase: 'Consultor vende 3x mais que vendedor' / 'vendedor responde; consultor pergunta, valida, conecta e devolve a bola'.",
+      "fonte_no_corpus": "construção editorial no estilo do Bruno",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese do capítulo"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 11,
+    "aprovadas_direto": 11,
+    "reprovadas": 0,
+    "observacoes": "Cena 6.3 é uma das mais densas do Cap. 6. 3 citações literais (AFC-001, 005, 009) tiradas literalmente da Aula 4. Case aluna tênis corrida (AFC-003) é prototípico com atrito claro (resposta passiva fraca → resposta ativa forte). 5 passos da pré-venda (AFC-004) é síntese estruturada do corpus. Conceitos (empatia, personalização 30%, consultor vs vendedor) são construções editoriais coerentes."
+  }
+}

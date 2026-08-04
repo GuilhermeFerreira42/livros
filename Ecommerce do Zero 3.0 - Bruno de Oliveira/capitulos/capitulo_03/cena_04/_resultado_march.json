@@ -1,0 +1,26 @@
+{
+  "cena_id": "cap_03_cena_04",
+  "capitulo": 3,
+  "cena": 4,
+  "data_validacao": "2026-07-30T17:36:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 11,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt' e '7 - Onde vender - Canais de Venda.txt' separam explicitamente: aulas 6/6.1 são sobre fornecedor, aulas 7 sobre canais de venda (marketplace).", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': a busca do fornecedor vem após definição de nicho, persona, produto. O 'O que você vai vender? Para quem?' vem antes de 'Quem vai te fornecer?' (fio fundante do método). Margem mínima é implícita no cálculo de viabilidade do produto.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt' e '6.1 - MasterClass Fornecedores.txt' detalham: 'Google, ir até a página 20, porque geralmente os bons fornecedores estão lá no fundo', feiras do segmento, networking, criatividade. O 'B2B presencial' é uma das recomendações centrais do Corpus '6.1'.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '6.1 - MasterClass Fornecedores.txt': 'fabricante, distribuidor, fornecedor e lojista sem conseguir vender os próprios produtos... você consegue construir um ciclo de confiança muito forte... ele mandou a consignação na realidade'. Cenário coincide com fornecedor familiar sem experiência digital.", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt' lista critérios: 'CNPJ ativo', 'NF correta', 'prazo', 'qualidade', 'comunicação', 'disposição para parceria'. A cena sintetiza esses 6 itens.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': 'contingência (fornecedor principal + 2 backups)' é princípio de gestão de risco operacional. Bible v1.4 Glossário de fornecedor reforça.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': 'trate o fornecedor como parceiro. Respeito ao próximo, com cliente, com fornecedor'. Corpus '6.1': 'ciclo de confiança muito forte'.", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-008", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': recomenda homologação progressiva: pedido pequeno, conferir, escalar. A frase 'não comprou estoque ainda, mas já homologou' é coerente com o método.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-009", "status": "CONFIRMADO", "evidencia": "Corpus '10 - A Verdade sobre Dropshipping.txt' (Módulo 03, aula 10) trata de modelo nacional homologado. A cena 3.4 aponta para esse conteúdo como próximo capítulo.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-010", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': 'consulta o CNPJ no site da Receita Federal' é parte do checklist de homologação. Bible v1.4 Glossário reforça.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-011", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Glossário: 'MEI (Microempreendedor Individual). Limite R$ 80 mil/ano, é isento de imposto sobre venda, mas paga contribuição social.' O limite de R$ 80k/ano é regra fixa do MEI.", "tipo": "REGRA_MERCADO"}
+  ],
+  "metricas": {"confirmados": 11, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T17:36:00Z"
+}

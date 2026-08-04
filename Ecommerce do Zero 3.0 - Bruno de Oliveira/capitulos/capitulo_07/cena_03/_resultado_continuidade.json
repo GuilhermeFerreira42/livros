@@ -1,0 +1,33 @@
+{
+  "cena_id": "7.3",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 17,
+    "aprovadas": 17,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_7_2": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_7_4_kits": "APROVADO",
+    "case_iphone_literal": "APROVADO",
+    "case_cartucho_literal": "APROVADO",
+    "70_porcento_literal": "APROVADO",
+    "20_30_porcento_literal": "APROVADO",
+    "planilha_4_colunas_literal": "APROVADO",
+    "oferecer_1_coisa_literal": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 17 eixos. Pode avançar para 7.4."
+}

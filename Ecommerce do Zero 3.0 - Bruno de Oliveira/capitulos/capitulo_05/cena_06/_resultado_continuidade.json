@@ -1,0 +1,35 @@
+{
+  "cena_id": "5.6",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_5_1_a_5_5": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_cap_6_atendimento": "APROVADO",
+    "regua_da_5_5_alimentada": "APROVADO",
+    "alisson_com_atrito": "APROVADO",
+    "conceitos_alinhados_glossario": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO (fechamento de cap)",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "fechamento_de_capitulo_explicito": "APROVADO",
+    "mito_desconstruido": "APROVADO",
+    "conceito_impulsao_seletiva_ancora": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 20 eixos. Cap. 5 pode ser consolidado como capítulo completo."
+}

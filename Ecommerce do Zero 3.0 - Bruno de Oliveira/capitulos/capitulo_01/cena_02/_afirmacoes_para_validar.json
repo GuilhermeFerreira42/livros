@@ -1,0 +1,61 @@
+{
+  "cena_id": "cap_01_cena_02",
+  "capitulo": 1,
+  "cena": 2,
+  "total_afirmacoes_extraidas": 9,
+  "total_apos_filtro": 5,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_02",
+      "afirmacao": "A primeira versão do treinamento Ecommerce do Zero foi lançada em 2018.",
+      "tipo": "HISTORICO_GEOGRAFICO",
+      "contexto": "Cronologia da evolução do método.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno de Oliveira lançou a primeira versão do Ecommerce do Zero em 2018? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_02",
+      "afirmacao": "O custo de aquisição de cliente no digital aumentou significativamente nos últimos anos.",
+      "tipo": "CAUSALIDADE",
+      "contexto": "Diagnóstico do mercado atual.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno afirma que o custo de aquisição de cliente no digital aumentou nos últimos anos, tornando o ambiente mais competitivo? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_02",
+      "afirmacao": "A versão 3.0 prioriza começar pelo marketplace antes de montar loja virtual própria.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Mudança estrutural da nova versão.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno, na versão 3.0, recomenda começar pelo marketplace e não pela loja virtual própria, diferentemente das versões anteriores? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_02",
+      "afirmacao": "Audiência é a terceira etapa do método e a fundação invisível das demais.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Reordenação da importância da audiência.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno afirma que audiência é a terceira etapa do método e a fundação invisível das demais etapas (vendas, atendimento, impulsão)? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_02",
+      "afirmacao": "A impulsão só funciona quando o produto já vende organicamente; caso contrário, há erro de produto, oferta ou persona.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Regra de ouro da impulsão na 3.0.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno afirma que se algo não vende organicamente, o anúncio não vai resolver — o problema está no produto, na oferta ou na persona, e é isso que deve ser corrigido antes de investir em impulsão? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    }
+  ],
+  "perguntas": [
+    {"id": "AFC-001", "pergunta_para_validador": "O Bruno de Oliveira lançou a primeira versão do Ecommerce do Zero em 2018? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-002", "pergunta_para_validador": "O Bruno afirma que o custo de aquisição de cliente no digital aumentou nos últimos anos? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-003", "pergunta_para_validador": "O Bruno, na versão 3.0, recomenda começar pelo marketplace e não pela loja virtual própria? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-004", "pergunta_para_validador": "O Bruno afirma que audiência é a terceira etapa do método e a fundação invisível das demais etapas? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-005", "pergunta_para_validador": "O Bruno afirma que se algo não vende organicamente, o anúncio não vai resolver? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."}
+  ]
+}

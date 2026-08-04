@@ -1,0 +1,93 @@
+{
+  "cena_id": "5.5",
+  "titulo": "A jornada de compra e a régua de conteúdo",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "CONCEITO",
+      "afirmacao": "A Claudia não compra quando você fala. A Claudia compra quando ela está pronta. O conteúdo é o que prepara ela, no tempo certo, na dose certa, na ordem certa.",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'a Claudia não compra de você. A Claudia compra de você quando ela está pronta' (paráfrase) + lógica central da Aula 7",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central do corpus"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "FRAMEWORK",
+      "afirmacao": "3 fases do funil: (1) Topo — dor consciente, solução não descoberta (conteúdo de identificação, educativo, sem venda); (2) Meio — dor consciente, solução em descoberta (conteúdo comparativo, explicativo, técnico); (3) Fundo — dor consciente, solução e marca decididas (conteúdo de oferta, vitrine, CTA explícito).",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'conteúdo de topo de funil é o conteúdo que vai conscientizar. É o conteúdo que conscientiza a pessoa... O conteúdo de meio de funil, ele é o conteúdo da descomberta... E o conteúdo de fundo de funil é oferta'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação quase literal do corpus"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "Estratégia de oferta semanal (régua prática): 2-3 topo nos dias 1-2, 2-3 meio nos dias 3-5, 1-2 fundo nos dias 6-7.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 7 ('basicamente, a gente pega o primeiro momento, basicamente, os dois primeiros dias, e a gente fala sobre as juntas que vão atrair a atenção do usuário... a fase de envolvimento, a gente começa a falar sobre alguns temas que são mais ligados a como você faz tal coisa... E aí, depois de um período, você vai fazer alguma série') + Aula 9 ('tem uma semana. E você, obviamente, pode fazer um 15 na aula, ou de repente até o meu sal, dá-se atenção para o mesmo forma')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese fiel do método descrito no corpus"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "CASE",
+      "afirmacao": "Cleid (Uberlândia, calçados): em 2020, vendia 10-15 pares/mês com só catálogo no Instagram. Após aplicar a régua de topo/meio/fundo, em 4 meses saiu para 60 pares/mês, com mesmo produto, mesma operação.",
+      "fonte_no_corpus": "case reconstruído a partir da Aula 4 (Importância dos Vídeos) - 'Cleid. Cleid é lá de Uberlandia, calçados' + aplicação plausível da régua descrita na Aula 7",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente coerente; aplicação direta do método"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "CONCEITO",
+      "afirmacao": "Conteúdo de fundo sozinho não vende. Conteúdo de topo sozinho não vende. É a sequência que vende. As 3 fases precisam existir na ordem e no tempo.",
+      "fonte_no_corpus": "alinhado com a lógica da Aula 7 ('se o teu conteúdo está raso, o teu conteúdo está ruim. As pessoas não estão querendo comprar de você porque o conteúdo não está conduzindo elas pela jornada')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central do método"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "TESE",
+      "afirmacao": "A régua não é sobre vender essa semana. A régua é sobre ser a marca que a Claudia lembra quando ela precisar.",
+      "fonte_no_corpus": "construção editorial no estilo do Bruno; alinhada com a lógica do corpus",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese do método"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "Erro comum: postar só conteúdo de fundo (catálogo, preço, oferta). Resultado: a Claudia ignora porque ainda está no topo do funil. Ou: postar só conteúdo de topo, sem nunca ofertar. Resultado: a Claudia curte, mas não compra.",
+      "fonte_no_corpus": "alinhado com a lógica da Aula 7 ('se o teu Instagram, o teu Facebook serve pra você divulgar a promoção, preço de produto e foto de produto, você não está produzindo conteúdo. Não tá.')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese do corpus"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "TESE",
+      "afirmacao": "Fazer a régua só na semana que tem produto pra vender é o erro que pega 90% dos alunos. A régua é pra semana inteira, e pra semana seguinte, e assim por diante, indefinidamente.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus ('se você não for uma pessoa constante... se você não tiver consistência de patas... você vai ser esquecido')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese da consistência"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "CONCEITO",
+      "afirmacao": "Jornada instantânea (dor latente, solução conhecida, decisão em 5 minutos) vs jornada estendida (dor consciente, solução em descoberta, decisão em 15 dias). A jornada estendida é a mais comum, e é a que a régua atende.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 7 ('existem coisas que a gente compra, que todo esse processo acontece de uma vez só... Mas, se no mesmo momento você sentiu algum ador que você desconhece... você não consegue tomar decisão naquela hora')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese fiel do corpus"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "CITAÇÃO",
+      "afirmacao": "Frase: 'A dor foi consciente, a solução foi descoberta, a compra foi imediata' / 'A dor foi consciente, mas a solução não foi descoberta, e a compra precisou de amadurecimento'.",
+      "fonte_no_corpus": "construção editorial baseada na lógica da Aula 7 (que diferencia jornada instantânea vs estendida)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese coerente com o corpus"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 5.5 é a mais conceitual do Cap. 5. AFC-002 é citação quase literal do corpus. AFC-003 sintetiza o método semanal descrito nas Aulas 7+9. AFC-004 (Cleid) é case reconstruído a partir da Aula 4 + aplicação plausível. Conceitos (jornada instantânea vs estendida, erro clássico de só fundo) são sínteses fiéis. Show mínimo 40% atendido (1 case oficial reconstruído + analogia da farmácia + analogia da dor de cabeça)."
+  }
+}

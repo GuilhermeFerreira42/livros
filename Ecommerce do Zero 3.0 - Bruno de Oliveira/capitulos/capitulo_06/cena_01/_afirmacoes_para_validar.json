@@ -1,0 +1,93 @@
+{
+  "cena_id": "6.1",
+  "titulo": "Atendimento: de SAC a CX (Customer Experience)",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "CASE",
+      "afirmacao": "Fernando (aluno, loja decoração, 2019): R$ 18k/mês com 150 pedidos e 12% recompra em 2020 → Queda de 40% em 60 dias (mar/2021) por 3 problemas combinados (fornecedor atrasou 15 dias, 2 espelhos trincados, Reclame Aqui com 38h sem resposta) → NPS 65→18, recompra 12%→3% → 90 dias depois, com CX: NPS 70, recompra 18%, R$ 18k/mês com 30% mais margem.",
+      "fonte_no_corpus": "case prototípico com atrito, alinhado com a diretriz 'cases com atrito' do Cap 5+",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente plausível para o cenário descrito"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "TESE",
+      "afirmacao": "Atendimento não é o que acontece quando dá errado. Atendimento é o que acontece sempre.",
+      "fonte_no_corpus": "construção editorial alinhada com o conceito de CX do corpus (que trata de 'experiência do cliente' como peça que vai além do problema)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central do capítulo"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "FRAMEWORK",
+      "afirmacao": "3 diferenças SAC vs CX: (1) Tempo: SAC adia vs CX resolve na 1ª interação; (2) Autonomia: SAC script vs CX poder de decisão; (3) Visão: SAC custo vs CX ativo/investimento.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 3 (SAC vs CX) - 'O SAC ele tinha objetivo de fazer com que o cliente fosse atendido rápido no telefone... sempre era uma resposta vaga... o costumer experiencia ele tentava resolver o problema do cliente de uma vez só'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese fiel do corpus"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "CASE",
+      "afirmacao": "Case Nubank: cliente cujo cachorro comeu o cartão de crédito → 2ª via + brinquedo pro cachorro de brinde → viralizou nas redes → saiu na Exame, Globo, G1 → equivalente a R$ 1 milhão em marketing com custo de R$ 20-30.",
+      "fonte_no_corpus": "transcrição literal Aula 3 - 'NoBank não só reinviou o cartão sem cobrar nenhum custoio adicional, como enviou de brinde um brinquedo para o cachorro... Olha quanto divisibilidade a marca no Bank não ganhou'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "3 camadas CX do MVP: (1) Responder rápido (1h horário comercial, 4h fora, 24h máx); (2) Resolver na 1ª mensagem; (3) Encantar além da expectativa.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 2 (Relacionamento/Cliente no Centro) que fala de 'tempo de resposta' + Aula 3 (CX como resolver na primeira)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o método"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "TESE",
+      "afirmacao": "Cada venda é uma oportunidade de CX. A partir de hoje, cada embalagem enviada é uma peça de CX.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que trata embalagem, brinde, cartão como CX)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual coerente"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "TESE",
+      "afirmacao": "Expectativa do cliente no e-commerce brasileiro é baixa (produto inteiro, funcionando, no prazo). Quem entrega mais do que isso, encanta. Encantado vira recorrente, defensor, microinfluenciador.",
+      "fonte_no_corpus": "transcrição literal Aula 3 - 'alinhamento de expectativa, que geralmente esse alinhamento nunca é feito, mas tudo que a gente faz a gente tem uma expectativa. Quando o cliente compra de você, ele tem uma expectativa. A expectativa dele, basicamente, é receber o produto inteiro, funcionando e no prazo'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação quase literal"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "TESE",
+      "afirmacao": "Atendimento que você entrega é o que o cliente fala de você quando você não está na sala. Se fala bem, faz seu marketing. Se fala mal, destrói seu marketing.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que diz 'ele está gerando a autoridade dele para dentro da minha marca')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "MÉTRICA",
+      "afirmacao": "NPS = % Promotores (9-10) - % Detratores (0-6), neutros (7-8) descartados. Faixas: -100 a -1 terrível, 0-49 razoável, 50-74 muito bom, 75-100 excelente.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'a continha que a gente faz vai sempre ser a porcentagem de pessoas, que são os nossos promotores, menos a porcentagem das pessoas que são os nossos detratores' + faixas de NPS listadas",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "CITAÇÃO",
+      "afirmacao": "Frases do Bruno no corpus: 'audiência é rei' (Cap 5) + 'a venda não termina aqui na ponta desse funil' (Cap 6 Aula 2) — funil vira ampulheta quando há CX.",
+      "fonte_no_corpus": "construção editorial baseada em Aula 2 (que descreve funil virando ampulheta com CX)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a metáfora do corpus"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 6.1 é a abertura conceitual do Cap. 6. Case Nubank (AFC-004) é citação literal do corpus. NPS (AFC-009) é citação literal. Case Fernando (AFC-001) é prototípico com atrito completo. 3 diferenças SAC vs CX (AFC-003) é síntese fiel da Aula 3. 3 camadas CX do MVP (AFC-005) é construção editorial estruturada do corpus. Coerência com Bible v1.5 (conceito 'SAC vs CX' no glossário como 'SIM' como regra rígida) mantida."
+  }
+}

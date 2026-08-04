@@ -1,0 +1,99 @@
+{
+  "cena_id": "cap_03_cena_02",
+  "capitulo": 3,
+  "cena": 2,
+  "total_afirmacoes_extraidas": 14,
+  "total_apos_filtro": 10,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_02",
+      "afirmacao": "A meta de validação é R$ 10.000 em vendas, 100 pedidos, em ~90 dias",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Abertura da cena: 'dez mil reais em vendas, cem pedidos, noventa dias'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a meta de validação padrão é R$ 10.000 em vendas, 100 pedidos, em ~90 dias?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_02",
+      "afirmacao": "100 pedidos prova repetibilidade e dá dado estatístico; uma venda de R$ 10.000 não valida repetibilidade",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo 3: 'Cem pedidos significa que cem pessoas diferentes... decidiram tirar o cartão do bolso'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que 100 pedidos prova repetibilidade e dado estatístico, enquanto uma venda única de alto valor não valida?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_02",
+      "afirmacao": "90 dias é o ciclo real de validação: definir nicho/persona, abrir CNPJ/ERP, cadastrar produtos com foto/vídeo/descrição/SKU/EAN, subir no marketplace, esperar indexação, primeiras vendas orgânicas, ajustes",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 4: detalhamento do ciclo de 90 dias",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que 90 dias é o ciclo real incluindo: definição nicho/persona, CNPJ/ERP, cadastro produtos (SKU/EAN/foto/vídeo), indexação marketplace, primeiras vendas orgânicas, ajustes de oferta/preço/foto?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_02",
+      "afirmacao": "A meta não é ingessada: passar perto no prazo certo também valida (ex: dia 70 com R$ 8.000 e 80 pedidos = validado)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Parágrafo 5: 'A meta não é ingessada... se no dia setenta você está com oito mil reais e oitenta pedidos, o negócio está validado'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a meta de validação é um parâmetro flexível, não ingessado, e que passar perto no prazo certo também indica validação?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_02",
+      "afirmacao": "Analogia da validação como MVP estilo Zappos: testar se o negócio tem perna antes de apostar a casa; dez mil/cem/noventa é o MVP",
+      "tipo": "ANALOGIA",
+      "contexto": "Parágrafo 6: analogia da Zappos como MVP",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus usa o caso Zappos (testar sapatos online com site simples, comprar no shopping se vender) como exemplo de MVP/validação?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_02",
+      "afirmacao": "A curva de validação é lenta no começo e acelera depois: começo lento, zero vendas por um tempo, primeira venda, mais poucas vendas, dia bom, semana consistente, mês consistente, dia 90: dez mil + cem pedidos",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Parágrafo 7: descrição da curva de validação",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus descreve a curva de validação com padrão: começo lento/plano, primeira venda, aceleração posterior, maioria desiste no começo lento?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_02",
+      "afirmacao": "Quem desiste no começo lento nunca vê a aceleração",
+      "tipo": "CAUSALIDADE",
+      "contexto": "Parágrafo 7: 'E é aí que a maioria desiste.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus apoia que a maioria desiste na fase lenta e por isso não atinge a fase de aceleração?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_02",
+      "afirmacao": "O negócio que rompe a barreira de validação tem 99% de chance de dar certo e passa de 'correr risco' para 'gerenciar risco'",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Parágrafo 9: 'O negócio que rompe essa barreira de validação, ele rompe a barreira da incerteza. Você passa a ter 99% de chance de dar certo... para de correr risco e passa a gerenciar risco.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que negócio validado tem ~99% de chance de sucesso e muda de 'correr risco' para 'gerenciar risco'?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_02",
+      "afirmacao": "O que vem depois da validação: escala com novos marketplaces, loja virtual própria, mais produtos, equipe, anúncio com orçamento real",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 9: lista do que vem após validação",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que pós-validação vem: novos marketplaces, loja virtual própria, mais produtos, equipe, anúncio com orçamento real?"
+    },
+    {
+      "id": "AFC-010",
+      "segmento": "cena_02",
+      "afirmacao": "Próximo capítulo (planejamento prático) abordará o tripé: nicho, persona, produto",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 10: 'No próximo capítulo, a gente entra no planejamento de verdade. O tripé: nicho, persona, produto.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o planejamento prático (próximas aulas do módulo 03) foca em nicho, persona e produto?"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "cena_id": "7.2",
+  "titulo": "Post de conversão: o que falar quando você quer vender",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "O post de conteúdo-com-oferta vende 3-5x mais que post de oferta pura. A Claudia, ao ver oferta pura, ignora. Ao ver conteúdo-com-oferta, lê, se identifica, e clica.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'publicações voltadas para o produto' + 'conectando com a dor, com a solução')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central da cena"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "FRAMEWORK",
+      "afirmacao": "Anatomia 5 elementos (dor → causa → solução → oferta → CTA): (1) Dor específica, (2) Causa, (3) Solução conceitual, (4) Oferta com 4-5 atributos, (5) CTA único e claro.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 2 (Post de Conversão) que cita o exemplo da Patacori com essência de citronela + 'conteúdo + oferta + CTA'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese estruturada do corpus"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "TESE",
+      "afirmacao": "Dor específica (com sintoma observável) conecta 5x mais que dor genérica (com emoção abstrata). Ex: 'mandíbula travada de manhã' vs 'você tá estressada?'",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'focando diferente numa dor do cliente')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual coerente"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "TESE",
+      "afirmacao": "Oferta com 5 atributos (cada um resolve uma objeção) converte 3x mais que oferta com 1 atributo.",
+      "fonte_no_corpus": "construção editorial alinhada com a cena 6.3 (que trata de 5 atributos no lugar de 1, com mesma lógica de multiplicar 3x)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese do Cap. 6"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "TESE",
+      "afirmacao": "O CTA com 3 opções confunde e mata a venda. O CTA com 1 opção clara converte 2x mais. 'Comenta QUERO' é o mais forte (gera engajamento + auto-compromisso).",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'única oferta, um único CTA' em 'posso te enviar o link de compra?')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "TESE",
+      "afirmacao": "O post de conversão não substitui o conteúdo de audiência. Usa o conteúdo de audiência como isca. A Claudia precisa de contexto antes de ver a oferta.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que distingue 'conteúdo de audiência' de 'venda direta')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese do Cap. 5 + 7.1"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "FERRAMENTA",
+      "afirmacao": "Biblioteca de anúncios do Facebook (facebook.com/ads/library) mostra os anúncios ativos de qualquer página. Ferramenta de inspiração pra modelar (não copiar) post de conversão.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'vou recomendar para vocês essa ferramenta aqui, que é a biblioteca de anúncios do próprio Facebook... Então você consegue dar uma fussada em todos os anúncios que amaca que você está se inspirando faz no Facebook.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "5 erros clássicos: (1) Oferta pura sem conteúdo; (2) Conteúdo puro sem oferta; (3) 3 ofertas + 3 CTAs no mesmo post; (4) Desconto sem história; (5) Foto ruim do produto.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que trata desses erros ao longo do módulo)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "CITAÇÃO",
+      "afirmacao": "Exemplo da Patacori (literal): 'A essência de citronela, ela fala um pouquinho, gera um pouco de conteúdo sobre citronela, sobre o objetivo da citronela e tal... E no final, ele fala da essência de citronela. Basta colocar algumas gotas no armatizador... E saiba mais aqui. Nesse link que está aqui, já é o link que vai direto para página de produto.'",
+      "fonte_no_corpus": "transcrição literal Aula 2",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "CASES_MERCADO",
+      "afirmacao": "Cases oficiais do corpus para inspiração: Cleide das Ambeses Causados (calçado ortopédico) — 'chega de sentido e dor nos pés. Sapatos indicados pra quem sofre com o joinite, facite plantar, explorar onde calcânia, etc.'",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'Esse aqui é um anúncio... É o típico poste de conversão, chega de sentido e dor nos pés'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 7.2 é conceitual-prática. 3 citações literais (AFC-007, 009, 010) da Aula 2. Anatomia 5 elementos (AFC-002) é síntese estruturada do corpus. Tese central (AFC-001) é diferenciador. 5 erros clássicos (AFC-008) são construções editoriais coerentes. Conceitos (dor específica vs genérica, 5 atributos, 1 CTA) são coerentes com a tese."
+  }
+}

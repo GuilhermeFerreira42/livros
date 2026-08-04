@@ -1,0 +1,83 @@
+{
+  "cena": "8.3",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "29 fatos extraíveis (23 citações literais + 6 sínteses)",
+        "Régua 5-10x / 3-5x / dentro / abaixo é concreta e binária",
+        "5 erros do iniciante listados explicitamente",
+        "Caminhos práticos: Facebook (Informações → Publicações) e Instagram (Insights → Publicações)",
+        "Cálculo de média mostrado: somar 10-20 posts e dividir"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Caso real da Patacori com 4 posts sendo triados ao vivo",
+        "Diferença 90 dias: quem não analisa gasta R$ 200-300/semana para R$ 50 retorno; quem analisa gasta R$ 50/semana para R$ 80-100 retorno",
+        "Decisão binária no fim: turbinar ou não turbinar",
+        "Distinção prática entre audência (construir base) e oferta (gerar venda)"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Linguagem coloquial: 'joio de trigo', 'cavalo que pode ser zebra', 'morto-vivo', 'saturado', 'queimado'",
+        "Personificação da audiência: 'A Claudia, e a Mariana, e a Renata'",
+        "Transparência da fonte: 'E o Bruno, no corpus, é explícito sobre isso'",
+        "Tom encorajador: 'a gente vai te ensinar a construir uma lista de 3-5 campeões antes de gastar 1 real'",
+        "Fórmula 'E aqui, eu preciso te dar' consistente com a série"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Coerente com cena 8.1: 'anunciar SÓ o que já funciona' operacionalizado pela análise 5-10x",
+        "Coerente com cena 8.2: usa conta configurada na cena anterior",
+        "Patacori continua case canônico (mesmos números da Bible)",
+        "Padrões de investimento preservados: 3 dias R$ 6/dia / 7 dias R$ 5,71/dia",
+        "Cases de Bruno, Patacori preservados",
+        "Lei 6 respeitada: zero CTAs, zero 'clique aqui', zero 'garanta sua vaga'"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola central: 'Você não vai adivinhar o que funciona. Você vai medir'",
+        "Gancho de abertura: 'E essa é a cena mais importante desse capítulo'",
+        "Estrutura modular: Teoria (função do orgânico) → Analogia (cavalo/zebra) → Campo de Batalha (5 passos práticos) → Decisão (régua)",
+        "Conector emocional para próxima cena: 'sai do anuncio pra todo mundo e vai pro anuncio pra Claudia, e só pra Claudia'",
+        "Fecho: 'Te vejo construindo público' (variação, não 'Bora')"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (audiência muito pequena): cena cobre com 3 dias R$ 6/dia em todos os posts",
+      "Tentativa 2 (alcance pago mascarando): cena cobre separando pago de orgânico",
+      "Tentativa 3 (post OFF): cena cobre com critério tema coerente com oferta",
+      "Tentativa 4 (alto envolvimento, baixo alcance): cena cobre como sinal de boa entrega a impulsionar",
+      "Tentativa 5 (CPC subindo): cena cobre como sinal de saturação/rotacionar"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena densa, prática, respeita o pipeline Teoria → Analogia → Campo de Batalha. Case real da Patacori com 4 posts triados ao vivo, dados demográficos reais, régua clara, 5 erros do iniciante. Conector emocional forte. Fecho variado. Lei 6 respeitada integralmente.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 23,
+    "fatos_verificaveis": 29,
+    "casos_com_atrito": "não aplicável (cena técnica)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Te vejo construindo público",
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

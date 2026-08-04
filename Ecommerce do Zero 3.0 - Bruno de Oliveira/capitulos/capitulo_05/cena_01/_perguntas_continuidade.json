@@ -1,0 +1,103 @@
+{
+  "cena_id": "5.1",
+  "cena_anterior": "4.8 (Descrição, foto e vídeo) — checksum 1f974e8a",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena faz ponte explícita com a última cena do Cap 4 (vitrine pronta)?",
+      "resposta_observada": "Sim. Abertura: 'a gente acabou de montar a estrutura mínima viável inteira. A bancada tá pronta, o CNPJ tá aberto, a cara digital tá configurada, o Bling tá integrado, o produto tá cadastrado, o fornecedor tá homologado, a vitrine tá construída. Tudo isso no capítulo quatro.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "A cena introduz o tema central do Cap 5 sem repetir o que o Cap 4 já cobriu?",
+      "resposta_observada": "Sim. Cap 4 = estrutura técnica (CNPJ, Bling, marketplace, produto). Cap 5.1 = paradigma conceitual (audiência > conteúdo, ciclo virtuoso vs vicioso). Sem sobreposição.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para a Cena 5.2 (Persona) é claro e emocional, não mecânico?",
+      "resposta_observada": "Sim. 'Bora descobrir pra quem você fala, de verdade. Te vejo na próxima cena.' Também: 'quem é, de verdade, a pessoa que você quer atrair. Não é mulher, 25 a 45 anos, classe B. É nome, idade, profissão, dor, desejo, hobby, medo, o que ela pesquisa no Google, o que ela ouve no Spotify, o que ela come no domingo.' — antecipa e instiga.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Cases usados são consistentes com a Bible e com cases já introduzidos?",
+      "resposta_observada": "Patacori 2017 (R$ 1.500 ad, R$ 800 venda) é coerente com a Patacori 2017 já citada (Bling implementado, 80 SKUs, kit 7 chakras vendendo 60/mês). Renata é case novo, prototípico, alinhado com a diretriz 'cases com atrito'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Conceitos técnicos estão alinhados com o glossário da Bible v1.5?",
+      "resposta_observada": "Não há termos técnicos novos que precisem ser definidos nesta cena. CPA (custo por aquisição) é mencionado sem definir como termo técnico — é usado no sentido coloquial, sem exigir entrada no glossário.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Personagens novos são introduzidos de forma minimamente ancorada?",
+      "resposta_observada": "Sim. Renata é introduzida como 'uma aluna' (anônimo pedagógico). Ana Clara é citada como 'nossa diretora de marketing aqui no Ecommerce na Prática' (papel institucional, não personagem aprofundado).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "A cena mantém o ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Teoria (3 motivos do porquê audiência é rei) → Analogia (Renata 2019 vs 2021) → Campo de Batalha (ciclo virtuoso vs vicioso, frase da Ana Clara).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "A cena tem o formato final exigido (Resumo + Checklist + preview próxima cena)?",
+      "resposta_observada": "Sim. '## Resumo da cena', '## Seu checklist desta cena', '**Na próxima cena deste capítulo:**' com gancho para 5.2.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "A cena respeita o limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.150 palavras. Dentro da faixa target (1.700-2.200).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Não há vazamento de identidade de outros agentes (não cita o pipeline, não cita o método de validação em si)?",
+      "resposta_observada": "Verificado. A cena fala do método indiretamente (6 etapas, R$ 10K) mas não cita o pipeline Greenforge nem ferramentas do sistema.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos da Bible são respeitados (Audiência > Conteúdo como fio central, Patacori como prova social, audiência como ativo)?",
+      "resposta_observada": "Sim. Fio 'Audiência > Conteúdo' é instalado nesta cena. Fio 'Patacori — A Loja Real' continua. Caso Renata é nova prova social complementar.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Cena 5.1 não antecipa conteúdo das cenas 5.2 a 5.6, mas prepara o terreno?",
+      "resposta_observada": "Sim. Menciona persona (5.2), canais (5.3), autoridade (5.4), jornada (5.5), impulsão do que funciona (5.6) como mapa, mas não desenvolve nenhum deles.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Mitos do Mercado da Bible são respeitados/desconstruídos?",
+      "resposta_observada": "Mito 'Conteúdo é rei' é desconstruído (agora audiência é rei). Mito 'Anunciar vai resolver vendas' é reforçado (anúncio não cria, amplifica).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do Método (Bible) é respeitada?",
+      "resposta_observada": "Sim. Cap 4 cobriu Dias 8-35 (Estrutura). Cap 5 está cobrindo Dias 36-60 (Construção de audiência), conforme a cronologia da Bible.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fechos variados (Bora / Toca / Vamos / Te vejo) — esta cena usa qual?",
+      "resposta_observada": "Fecho: 'Bora descobrir pra quem você fala, de verdade. Te vejo na próxima cena.' Combina 'Bora' + 'Te vejo' — variação aprovada.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 15,
+    "aprovadas": 15,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 5.1 cumpre integralmente os contratos de continuidade com a Bible v1.5, com a cena anterior (4.8), e com a próxima cena (5.2). Não há vazamentos, não há antecipações indevidas, não há repetição. Show mínimo 40% atendido (3 cases/protótipos + 1 citação literal). Fios narrativos instalados sem ferir o que veio antes."
+  }
+}

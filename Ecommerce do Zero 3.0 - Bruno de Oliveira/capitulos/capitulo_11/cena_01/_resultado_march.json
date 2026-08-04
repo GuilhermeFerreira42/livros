@@ -1,0 +1,27 @@
+{
+  "cena": "11.1",
+  "validador": "MARCH",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {"status": "APROVADO"},
+    "D2_arena": {"status": "APROVADO"},
+    "D3_ressonancia": {"status": "APROVADO"},
+    "D4_consistencia": {"status": "APROVADO"},
+    "D5_heuristica": {"status": "APROVADO"}
+  },
+  "reverso": {"quebras_tentadas": 5, "quebras_criticas": 0},
+  "holistico": {
+    "impressao_geral": "Cena prática e objetiva, instalando o motor. 5 configs do dia 1 + 3 opcionais + 5 erros fatais + 1 mensagem central. Conexão forte com Caps 4, 7, 10. Patacori preservado.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 15,
+    "fatos_verificaveis": 16,
+    "casos_com_atrito": "não aplicável (cena técnica)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Toca cadastrar produto",
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

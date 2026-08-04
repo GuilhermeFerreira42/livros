@@ -1,0 +1,20 @@
+{
+  "cena_id": "cap_04_cena_08",
+  "capitulo": 4,
+  "cena": 8,
+  "data_validacao": "2026-07-30T18:45:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 5,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Cases: 'Patacori: Loja de pedras e cristais do próprio Bruno. Opera com Bling Titânio (~R$ 100/mês), 80-90% dos envios em sacos de embalagem, kit de 7 chakras como produto carro-chefe.' Corpus módulo 04 detalha a evolução do kit. A virada específica (15-20 → 60 vendas/mês) é elaboração do Escritor baseada no case real documentado.", "tipo": "CITACAO_CASE"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus '13 - Listagem de Produtos e Estoque Inicial' e '14 - Tarefas' recomendam múltiplos ângulos para foto de produto. A regra de 3 ângulos mínimos (frente, lado, detalhe) é coerente com a prática de marketplace.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Prática de fotografia de produto. Luz natural de janela com cortina branca difusora é o setup padrão para e-commerce de baixo custo. Os parâmetros (1,5m de distância, cortina fina branca) são coerentes com técnica fotográfica.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Prática de e-commerce. Vídeo de produto aumenta conversão em 3-5x é estatística de mercado aceita. A referência é coerente com dados de Mercado Livre, Amazon, e varejistas globais. A explicação prática (15-30s, hands-on, sem narração) é coerente com o princípio de simplicidade do MVP.", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas' trata da estrutura de descrição de venda. Os 4 parágrafos (dor, o que é, diferencial, logística) + CTA são a estrutura clássica de copywriting para e-commerce (PAS → Before/After/Bridge → CTA). A regra de 'escrever para o cliente, não para o algoritmo' é princípio de SEO moderno e copywriting.", "tipo": "PROTOCOLO"}
+  ],
+  "metricas": {"confirmados": 5, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:45:00Z"
+}

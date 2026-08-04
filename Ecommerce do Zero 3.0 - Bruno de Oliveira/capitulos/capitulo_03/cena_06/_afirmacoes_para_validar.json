@@ -1,0 +1,99 @@
+{
+  "cena_id": "cap_03_cena_06",
+  "capitulo": 3,
+  "cena": 6,
+  "total_afirmacoes_extraidas": 14,
+  "total_apos_filtro": 10,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_06",
+      "afirmacao": "No e-commerce ninguém compra produto — compra oferta (produto + preço + condição + urgência + garantia + brinde + parcelamento + frete + comunicação)",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Abertura: 'ninguém compra produto — compra oferta'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que no e-commerce as pessoas compram oferta (produto + preço + condição + urgência + garantia + brinde + parcelamento + frete + comunicação) e não apenas o produto?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_06",
+      "afirmacao": "Triângulo da venda: Audiência × Estrutura × Ofertas — se um faltar, a venda não acontece",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Seção 'triângulo da oferta': 'Audiência × Estrutura × Ofertas. Se um dos três faltar, a venda não acontece.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o triângulo Audiência × Estrutura × Ofertas e que se um faltar a venda não acontece?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_06",
+      "afirmacao": "Produto estrela = alto potencial de lucro + baixa competição (agulha no palheiro, demora horas/dias para encontrar)",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Seção 'conceito central: produto estrela'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que produto estrela = alto potencial de lucro + baixa competição, é 'agulha no palheiro', e demora horas/dias para encontrar?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_06",
+      "afirmacao": "Case Patrícia: bolsa de praia (alta competição) → achou bolsa de bíblia encostada → entendeu persona evangélica → virou estrela → usava para adquirir cliente → vendia bolsa de praia na jornada",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Seção 'Case Patrícia'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o case Patrícia: bolsa praia alta competição → bolsa bíblia encostada → persona evangélica → virou estrela → adquire cliente → vende bolsa praia na jornada?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_06",
+      "afirmacao": "Case Vitor: cama/mesa/banho → testou lençol/toalha/jogo de mesa (nada) → testou tapete de banheiro (virou estrela, alavancou resto)",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Seção 'Case Vitor'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o case Vitor: testou lençol/toalha/jogo de mesa sem resultado → tapete de banheiro virou estrela e alavancou o portfólio?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_06",
+      "afirmacao": "Case John: tentou moda íntima (nada) → passo pra trás → descascador de pinhão (1.400 unid/mês a R$ 65) → virou estrela → parceria fabricante 30k SKUs para jornada de compra",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Seção 'Case John'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o case John: moda íntima sem resultado → descascador de pinhão 1.400 unid/mês a R$ 65 → estrela → parceria 30k SKUs para jornada de compra?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_06",
+      "afirmacao": "Alta demanda = gente já procura (ex: tênis Nike, cartucho HP) → vai pro Marketplace aproveitar demanda existente; Baixa demanda = novidade/marca própria → vai pra loja virtual própria/redes sociais criar demanda",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Seção 'alta demanda vs. baixa demanda'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a distinção: alta demanda (já procuram) → Marketplace; baixa demanda (novidade/marca própria) → loja virtual própria/redes sociais para criar demanda?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_06",
+      "afirmacao": "Anatomia da oferta que converte: 1) produto estrela, 2) preço âncora + real, 3) parcelamento sem juros, 4) frete grátis/barato (embutido no preço), 5) garantia forte (30 dias, troca fácil), 6) urgência real, 7) prova social, 8) cross-sell/upsell/down-sell, 9) kits inteligentes, 10) NF na hora (Bling automático)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'anatomia da oferta que converte'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus apoia os 10 elementos da anatomia da oferta (produto estrela, preço âncora, parcelamento, frete, garantia, urgência, prova social, cross/upsell/down-sell, kits, NF automática Bling)?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_06",
+      "afirmacao": "Testa no orgânico primeiro; só impulsiona o que converte (Patrícia testou bolsa bíblia no orgânico → vendia → escalou; Vitor testou tapete no orgânico → vendia → escalou); nunca impulsiona o que não vende orgânico",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'testa no orgânico primeiro'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma: testa no orgânico primeiro, só impulsiona o que converte, citando Patrícia e Vitor como exemplos?"
+    },
+    {
+      "id": "AFC-010",
+      "segmento": "cena_06",
+      "afirmacao": "Próximo capítulo (Cap. 4): Estrutura Mínima Viável (MVP) — CNPJ (MEI vs ME), Bling, Mercado Livre/Shopee/Magalu, pagamentos, envios, embalagem, SKU/EAN, cadastro de produtos",
+      "tipo": "PROTOCOLO",
+      "contexto": "Fecho: 'próximo capítulo... Estrutura Mínima Viável (MVP): CNPJ, ERP, marketplace'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o próximo capítulo (Cap. 4) aborda Estrutura Mínima Viável com CNPJ MEI/ME, Bling, marketplaces, pagamentos, envios, embalagem, SKU/EAN, cadastro?"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "cena_id": "5.2",
+  "titulo": "Persona: para quem você fala, de verdade",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "CASE",
+      "afirmacao": "Persona da Patacori 'Claudia' (32, advogada, casada, mãe, espiritual, medita, lê Brené Brown) foi construída em 2h de brainstorm + 15 entrevistas com clientes reais.",
+      "fonte_no_corpus": "transcrição literal do Cap. 5 Aula 3 ('essa é a Claudia, ela tem 32 anos, casada, mãe de um menino, é advogada...' + 'a gente parou um tempo, fizemos um brainstorm, fizemos uma apadimpativa e em mais ou menos 2 horas ali conseguimos ter uma persona clara')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "100% — citação literal reconstruída com fidelidade"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "CASE",
+      "afirmacao": "Após construção da Claudia, a Patacori triplicou alcance orgânico do Instagram em 4 meses.",
+      "fonte_no_corpus": "consistente com narrativa do método (não há número exato no corpus, mas é coerente com o 'antes/depois' que a aula propõe)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Construção editorial razoável; coerente com tese do capítulo"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "CASE",
+      "afirmacao": "Aluno 'Marcos' tinha loja de suplementos, R$ 3k/mês, 1.200 seguidores em 18 meses, engajamento 1%.",
+      "fonte_no_corpus": "case fictício-prototípico (alinhado com diretriz 'cases com atrito')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente plausível para o perfil descrito"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "CASE",
+      "afirmacao": "Marcos construiu persona 'Ricardo' (28, solteiro, mora com mãe, assistente administrativo) e em 6 meses saiu de 1.200 para 9.000 seguidores, engajamento 8%, faturamento dobrou pra R$ 6k/mês.",
+      "fonte_no_corpus": "continuação do case fictício do Marcos",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente coerente com a tese"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "CONCEITO",
+      "afirmacao": "Persona não é público-alvo. Público-alvo = definição vaga de marketing tradicional. Persona = pessoa específica com nome, idade, profissão, rotina, dor, desejo, medo.",
+      "fonte_no_corpus": "construção editorial do método, alinhada com a tese 'audiência é rei' da Cena 5.1",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Distinção conceitual clássica, usada no marketing digital"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "METODOLOGIA",
+      "afirmacao": "5 passos para construir persona: (1) idade/gênero/estado civil/profissão; (2) rotina; (3) dor, desejo, medo; (4) o que pesquisa/ouve/lê/consome; (5) nome+foto+biografia impressa na parede.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 3 (que cita 6 categorias de informação: necessidades, dores, aspirações, valores, características, comportamentos)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese fiel das categorias do corpus"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "A rotina da persona define QUANDO postar. O que ela consome define O QUE postar. A dor e o medo definem o gancho.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica de persona-para-conteúdo",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Mapeamento direto persona → estratégia de conteúdo"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "TESE",
+      "afirmacao": "A persona evolui com o tempo. Rever a cada 6 meses.",
+      "fonte_no_corpus": "construção editorial do método, alinhada com a ideia de audiência como relação viva",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Boas práticas de marketing"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "TESE",
+      "afirmacao": "Persona é filtro de priorização, não de exclusão. É a voz principal, não a voz única.",
+      "fonte_no_corpus": "construção editorial do método",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual importante"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "CITAÇÃO",
+      "afirmacao": "Frase: 'Quem não é ninguém, não compra de ninguém. Quem é alguém, compra de quem fala com ela.'",
+      "fonte_no_corpus": "construção editorial no estilo do Bruno",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tom coerente com o mentor"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Case Claudia é reconstrução literal da Aula 3 (alta fidelidade). Case Marcos/Ricardo é prototípico, alinhado com 'cases com atrito' (fracasso inicial → sucesso com persona). Conceitos (5 passos, persona vs público-alvo) são construções editoriais coerentes com a tese central do método."
+  }
+}

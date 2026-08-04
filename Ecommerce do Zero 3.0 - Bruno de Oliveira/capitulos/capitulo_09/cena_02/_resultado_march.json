@@ -1,0 +1,87 @@
+{
+  "cena": "9.2",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Curva de 3 fases (ramp-up, salto, cruising)",
+        "4 próximos passos do Bruno na ordem",
+        "4 subfrentes da estrutura profissional",
+        "5 marketplaces específicos pós-validação",
+        "2 tipos de marketplace (massa vs nicho)",
+        "2 treinamentos complementares com detalhes",
+        "Viver de Ecommerce: 100+ horas, R$ 4-5 mil, 4 pilares",
+        "5 comportamentos que separam quem escala",
+        "5 erros do pós-validação"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "'O que te levou até R$ 10K não é o que te leva até R$ 30K'",
+        "'Quem pula a estrutura trava em R$ 20-25K. Quem respeita vai pra R$ 100K+'",
+        "'É justamente AGORA que faz sentido, antes de travar'",
+        "'Antes da validação, ninguém te dá nada. Depois, o mercado te dá tudo'"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Linguagem coloquial: 'travar', 'pular', 'saltar', 'ramp-up'",
+        "'Pistas de alta velocidade' como metáfora",
+        "'O que te levou até aqui não te leva até lá'",
+        "'A régua muda a cada faixa de faturamento'"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Coerente com cena 9.1: 'a validação é só o primeiro passo'",
+        "Coerente com Cap 4 (MVP)",
+        "Coerente com Bible v1.6",
+        "Coerente com Cap 8 (Impulsão)",
+        "Conecta com Cap 10",
+        "Lei 6 respeitada"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola: 'O que te levou até R$ 10K não é o que te leva até R$ 30K'",
+        "Gancho: 'depois do merecido respiro, a gente vai entrar no mapa'",
+        "Estrutura modular completa",
+        "Conector: 'Toca dominar o Mercado Livre'",
+        "Mensagem final: 'validação primária = diploma do método / consolidada = diploma do negócio'"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (aluno sem R$ 10K): coberto com curva gradual",
+      "Tentativa 2 (sem dinheiro para treinamentos): coberto com time de orientadores",
+      "Tentativa 3 (trava em R$ 15K): coberto nos 5 erros",
+      "Tentativa 4 (Lei 6 com Viver Ecommerce): conteúdo do corpus, não venda do livro",
+      "Tentativa 5 (Shopee/Magalu): Cap 12 cobre Shopee Express"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena é fechamento prático do Cap 9. Curva de 3 fases é a peça central. 4 próximos passos do Bruno fielmente reproduzidos. 2 treinamentos complementares como conteúdo do corpus. Lei 6 respeitada. Conector 'Toca dominar o Mercado Livre' prepara Cap 10.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 19,
+    "fatos_verificaveis": 21,
+    "casos_com_atrito": "não aplicável (cena de mapa)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Toca dominar o Mercado Livre",
+    "encerramento_capitulo": true,
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

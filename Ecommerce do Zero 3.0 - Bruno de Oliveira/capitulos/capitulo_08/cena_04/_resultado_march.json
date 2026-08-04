@@ -1,0 +1,83 @@
+{
+  "cena": "8.4",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Caminho de acesso exato: Gerenciador → Públicos → Criar público",
+        "4 tipos de público com janelas específicas (14, 30, 60, 90, 180, 365 dias)",
+        "Régua lookalike: 1-10%, mínimo 100 pessoas",
+        "Lista de 8 públicos para Mês 1",
+        "Dados Audience Insights Patacori: 1-1,5M, 25-54, casado, faculdade",
+        "5 erros do iniciante listados"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Iniciante queima 80% do orçamento em impressão pra público errado",
+        "Diferença 100x: 1M aleatórias (0 vendas) vs 5K interessadas (5 vendas)",
+        "Caso real da Patacori com públicos já criados",
+        "Audience Insights com descoberta prática"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Linguagem coloquial: 'motor silencioso', 'anunciando pra todo mundo', 'público meia-boca'",
+        "Personificação: 'anúncio achar a Claudia'",
+        "Transparência do Bruno: 'Cara, isso aqui muda toda hora, eu fico sempre perdido'",
+        "Tom encorajador: 'o que destrava a escala de R$ 5K para R$ 50K/mês'"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Coerente com cena 8.1: público certo complementa criativo certo",
+        "Coerente com cena 8.2: usa conta configurada para criar públicos",
+        "Coerente com cena 8.3: 3-5 campeões vão pro público certo",
+        "Patacori continua case canônico",
+        "87% mulher, 18-54 anos preservado",
+        "Lei 6 respeitada"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola central: 'O melhor criativo do mundo, com o público errado, vai dar ruim'",
+        "Gancho: 'essa parada é a construção do público que vai ser impactado pelo anúncio'",
+        "Estrutura modular: Teoria → Prática → Campo de Batalha → Erros",
+        "Conector emocional: 'para de ter medo de gastar, e começa a ter medo de gastar pouco demais'",
+        "Fecho: 'Bora calcular orçamento' (com função específica de chamada para cálculo)"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (sem loja virtual): coberto com público de engajamento Instagram/Facebook",
+      "Tentativa 2 (base comprada ilegal): fora do escopo da cena, conhecimento público",
+      "Tentativa 3 (público muito pequeno): coberto parcialmente, mas recomendação editorial está clara",
+      "Tentativa 4 (lookalike não performando): coberto com régua 1-10%",
+      "Tentativa 5 (Pixel bloqueado): fora do escopo da cena atual"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena fundamental e técnica. Cobre os 4 tipos de público com profundidade, traz Audience Insights, dá 8 públicos para Mês 1, tem 5 erros. Case Patacori explorado. Conector emocional forte. Lei 6 respeitada.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 15,
+    "fatos_verificaveis": 26,
+    "casos_com_atrito": "não aplicável (cena técnica)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": "sim, com função específica",
+    "fecho_usado": "Bora calcular orçamento",
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

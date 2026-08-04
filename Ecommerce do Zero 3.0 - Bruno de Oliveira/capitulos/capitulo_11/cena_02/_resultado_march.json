@@ -1,0 +1,23 @@
+{
+  "cena": "11.2",
+  "validador": "MARCH",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {"status": "APROVADO"},
+    "D2_arena": {"status": "APROVADO"},
+    "D3_ressonancia": {"status": "APROVADO"},
+    "D4_consistencia": {"status": "APROVADO"},
+    "D5_heuristica": {"status": "APROVADO"}
+  },
+  "reverso": {"quebras_tentadas": 5, "quebras_criticas": 0},
+  "holistico": {
+    "impressao_geral": "Cena densa e prática. 13 passos do cadastro, kit com estoque virtual, vinculação categoria, exportação, ajuste em massa. Conexão forte com Caps 4, 7, 10.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 20,
+    "fatos_verificaveis": 22,
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

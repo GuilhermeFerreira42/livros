@@ -1,0 +1,72 @@
+{
+  "cena_id": "cap_04_cena_04",
+  "capitulo": 4,
+  "cena": 4,
+  "total_afirmacoes_extraidas": 10,
+  "total_apos_filtro": 7,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_04",
+      "afirmacao": "Domínio próprio (.com.br) custa R$ 40-80/ano no Registro.br",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'passo a passo': 'Acesse o Registro.br... Custo: R$ 40 por ano para .com.br'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que domínio .com.br custa R$ 40-80/ano no Registro.br?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_04",
+      "afirmacao": "E-mail profissional via Google Workspace custa R$ 30/mês por usuário; Zoho Mail tem plano de R$ 12/mês por usuário com gratuito até 5 usuários",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'e-mail profissional': 'Google Workspace (R$ 30 por mês por usuário, com 30 dias grátis) ou o Zoho Mail (R$ 12 por mês por usuário, com plano gratuito de até 5 usuários)'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma os valores de Google Workspace (R$ 30/mês) e Zoho Mail (R$ 12/mês) para e-mail profissional?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_04",
+      "afirmacao": "E-mail profissional no Instagram dá badge de conta comercial verificada (selo azul) automaticamente, com aumento de 5-10% na conversão",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'selo de verificação': 'esse badge sozinho já aumenta a conversão em 5 a 10%'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que e-mail profissional dá badge comercial verificado e aumenta conversão?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_04",
+      "afirmacao": "Patacori migrou de e-mail gmail (pedraspatacori@gmail.com) para domínio próprio (contato@patacori.com.br) em 2018 com investimento de R$ 300, e a percepção do cliente mudou em 3 meses",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo de abertura: 'eu decidi investir R$ 300 num domínio próprio, patacori.com.br, e configurar um e-mail profissional'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a virada de e-mail gmail para domínio próprio da Patacori em 2018?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_04",
+      "afirmacao": "Mercado Livre é o canal de venda no MVP (70% das compras online no Brasil começam lá)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'canal de venda': 'Mercado Livre é onde 70% das compras online no Brasil começam'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Mercado Livre é o canal prioritário para vendas no MVP?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_04",
+      "afirmacao": "Instagram é o canal de audiência no MVP (gera demanda); Mercado Livre é o canal de venda (captura demanda)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'canal de audiência': 'Instagram gera demanda, Mercado Livre captura demanda. É a engrenagem perfeita.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a estratégia de Instagram (audiência) + Mercado Livre (venda) como dupla do MVP?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_04",
+      "afirmacao": "Domínio indisponível é filtro obrigatório: se o nome da marca não tiver domínio disponível, escolher outro nome (não adaptar, não abreviar, não colocar número)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'exercício prático': 'Domínio disponível é filtro obrigatório'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que domínio indisponível deve levar a escolher outro nome, sem adaptar o nome original?"
+    }
+  ]
+}

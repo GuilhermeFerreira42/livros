@@ -1,0 +1,81 @@
+{
+  "cena_id": "cap_04_cena_05",
+  "capitulo": 4,
+  "cena": 5,
+  "total_afirmacoes_extraidas": 11,
+  "total_apos_filtro": 8,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_05",
+      "afirmacao": "Bling é o ERP recomendado no método, com Plano Cobalto (R$ 50/mês) como mínimo viável e Plano Titânio (R$ 100/mês) como avançado",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Seção 'ERP Bling': 'Plano Cobalto, R$ 50 por mês, é o que você precisa no MVP... Titânio (R$ 100/mês) no começo'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma Bling como ERP recomendado, com Cobalto R$ 50/mês e Titânio R$ 100/mês?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_05",
+      "afirmacao": "Bling centraliza cadastros, vendas, estoque, NF, etiquetas, e relatórios; integra com Mercado Livre, Amazon, Shopee, Magalu, Olist",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'o que ele faz': 'centraliza cadastros... vendas, integrando com Mercado Livre, Amazon, Shopee, Magalu, Olist, todos'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Bling centraliza cadastros/vendas/estoque/NF/etiquetas/relatórios e integra com os principais marketplaces?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_05",
+      "afirmacao": "Patacori migrou para Bling em 2018: NFs saíram em 30 segundos por clique, 4h/dia recuperadas, antes fazia 300 NFs/mês no Word",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo de abertura: 'Aí, em 2018, a gente migrou para o Bling. E em uma semana, todas as notas fiscais saíram em 30 segundos com um clique'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma essa virada da Patacori com Bling em 2018 (300 NFs no Word → 30s/NF no Bling, 4h/dia recuperadas)?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_05",
+      "afirmacao": "Mercado Pago é o gateway padrão no Mercado Livre, com custo de 4,99% por transação de crédito à vista até 12,99% em parcelado",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'gateway de pagamento': 'Mercado Pago... o custo é o mesmo dos outros gateways, em torno de 4,99% por transação de crédito à vista, e até 12,99% em parcelado'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma Mercado Pago como gateway integrado ao Mercado Livre, com taxa de 4,99% à vista até 12,99% parcelado?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_05",
+      "afirmacao": "Venda por fora do marketplace (Pix por WhatsApp) é ilegal e sem NF, sem proteção, sem lastro; deve ser recusada",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'erro que pega muita gente': 'Venda por fora do marketplace é venda sem NF, sem proteção, sem garantia, sem direito a disputa, e sem lastro no seu histórico. E é ilegal'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que venda por fora (Pix WhatsApp) deve ser recusada por ser ilegal e sem proteção?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_05",
+      "afirmacao": "Mercado Envios Full só vale a pena a partir de 50 unidades por SKU por mês; no MVP, usar Mercado Envios padrão (etiqueta automática)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'Mercado Envios Full': 'Full é o programa do Mercado Livre... você paga para armazenar, e precisa de volume mínimo, geralmente acima de 50 unidades por SKU por mês'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma Mercado Envios Full como solução para 50+ unid/SKU/mês, e Mercado Envios padrão para o MVP?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_05",
+      "afirmacao": "Bling integra com Mercado Livre via Configurações → Integrações → Marketplaces, puxando todos os anúncios automaticamente",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'configuração prática': 'Acesse o Bling, vá em Configurações → Integrações → Marketplaces → Mercado Livre → Conectar'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o caminho de integração Bling-Mercado Livre via Configurações → Integrações?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_05",
+      "afirmacao": "Sincronização de estoque no Bling é obrigatória para evitar over-selling (vender o mesmo produto 2x em marketplaces diferentes)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'erro comum': 'Configure a sincronização de estoque no Bling, que é o coração da engrenagem. É uma configuração de 1 minuto. Não pule.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a obrigatoriedade da sincronização de estoque no Bling para evitar over-selling?"
+    }
+  ]
+}

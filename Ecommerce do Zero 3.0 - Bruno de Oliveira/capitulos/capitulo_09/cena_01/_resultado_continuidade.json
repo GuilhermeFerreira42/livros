@@ -1,0 +1,30 @@
+{
+  "cena": "9.1",
+  "validador": "Continuidade",
+  "metodo": "Bible da Obra + Estado da Obra",
+  "data": "2026-08-04",
+  "perguntas_avaliadas": 10,
+  "aprovadas": 10,
+  "reprovadas": 0,
+  "detalhes": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector e variação de fecho respeitados"},
+    {"id": "p2", "tema": "Coerência com cena 8.5", "status": "APROVADO", "nota": "'Te vejo no R$ 10K' é cumprido"},
+    {"id": "p3", "tema": "Fios narrativos centrais", "status": "APROVADO", "nota": "Validação, MVP, Patacori preservados"},
+    {"id": "p4", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Régua 10K/30K vem do corpus Cap 9"},
+    {"id": "p5", "tema": "Conector para cena 9.2", "status": "APROVADO", "nota": "Conector forte: 'sai do validei e entra no agora vou escalar'"},
+    {"id": "p6", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p7", "tema": "Preparação para Cap 10-12", "status": "APROVADO", "nota": "Estrutura profissional e marketplaces preparam próximos capítulos"},
+    {"id": "p8", "tema": "Tom correto", "status": "APROVADO", "nota": "Celebratório mas pé no chão"},
+    {"id": "p9", "tema": "Cases novos inconsistentes", "status": "APROVADO", "nota": "Nenhum case novo"},
+    {"id": "p10", "tema": "POV mentor + 2ª pessoa", "status": "APROVADO", "nota": "Alternância correta"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [
+    "Atualizar Bible v1.6 com novo marco: R$ 30K = validação consolidada (99% chance de sucesso)"
+  ],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 9.1 ser fechada, atualizar Cena_atual para {capitulo: 9, cena: 2}",
+    "Incrementar Chamadas_gastas em ~15 (2 cenas por call)"
+  ],
+  "status_geral": "APROVADO"
+}

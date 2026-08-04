@@ -1,0 +1,31 @@
+{
+  "cena_id": "cap_04_cena_06",
+  "capitulo": 4,
+  "cena": 6,
+  "data_validacao": "2026-07-30T18:40:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 16,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'eu preciso te explicar' (mentor 1ª), 'você precisa de' (2ª), 'você tem três opções' (2ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'tem', 'fica', 'precisa', 'ataca', 'custa', 'muda', 'vira'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'a maior besteira que o iniciante faz', 'categoria viral atrai muito tráfego, mas o cliente é menos qualificado', 'integrar antes da validação é otimizar para o inferno' (frase forte, pragmática).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'Imagina que você vende uma caneca', 'E aqui vai um caso que parece simples mas pega muita gente', 'E aqui vai a dica de ouro para o título do produto'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'SKU (Stock Keeping Unit): Código interno criado pelo vendedor para organizar o produto no seu sistema logístico/estoque. Cada item cadastrado na loja tem um SKU único.' e 'EAN (European Article Number): Código universal de produto de 13 dígitos, presente na embalagem de fábrica. Usado pelos marketplaces para identificar e comparar produtos iguais entre vendedores.' Cena usa exemplo da caneca com 3 variações para diferenciar SKU e EAN.", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Corpus '13 - Listagem de Produtos e Estoque Inicial' detalha o cadastro no Bling. Cena: 'Acesse o Bling, vá em Produtos → Adicionar Produto, e preencha os campos. O Bling vai te pedir: nome do produto, SKU (seu código interno), código de barras (EAN do fabricante, ou o da GS1), descrição, categoria, preço de custo, preço de venda, peso, dimensões, foto, e status' Passo a passo claro.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Cena fornece regras práticas e específicas: Título (marca + modelo + atributo, sem spam), Descrição (o que é + para que serve + diferencial, com exemplo concreto de caneca), Foto (fundo branco, luz uniforme, 1200x1200px, 3 opções de setup com custos).", "categoria": "PROTOCOLO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Cena: 'escolha a categoria mais específica que fizer sentido, não a mais genérica. Se você vende caneca, a categoria genérica é Utilidades Domésticas > Canecas, mas a categoria específica é Canecas de Cerâmica.' Regra explícita e justificada com exemplo.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Cena: 'compre a faixa menor de 10 EANs na GS1 Brasil, R$ 350, e use um EAN em cada produto. É um investimento, sim, mas é um investimento que vai ficar com você para sempre.' Recomendação justificada com argumento de credibilidade e uso global.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Estrutura Mínima Viável - Conceito Âncora'. Cena 4.6 continua aplicando ao cadastro de produto no Bling. A frase 'o que você cadastra aqui é o que vai aparecer em todos os marketplaces, automaticamente' é a tradução operacional do conceito de estrutura mínima.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Cena: 'Toca triangular. Na próxima cena deste capítulo, a gente vai destrinchar o dropshipping nacional homologado, que é vender sem estoque, com fornecedor brasileiro enviando direto, NF do fabricante pro cliente, e você no meio coordenando.' Anúncio com gancho (transformação: 'vender sem estoque') + contrato (dropshipping nacional homologado, NF, fornecedor).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 22-35 Primeiros produtos cadastrados com SKU + EAN, descrições, fotos, vídeos.' Cena 4.6 trata cadastro de produto (Dias 22-35).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: a cena usa âncoras sensoriais via medo do erro. (1) 'tirar foto no celular, em cima da mesa, com luz de janela, e achar que está bom. Não está.' (medo: parecer amador). (2) 'título com palavras repetidas... o Mercado Livre pune' (medo: punição do algoritmo). (3) 'colar a especificação técnica do fabricante e achar que está bom. Não está.' (medo: perder venda).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: fecho propulsor variado. Cena usa: 'Toca triangular' (no fecho). Variedade implementada.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório'. Gancho: 'dois códigos que confundem todo mundo'. Teoria: SKU vs EAN, faixas GS1. Analogia: exemplo da caneca. Campo de Batalha: erros (título spam, descrição técnica, foto ruim, categoria genérica). Fecho: 'Toca triangular'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 16, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:40:00Z"
+}

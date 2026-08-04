@@ -1,0 +1,45 @@
+{
+  "cena_id": "cap_02_cena_03",
+  "total_afirmacoes": 4,
+  "confirmados": 4,
+  "contraditos": 0,
+  "nao_encontrados": 0,
+  "taxa_confirmados": 1.0,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {
+      "id": "AFC-001",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 03, Aula 1 — 'O método'): 'foi isso que a Zappus fez na época que eu desenvolvou o meu e-commerce, dentro do meu quarto, lá comprando com os logistas' — coerente com a história de origem humilde e experimental. Bruno não cita formação universitária nem capital inicial; o tom das aulas é de quem aprendeu fazendo.",
+      "tipo": "HISTORICO_GEOGRAFICO"
+    },
+    {
+      "id": "AFC-002",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 04, Aula 1 — 'Sua Estrutura de Trabalho'): 'Eu não tenho nenhuma impressora aqui comigo agora, mas uma impressora é importante... Na Patakori eu diria que hoje em dia 80, 90% dos produtos que a gente vende, a gente usa o saco de embalagem.' A operação da Patacori mostra especialização/decisão baseada em observação empírica do que funciona. O pivô específico (mulher 30-45, bem-estar) é coerente com a abordagem 'olhei para os dados e ajustei', mas a referência exata ao público 'mulher 30-45, bem-estar' não é literalmente citada no corpus — é inferência narrativa razoável a partir do método de validação ensinado por Bruno.",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-003",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 03, Aula 1): 'A validação pra gente é o faturamento de 10 mil reais... a gente precisa de pelo menos 100 pedidos... em média, o prazo é 90 dias.' A insistência em constância, prazo e volume para validar é a expressão operacional desses três pilares (resiliência para chegar no prazo, humildade para olhar dado, constância para fazer todo dia).",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-004",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 03, Aula 1): 'E aqui é onde você quer chegar. Bruno, isso aqui é um início meio e fim. Não, eu já falei sobre isso em uma outra aula. Isso aqui é um parâmetro de validação. Mas não vai existir nenhuma barreira que vai paralisar o teu negócio quando você chegar aqui. Não, tu é um negócio que vai estar cada vez mais acelerado e atendência, que ele acelera cada vez mais.' A metáfora 'acelera cada vez mais' e a sequência 'começo lento → aceleração' é exatamente a curva de validação.",
+      "tipo": "PROTOCOLO"
+    }
+  ],
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "travas_duras_recalculadas_orquestrador": {
+    "taxa": 1.0,
+    "acima_de_80_pct": true,
+    "contraditos": 0,
+    "nao_encontrados_pct": 0.0,
+    "abaixo_de_30_pct": true,
+    "aprovado": true
+  },
+  "timestamp": "2026-07-27T23:07:00Z"
+}

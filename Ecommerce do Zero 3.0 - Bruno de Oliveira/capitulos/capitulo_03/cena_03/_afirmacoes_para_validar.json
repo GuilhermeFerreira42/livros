@@ -1,0 +1,108 @@
+{
+  "cena_id": "cap_03_cena_03",
+  "capitulo": 3,
+  "cena": 3,
+  "total_afirmacoes_extraidas": 18,
+  "total_apos_filtro": 11,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_03",
+      "afirmacao": "O tripé do planejamento é: nicho, persona, produto",
+      "tipo": "PROTOCOLO",
+      "contexto": "Abertura: 'o tripé da escolha. Nicho. Persona. Produto.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o planejamento gira em torno do tripé nicho, persona, produto?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_03",
+      "afirmacao": "Nicho não é mercado macro (beleza, moda, informática), é micro-nicho verticalizado (ex: hidratante para cabelo cacheado de criança, tinta recarga HP 664, comedouro lento para cão braquicefálico)",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Seção Nicho: 'micro, verticalizado, com persona clara e dor específica'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que nicho deve ser micro/verticalizado e dá exemplos de nichos específicos?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_03",
+      "afirmacao": "O Brasil tem mais de 210 milhões de habitantes, qualquer micro-nicho tem demanda",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção Nicho: 'a gente está no país com mais 210 milhões de habitantes'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o Brasil tem mais de 210 milhões de habitantes e que qualquer micro-nicho tem demanda?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_03",
+      "afirmacao": "Bruno vendia tinta de recarga (micro-nicho informática) e faturava quase 2 milhões por mês",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Seção Nicho: 'a gente vendia em torno de dois milhões de reais por mês'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Bruno faturava quase 2 milhões/mês vendendo tinta de recarga/cartucho?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_03",
+      "afirmacao": "Persona deve ter uma principal; ferramenta obrigatória é Mapa de Empatia preenchido conversando com gente real (não adivinhando)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção Persona: 'você não adivinha. Você conversa com gente real'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a ferramenta para mapear persona é Mapa de Empatia e deve ser preenchido conversando com pessoas reais?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_03",
+      "afirmacao": "Persona pode ser transformada (resolveu próprio problema) ou mapeada (encontrou dor no mercado); os dois caminhos funcionam",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Seção Persona: 'A persona pode ser transformada... ou mapeada... Os dois caminhos funcionam.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que persona pode ser transformada ou mapeada, e que os dois caminhos funcionam?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_03",
+      "afirmacao": "O produto é a resposta para a dor da persona dentro do nicho escolhido, não a primeira coisa a definir (ordem: nicho → persona → produto)",
+      "tipo": "MECANISMO",
+      "contexto": "Seção Produto: 'o produto é a resposta que você dá para a dor da persona'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a ordem nicho → persona → produto e que o produto é resposta à dor da persona?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_03",
+      "afirmacao": "Ana Clara (diretora de marketing) dá aula bônus do Mapa de Empatia",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Seção Persona: 'A Ana Clara, nossa diretora de marketing, vai te dar a aula bônus completa do Mapa de Empatia.' (implícito — referência geral)",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Ana Clara ministra conteúdo sobre audiência/mapa de empatia?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_03",
+      "afirmacao": "A boa prática de pesquisa de produto inclui marketplace, Google, TikTok, Instagram, grupos de Facebook, fóruns, comentários de YouTube",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção Produto: 'vai no marketplace, no Google, no TikTok, no Instagram, em grupos de Facebook, em fóruns'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma esses canais de pesquisa de produto?"
+    },
+    {
+      "id": "AFC-010",
+      "segmento": "cena_03",
+      "afirmacao": "A regra prática do método é começar micro-nicho, validar, e só então expandir (não começar amplo)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção final: 'micro-nicho primeiro, depois expanda'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a regra de começar micro-nicho, validar e só depois expandir?"
+    },
+    {
+      "id": "AFC-011",
+      "segmento": "cena_03",
+      "afirmacao": "Próxima cena aborda fornecedores: como encontrar e homologar, contingência (principal + 2 backups), negociar prazo e crédito",
+      "tipo": "PROTOCOLO",
+      "contexto": "Fecho: 'No próximo capítulo, a gente vai mergulhar no fornecedor'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o próximo capítulo (Cap. 3.4) trata de encontrar, homologar e qualificar fornecedores?"
+    }
+  ]
+}

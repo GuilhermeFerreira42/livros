@@ -1,0 +1,30 @@
+{
+  "cena_id": "cap_03_cena_05",
+  "capitulo": 3,
+  "cena": 5,
+  "data_validacao": "2026-07-30T17:40:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 15,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.4 POV_padrao. Cena: 'E aí, tudo bem?' (mentor), 'você está' (2ª), 'eu vou ser direto' (mentor), 'você não tem CNPJ' (2ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tempo presente. Cena: 'é', 'popularizou', 'vou deixar', 'funciona', 'tem', 'está', 'faz', 'pode', 'entregou'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tom pragmático/encorajador. Cena: 'conversa séria', 'pesadelo', 'pode te meter num processo criminal', 'não vale o risco', 'legal, seguro, escalável'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Distância Mentor/Consultor. Cena: 'Deixa eu te dar a definição correta', 'Vou ser muito direto', 'Bora montar a oferta que vende'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Glossário: 'Dropshipping: Modelo de distribuição (NÃO modelo de negócio) onde o vendedor não estoca — repassa o pedido ao fornecedor que envia direto ao cliente.' Cena: 'Dropshipping não é modelo de negócio. Dropshipping é modelo de distribuição.'", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Bible Cases: 'Dropshipping Nacional Homologado - Solução de Nicho'. Cena apresenta o modelo: fornecedor brasileiro, NF do fabricante pro cliente, você no meio dando suporte (CX), risco zero de estoque (consignação).", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Corpus '10 - A Verdade sobre Dropshipping.txt' detalha os 5 problemas do dropshipping internacional. Cena os apresenta como '5 motivos': importação ilegal, cliente não avisado, viola CDC, sem estrutura, financia cadeia ilegal. Casos com pena de 1-8 anos.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Bible Mitos: 'Dropshipping internacional é o melhor caminho' -> 'Não. É importação ilegal, sem nota fiscal, sem proteção do cliente.' Corpus '10' desmascara completamente. Cena reproduz.", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Corpus '10 - A Verdade sobre Dropshipping.txt': 'Foi assim que eu comecei lá atrás, eu fiz isso recentemente com algumas categorias de produto na Patakori... ele mandou a consignação'. Cases: Bruno/Patacori (PRIMÁRIA).", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Fios: 'Dropshipping Nacional Homologado - Solução de Nicho, introduzido Cap. 3, payoff Cap. 4'. Cena instala o fio: 'O que a gente faz no Ecommerce na Prática: Dropshipping Nacional Homologado.'", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Fios: 'Produto Estrela - Conceito Âncora'. Cena antecipa: 'próxima cena vai fechar o tripé do planejamento com ofertas, demanda e produto estrela' (próximo capítulo).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Conceitos-chave: 'Triângulo do Sucesso (ML): Audiência × Estrutura × Ofertas equilibradas.' Cena antevê o triângulo: 'A oferta não funciona sozinha. Ela precisa estar colada na audiência' (referência implícita).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 1-7 Planejamento: nicho, persona, fornecedores, ofertas'. Dropshipping homologado é decisão do planejamento (Dias 1-7), com execução em paralelo à estrutura (Dias 8-21).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Bible v1.4: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'conversa séria... pode te meter num processo criminal'. Teoria: definição + problemas do internacional. Analogia: caso Bruno/Patacori, modelo nacional homologado. Campo de Batalha: 5 motivos, regras, modelo único. Fecho: 'Bora montar a oferta que vende'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 15, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T17:40:00Z"
+}

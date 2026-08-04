@@ -1,0 +1,35 @@
+{
+  "cena_id": "6.5",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_6_1_a_6_4": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_cap_7_estrutura_vendas": "APROVADO",
+    "ain_aliexpress_literais": "APROVADO",
+    "regra_1_percent_media_ml_literais": "APROVADO",
+    "6_niveis_fieis_ao_corpus": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.600)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO (fechamento de cap)",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "cases_oficiais_corpus_protegidos": "APROVADO",
+    "fernando_nubank_echo_continuidade": "APROVADO",
+    "mito_reclame_aqui_desconstruido": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 20 eixos. Cap. 6 pode ser consolidado como capítulo completo."
+}

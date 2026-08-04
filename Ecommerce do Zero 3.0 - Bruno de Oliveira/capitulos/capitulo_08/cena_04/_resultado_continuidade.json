@@ -1,0 +1,28 @@
+{
+  "cena": "8.4",
+  "validador": "Continuidade",
+  "metodo": "Bible da Obra + Estado da Obra",
+  "data": "2026-08-04",
+  "perguntas_avaliadas": 10,
+  "aprovadas": 10,
+  "reprovadas": 0,
+  "detalhes": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector e variação de fecho respeitados"},
+    {"id": "p2", "tema": "Case Patacori canônico", "status": "APROVADO", "nota": "11.000 fãs, 87% mulher, 18-54 anos, públicos já criados preservados"},
+    {"id": "p3", "tema": "Coerência com cena 8.3", "status": "APROVADO", "nota": "3-5 campeões vão pro público certo"},
+    {"id": "p4", "tema": "Coerência com cena 8.2", "status": "APROVADO", "nota": "Conta configurada é onde públicos são criados"},
+    {"id": "p5", "tema": "Coerência com cena 8.1", "status": "APROVADO", "nota": "Público certo + criativo certo = tese completa"},
+    {"id": "p6", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Todos os dados vêm do corpus da Aula 5"},
+    {"id": "p7", "tema": "Conector para cena 8.5", "status": "APROVADO", "nota": "Gancho emocional forte"},
+    {"id": "p8", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p9", "tema": "Preparação para cena 8.5", "status": "APROVADO", "nota": "Públicos prontos, próximo passo é orçamento"},
+    {"id": "p10", "tema": "Preparação para Cap 9", "status": "APROVADO", "nota": "Etapa final antes de escalar para validação"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 8.4 ser fechada, atualizar Cena_atual para {capitulo: 8, cena: 5}",
+    "Incrementar Chamadas_gastas em ~15 (2 cenas por call)"
+  ],
+  "status_geral": "APROVADO"
+}

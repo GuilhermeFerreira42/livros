@@ -1,0 +1,85 @@
+{
+  "cena": "9.1",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Régua de 2 estágios: R$ 10K (primária) e R$ 30K (consolidada)",
+        "99% de chance de sucesso no R$ 30K",
+        "Analogia do surf (barreira de arrebentação)",
+        "3 razões concretas para comemorar",
+        "5 coisas que o aluno está levando",
+        "Manual de uso do curso (fonte de consulta, não prova de leitura)",
+        "5 mentalidades pós-validação"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "'Você não concluiu um curso. Você validou um negócio'",
+        "'Informação sem caixa é hobby. Caixa com informação é negócio'",
+        "'O iniciante que para na validação, e acha que chegou ao topo, vai ser engolido por quem continua'",
+        "'A diferença é começar a próxima fase com a bateria cheia, em vez de meia'"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Tom celebratório mas pé no chão",
+        "Mensagem central memorável: 'você começou do zero, e agora está em outro lugar'",
+        "Analogia visual (surf/jet ski)",
+        "'CPF' como 'certidão de passagem de fase'",
+        "'A diferença é ver o livro como bússola, e não como trilho de trem'"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Conecta com Cap 8.5: 'Te vejo no R$ 10K' cumprido",
+        "6 etapas do método revisitadas",
+        "Cap 4 (MVP) referenciado",
+        "Cap 8 (Impulsão) referenciado",
+        "Patacori preservado como case de fundo",
+        "Lei 6 respeitada"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola: 'A validação não é o fim da jornada. É o fim do começo'",
+        "Gancho: 'eu preciso parar um segundo aqui com você'",
+        "Estrutura modular completa",
+        "Conector: 'Te vejo no próximo passo'",
+        "Mensagem final memorável: 'você começou do zero, e agora está em outro lugar'"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (aluno não bateu R$ 10K): coberto com linguagem inclusiva",
+      "Tentativa 2 (não quer comemorar): sugestão, não obrigação",
+      "Tentativa 3 (pulou capítulos): coberto com fonte de consulta",
+      "Tentativa 4 (não validou mas está perto): coberto com 'muito próxima de ser validada'",
+      "Tentativa 5 (ansiedade com próximos passos): coberto com respiração 24-48h"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena cumpre duplo papel: celebra sem excessos e prepara sem ansiedade. Analogia do surf memorável. Régua de 2 estágios prática. Lista de 5 coisas que o aluno está levando funciona como espelho. 5 mentalidades preparam próxima cena. Lei 6 respeitada.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 18,
+    "fatos_verificaveis": 20,
+    "casos_com_atrito": "não aplicável (cena celebratória)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Te vejo no próximo passo",
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "cena": "11.1",
+  "categoria": "validacao_continuidade_bible_estado",
+  "perguntas": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector 'Na próxima cena deste capítulo', fecho variado (Toca cadastrar produto)"},
+    {"id": "p2", "tema": "Coerência com cena 10.3", "status": "APROVADO", "nota": "Integração Bling-ML conecta com Mercado Líder, kits, anúncios múltiplos"},
+    {"id": "p3", "tema": "Fios narrativos centrais", "status": "APROVADO", "nota": "MVP (Bling), Estrutura, Mercado Livre, Patacori preservados"},
+    {"id": "p4", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Configs vêm do corpus Cap 11"},
+    {"id": "p5", "tema": "Conector para cena 11.2", "status": "APROVADO", "nota": "'Toca cadastrar produto'"},
+    {"id": "p6", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p7", "tema": "Preparação para cena 11.3", "status": "APROVADO", "nota": "Certificado digital e natureza de operação são pré-requisitos"},
+    {"id": "p8", "tema": "Cases ou dados inconsistentes", "status": "APROVADO", "nota": "Patacori configurações preservadas"},
+    {"id": "p9", "tema": "Tom correto", "status": "APROVADO", "nota": "Técnico mas acessível"},
+    {"id": "p10", "tema": "POV mentor + 2ª pessoa", "status": "APROVADO", "nota": "Alternância correta"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [
+    "Atualizar Bible com Bling como ERP canônico (já é, mas reforçar)"
+  ],
+  "recomendacoes_atualizacao_estado": [
+    "Cena 11.1 fechada"
+  ],
+  "status_geral": "APROVADO"
+}

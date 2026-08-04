@@ -1,0 +1,93 @@
+{
+  "cena_id": "7.4",
+  "titulo": "Kits: como criar e vender composições lucrativas",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "Kit é construído antes da venda. É a alavanca passiva do ticket médio. Diferente de upsell/cross-sell/down-sell (que acontecem no momento da venda).",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que descreve o kit como estratégia de catálogo)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central da cena"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "CASE",
+      "afirmacao": "Case Patacori incenso (literal): unitário R$ 5 (inviável) → parou de vender → fardo fechado 25 caixinhas R$ 75 → kits de 2/3/4/5/10/25/50 fardos (até R$ 2.000) → ticket médio R$ 30 → R$ 300.",
+      "fonte_no_corpus": "transcrição literal Aula 5 - 'em senso a gente tem o seguinte, a caixinha de em senso, ela vem com 8 em senso... Fardo. Bem, 25 caixinhas dentro desse fardo. Aí eu comecei a vender só fardo. O fardo era 99 reais... começamos a testar ali na casa de 67 reais. Na casa de 75 reais, aí começou a vender... Criamos kits com dois fardos, com três fardos, com quatro fardos, com cinco fardos, com 10, com 25, e até com 50 fardos. Queit que custava quase 2 mil reais... Hoje o ticket medio da Patakori, ele é em torno de 300 reais. É um ticket medio fantástico. E antes da gente usar essa estratégia, ele girava na casa de 30 reais.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "TIPOLOGIA",
+      "afirmacao": "3 tipos de kit: (1) A+B+C (produtos complementares, resolve dor completa); (2) Quantidade (10x A, 25x A, mesmo produto repetido, resolve logística+margem+atacado informal); (3) Sortimento (variações do mesmo produto, cliente escolhe, cobra 20-30% mais caro).",
+      "fonte_no_corpus": "construção editorial estruturada a partir do corpus (que descreve 'kit de quantidade', 'kit sortido', 'kit A com B com C')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese estruturada do método"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "FRASE_ANCORA",
+      "afirmacao": "'Pegar os teus produtos e começar a formar kit. Kit do produto A com B, kit do A com B com C, kit de várias unidades do A, kit de sortimento do B, kit de sortimento do C.'",
+      "fonte_no_corpus": "transcrição literal Aula 5 - 'a tua tarefa, na partir de agora, é pegar os teus produtos e começar a formar kit. Kit do produto A com B, kit do A com B com C, kit de várias unidades do A, kit de sortimento do B, kit de sortimento do C e por aí vai.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "TESE",
+      "afirmacao": "Pensar no topo do triângulo (audiência), na dor, na necessidade. Que tipo de kit facilita a vida do cliente?",
+      "fonte_no_corpus": "transcrição literal Aula 5 - 'vou recomendar demais que você forme kits sempre pensando no topo do nosso triângulo, no A, no audiência, pensando na dor da todência, pensando na necessidade da todência. Que tipo de kit você pode criar que facilita a vida do seu cliente?'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "CASO_ESPECIFICO",
+      "afirmacao": "Patacori incenso: fardo sortido de 10 aromas diferentes vendido por R$ 99 (vs fardo unitário R$ 75), com 25% de premium. Sortido começou a vender mais e mais caro que unitário.",
+      "fonte_no_corpus": "transcrição literal Aula 5 - 'se um fardo fechado de uma aroma é 75, eu vou vender por 99 reais um fardo sortido, onde ele vai poder escolher os aromas... Esse começou a vender mais do que os outros. As pessoas queriam a possibilidade de sortir os aromas. E para isso elas estavam dispostas a pagar 25% mais caro.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "FERRAMENTA",
+      "afirmacao": "Planilha 6 colunas: nome do kit + tipo (A+B, quantidade, sortimento) + produtos incluídos + preço de venda (com desconto sobre soma) + economia que o cliente faz + taxa de aceitação (acima de 5% = saudável).",
+      "fonte_no_corpus": "construção editorial estruturada a partir do corpus (que recomenda 'pensar no kit, no sortimento, no A com B com C, em sortimento do B/C')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o método"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "Erro clássico: montar kit sem teste, sem experimentação, sem checar o que a Claudia quer. Chute em kit queima catálogo e suja o termômetro do marketplace.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que fala em 'pensar no cliente' e 'fazer a sacada')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "TESE",
+      "afirmacao": "Kits não substituem o produto unitário, e vice-versa. Os dois coexistem no catálogo. Cliente vê os dois e escolhe.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que apresenta o kit como estratégia complementar ao unitário)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "EFEITO",
+      "afirmacao": "Kit de quantidade resolve 3 problemas: logística (empacotar 25 de uma vez), margem (1 SKU empacotado vs 25), atacado informal (papelaria de bairro comprando fardo).",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que descreve o efeito do fardo na Patacori)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 7.4 é uma das mais ricas e fiéis ao corpus do Cap. 7. 4 citações literais (AFC-002, 004, 005, 006). Case Patacori incenso reconstruído literalmente (R$ 5 unitário → R$ 75 fardo → R$ 300 ticket médio). 3 tipos de kit são síntese estruturada. Planilha 6 colunas é construção editorial coerente. Conceitos (B2B informal, sortimento premium 20-30%) são diferenciais didáticos."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cena": "11.3",
+  "validador": "MARCH",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {"status": "APROVADO"},
+    "D2_arena": {"status": "APROVADO"},
+    "D3_ressonancia": {"status": "APROVADO"},
+    "D4_consistencia": {"status": "APROVADO"},
+    "D5_heuristica": {"status": "APROVADO"}
+  },
+  "reverso": {"quebras_tentadas": 5, "quebras_criticas": 0},
+  "holistico": {
+    "impressao_geral": "Cena fecha Cap 11 com fluxo completo de NF integrada. 6 passos + 3 status + 6 ícones. Patacori 2 pessoas tratando milhares de NF. Lei 6 respeitada.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 15,
+    "fatos_verificaveis": 16,
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

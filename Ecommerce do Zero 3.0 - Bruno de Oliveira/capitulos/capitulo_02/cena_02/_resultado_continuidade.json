@@ -1,0 +1,18 @@
+{
+  "cena_id": "cap_02_cena_02",
+  "total_verificacoes": 5,
+  "confirmados": 5,
+  "contraditos": 0,
+  "nao_encontrados": 0,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Cena 2.2 mantém padrão: 1ª ('eu preciso te dar um panorama honesto', 'eu não vou fazer isso com você', 'eu te ensino', 'eu também me perdia') e 2ª em comandos ('você vai entender', 'você precisa ter clareza', 'trata esse curso').", "categoria": "PERSONAGEM_ACAO"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Cena 2.2: 'mais de 70% das vendas online no Brasil acontecem em marketplace' e 'você entra em um marketplace que já tem milhões de visitantes por dia'. Coerente com a Bible e com a versão 3.0 do método.", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Cena 2.2: tom honesto ('tem muita gente que te vende a fantasia'), pragmático ('o ambiente é competitivo'), encorajador no final ('persistir com método é o maior diferencial'). Presente atemporal.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Cena 2.2: 'para você faturar dez mil reais, você precisa de 50 a 70 pedidos. E para chegar nos cem pedidos, que é a outra metade da validação' — referenda explicitamente a régua de validação instalada na Cena 1.1.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Cena 2.2 cumpre o objetivo da Bible. Apresenta números (mercado > 100 bi, ticket 150-200, 70% marketplace, 80% de desistência no 1º ano), honestidade sobre dificuldades, encorajamento para persistir. Mudança de estado documentada no checklist.", "categoria": "OBJETIVO_CENA"}
+  ],
+  "erros": [],
+  "auditoria_cegueira": {"validador_viu_saida_escritor": false, "violacao": false},
+  "timestamp": "2026-07-27T23:03:00Z"
+}

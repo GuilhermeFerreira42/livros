@@ -1,0 +1,28 @@
+{
+  "cena_id": "6.5",
+  "validador": "MARCH (blind)",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "afirmacoes_total": 10,
+    "aprovadas_direto": 10,
+    "aprovadas_com_ressalva": 0,
+    "reprovadas": 0,
+    "taxa_suportabilidade_percent": 100,
+    "afirmacoes_com_fonte_literal": 7,
+    "afirmacoes_com_case_ancorado": 2,
+    "construcoes_editoriais_do_metodo": 3
+  },
+  "checks_realizados": {
+    "fidelidade_voz_bruno": "APROVADO",
+    "ancoragem_caso_real": "APROVADO (Ain, AliExpress, ML)",
+    "show_dont_tell": "APROVADO",
+    "estrutura_interna": "APROVADO",
+    "caos_antes_solucao": "APROVADO (AliExpress vs Ain)",
+    "fechos_variados": "APROVADO (fechamento de capítulo)",
+    "lei_6_zero_marketing": "APROVADO",
+    "lei_5_isolamento_pasta": "APROVADO",
+    "mito_reclame_aqui_pesadelo_desconstruido": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA. Pode ser consolidada como última cena do Cap. 6."
+}

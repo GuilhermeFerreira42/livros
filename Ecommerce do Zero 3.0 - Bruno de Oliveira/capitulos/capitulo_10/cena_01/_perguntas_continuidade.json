@@ -1,0 +1,68 @@
+{
+  "cena": "10.1",
+  "categoria": "validacao_continuidade_bible_estado",
+  "perguntas": [
+    {
+      "id": "p1",
+      "pergunta": "A cena 10.1 referencia explicitamente alguma decisão editorial travada na Bible?",
+      "resposta_esperada_bible": "Sim — conector 'Na próxima cena deste capítulo' (mesmo cap), variação de fecho (Toca equilibrar o triângulo, não Bora), cases com atrito, caos antes da solução (termômetro vermelho → 10 vendas reais).",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p2",
+      "pergunta": "A cena 10.1 mantém coerência com a cena 9.2 (próximos passos)?",
+      "resposta_esperada_bible": "Sim — cena 9.2 fala em 'marketplaces pós-validação' e 'pistas de alta velocidade'. Cena 10.1 aprofunda o Mercado Livre como o principal marketplace.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p3",
+      "pergunta": "A cena 10.1 preserva os fios narrativos centrais da Bible?",
+      "resposta_esperada_bible": "Sim — 'A Validação' (termômetro verde escuro = sinal de validação mantida), 'Estrutura Mínima Viável' (FULL = evolução do MVP), 'Patacori' (case canônico preservado com números reais).",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p4",
+      "pergunta": "A cena 10.1 introduz informação nova conflitante com a Bible?",
+      "resposta_esperada_bible": "Não — todos os dados (comissão 16%, Mercado Pago, Mercado Envios, termômetro, Mercado Líder) vêm do corpus do ML 2.0. Bible lista Mercado Livre como canônico.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p5",
+      "pergunta": "A cena 10.1 tem conector para a próxima cena (10.2 - Triângulo do Sucesso)?",
+      "resposta_esperada_bible": "Sim — 'Na próxima cena deste capítulo: Triângulo do Sucesso: audiência × estrutura × ofertas', com gancho 'Toca equilibrar o triângulo'.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p6",
+      "pergunta": "A cena 10.1 respeita as 6 Leis de Greenforge?",
+      "resposta_esperada_bible": "Sim — Lei 1 (1 cena por vez), Lei 2 (MARCH + Continuidade), Lei 3 (atualização atômica), Lei 4 (checksum), Lei 5 (worktree/cena_01), Lei 6 (zero marketing).",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p7",
+      "pergunta": "A cena 10.1 prepara o terreno para Cap 11 (Bling)?",
+      "resposta_esperada_bible": "Sim — menciona ERP (Bling) como base de tudo, e a integração com Mercado Livre é o que conecta Cap 10 com Cap 11.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p8",
+      "pergunta": "A cena 10.1 introduz cases ou dados inconsistentes?",
+      "resposta_esperada_bible": "Não — todos os cases e dados vêm do corpus do ML 2.0. Patacori continua case canônico com números preservados.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p9",
+      "pergunta": "A cena 10.1 mantém o tom correto (técnico mas acessível)?",
+      "resposta_esperada_bible": "Sim — usa metáforas (engrenagem invisível, top of search) e dados concretos (R$ 157, 16%, 0,3% mediação) sem ser excessivamente técnica.",
+      "status": "VALIDADO"
+    },
+    {
+      "id": "p10",
+      "pergunta": "A cena 10.1 mantém POV do mentor (Bruno) com alternância para 2ª pessoa?",
+      "resposta_esperada_bible": "Sim — começa em 1ª do mentor (Eu, Bruno), alterna para 2ª pessoa (você), e cita o corpus como 'do Bruno' mantendo transparência.",
+      "status": "VALIDADO"
+    }
+  ],
+  "resumo": "Cena 10.1 passa em todas as 10 perguntas de continuidade. Cobre o ecossistema (4 braços), termômetro (ativação em 10 vendas), Mercado Líder (4 critérios), com dados reais Patacori. Conector 'Toca equilibrar o triângulo' prepara cena 10.2. Lei 6 respeitada.",
+  "status_geral": "APROVADO"
+}

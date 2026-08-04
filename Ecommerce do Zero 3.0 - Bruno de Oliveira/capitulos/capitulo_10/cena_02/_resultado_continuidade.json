@@ -1,0 +1,27 @@
+{
+  "cena": "10.2",
+  "validador": "Continuidade",
+  "metodo": "Bible da Obra + Estado da Obra",
+  "data": "2026-08-04",
+  "perguntas_avaliadas": 10,
+  "aprovadas": 10,
+  "reprovadas": 0,
+  "detalhes": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector, variação de fecho, cases com atrito respeitados"},
+    {"id": "p2", "tema": "Coerência com cena 10.1", "status": "APROVADO", "nota": "Audiência do ML operacionalizada"},
+    {"id": "p3", "tema": "Fios narrativos centrais", "status": "APROVADO", "nota": "Triângulo (Bible v1.0), MVP, Audiência preservados"},
+    {"id": "p4", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Triângulo é conceito proprietário; cases do corpus"},
+    {"id": "p5", "tema": "Conector para cena 10.3", "status": "APROVADO", "nota": "'Toca dominar as táticas avançadas'"},
+    {"id": "p6", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p7", "tema": "Preparação para Cap 11", "status": "APROVADO", "nota": "Bling citado como peça central"},
+    {"id": "p8", "tema": "Cases com atrito", "status": "APROVADO", "nota": "3 cases documentados (Patrícia, Victor, John)"},
+    {"id": "p9", "tema": "Tom correto", "status": "APROVADO", "nota": "Conceitual mas prático"},
+    {"id": "p10", "tema": "POV mentor + 2ª pessoa", "status": "APROVADO", "nota": "Alternância correta"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 10.2 ser fechada, atualizar Cena_atual para {capitulo: 10, cena: 3}"
+  ],
+  "status_geral": "APROVADO"
+}

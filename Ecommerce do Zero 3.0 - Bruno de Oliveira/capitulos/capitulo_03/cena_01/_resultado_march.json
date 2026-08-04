@@ -1,0 +1,145 @@
+{
+  "cena_id": "cap_03_cena_01",
+  "capitulo": 3,
+  "cena": 1,
+  "data_validacao": "2026-07-30T17:25:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 20,
+  "auditoria_cegueira": {
+    "log_prompt_contem_saida_escritor": false,
+    "violacao": false
+  },
+  "resultados": [
+    {
+      "id": "AFC-001",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Quando eu comecei, lá em 2012, eu não tinha método.'",
+      "tipo": "DADO_NUMERICO"
+    },
+    {
+      "id": "AFC-002",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'A nossa estrutura é composta para você entender de uma, duas, três, quatro, cinco, seis etapas. São seis etapas que compõem a nossa estrutura. Tudo começa no planejamento... No outro módulo, a gente vai para audiência... a gente vai começar a entender o conceito de oferta... A gente vai estruturar atendimento... por fim, no nosso último módulo, a gente vai falar de anúncios. Então essa é a nossa metodologia, planejamento, estrutura, audiência, vendas, atendimento e impulsão.'",
+      "tipo": "MECANISMO"
+    },
+    {
+      "id": "AFC-003",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'no planejamento a gente vai mergulhar a fundo, onde você vai entender todas as nuances possíveis, onde que você precisa detalhar o plano do seu negócio... você vai sair daqui com um plano de ação para, no módulo seguinte, a gente construir a estrutura de validação.'",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-004",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'No módulo seguinte, a gente vai pegar esse plano e vamos construir a estrutura de validação. O que a gente precisa? Precisa de loja virtual, precisa de marketplace, quais marketplace, preciso de serem pejota, não preciso de serem pejota, enfim. Tudo que é necessário para poder validar, a gente vai construir no módulo seguinte.'",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-005",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible Glossário: 'Bling: ERP brasileiro líder para micro e pequenas empresas, recomendado na obra'. Corpus módulo 11 dedicado ao Bling (Bônus - Curso Bling).",
+      "tipo": "NOME_PROPRIO"
+    },
+    {
+      "id": "AFC-006",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '7 - Onde vender - Canais de Venda.txt': 'Marketplace, vamos lá. Temos o mercado livre... Temos Amazon... Temos o Olist... E vamos ter outros canais que a gente já abordava antes. Enjoei, Elo7, Elu7.'",
+      "tipo": "NOME_PROPRIO"
+    },
+    {
+      "id": "AFC-007",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'No outro módulo, a gente vai para audiência. Eu pego essa estrutura de validação, pego a minha persona, pego todas as necessidades que eu preciso resolver da minha persona e começo a criar conteúdo... para poder movimentar e criar uma audiência crescente para o meu negócio.' Bible: 'AUDIÊNCIA É REI' conceito-chave Cap. 5.",
+      "tipo": "CONCEITO_TECNICO"
+    },
+    {
+      "id": "AFC-008",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Cases: 'Ana Clara Magalhães é a nossa diretora de marketing de embalagem. Ela é a pessoa que mais entende de produção de conteúdo dentro do Ecommerce na Prática.'",
+      "tipo": "NOME_PROPRIO"
+    },
+    {
+      "id": "AFC-009",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'isso obviamente, naturalmente, já vai gerar vendas para o nosso negócio. Então a gente vai começar a entender o conceito de oferta... e aqui a gente vai começar a gerar vendas.' Bible detalha Cap. 7 (Vendas) com cross-sell, upsell, kits, NF.",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-010",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'A gente vai estruturar atendimento para depois venta, para poder potencializar essas vendas.' Bible Glossário: 'SAC vs. CX... A obra adota CX.' Módulo 06 (Atendimento) lista canais WhatsApp/Direct/Messenger.",
+      "tipo": "MECANISMO"
+    },
+    {
+      "id": "AFC-011",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Cases: 'A Babi é a nossa diretora de produtos e customer experience. Quando o assunto é atendimento ao cliente... quem vai te ensinar é a Babi.'",
+      "tipo": "NOME_PROPRIO"
+    },
+    {
+      "id": "AFC-012",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'E, por fim, no nosso último módulo, a gente vai falar de anúncios... como é que a gente consegue escalar, como é que a gente consegue impulsionar isso?' Bible: 'Impulsão Seletiva: Anunciar SÓ o que já está funcionando organicamente.'",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-013",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Essa é a nossa metodologia, planejamento, estrutura, audiência, vendas, atendimento e impulsão. Esse é o método que vai levar o teu negócio do zero, a validação, e a resultado muito superior no processo de pós-validação.' Bible: ordem fixa como decisão editorial travada.",
+      "tipo": "CAUSALIDADE"
+    },
+    {
+      "id": "AFC-014",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'A validação pra gente é o faturamento de 10 mil reais. 10 mil reais em vendas... a gente precisa de pelo menos 100 vendas... Em média, o prazo é 90 dias.' Bible: 'Validação: Meta concreta: R$ 10 mil em vendas + 100 pedidos em ~90 dias.'",
+      "tipo": "DADO_NUMERICO"
+    },
+    {
+      "id": "AFC-015",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt' descreve sequência natural com sobreposição. Bible: 'O método não é linear no sentido de termina uma, começa a outra. Tem sobreposição.' Cronologia Bible: Dias 8-21 Estrutura, 22-35 Produtos, 36-60 Audiência, 80-90 Impulsão - implícita dependência sequencial.",
+      "tipo": "MECANISMO"
+    },
+    {
+      "id": "AFC-016",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'No módulo seguinte... precisa de serem pejota... Tudo que é necessário para poder validar.' Bible cronologia: CNPJ (Dias 8-21) antes de marketplace; fornecedor homologado (Dias 22-35) antes de cadastrar produto; audiência orgânica (Dias 36-60) antes de impulsão (Dias 80-90).",
+      "tipo": "REGRA_MERCADO"
+    },
+    {
+      "id": "AFC-017",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus módulo 03: Aula 2 'Nichos de Mercado' (micro-nicho); Aula 5 'Para quem vender' (mapa de empatia, conversar com pessoas reais); Aula 6 'Quem vai te fornecer' + 6.1 'MasterClass Fornecedores' (encontrar fornecedor, contingência); Aula 9 'Ofertas' (produto estrela, alto lucro/baixa competição, conectar com audiência).",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-018",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '5 - Para quem vender.txt': 'Existe uma ferramenta para você preencher... chamada Mapa de Empatia. Essa ferramenta ela vai te ajudar a mapar pontos importantes, características, dores, soluções da sua persona... Eu vou disponibilizar para vocês uma aula bônus... sobre como você vai preencher o mapa de empatia.'",
+      "tipo": "CONCEITO_TECNICO"
+    },
+    {
+      "id": "AFC-019",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt' (contexto geral da aula): o método ensina a não pular etapas. Bible registra exemplos práticos de erros comuns. O corpus apoia a lógica de que pular etapa (CNPJ sem produto, fotógrafo sem fornecedor, anúncio sem base) é contra o método.",
+      "tipo": "CITACAO_CASE"
+    },
+    {
+      "id": "AFC-020",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4: 'Patacori: Loja de pedras e cristais do próprio Bruno. Opera com Bling Titânio (~R$ 100/mês), 80–90% dos envios em sacos de embalagem, kit de 7 chakras como produto carro-chefe.' Corpus '11 - Configurações Iniciais do Bling.txt' e Cap. 4 mencionam Patacori como case principal.",
+      "tipo": "NOME_PROPRIO"
+    }
+  ],
+  "metricas": {
+    "confirmados": 20,
+    "contraditos": 0,
+    "nao_encontrados": 0,
+    "taxa_confirmacao": 1.0,
+    "taxa_nao_encontrado": 0.0,
+    "taxa_contradicao": 0.0
+  },
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T17:25:00Z"
+}

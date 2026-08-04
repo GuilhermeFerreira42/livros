@@ -1,0 +1,19 @@
+{
+  "cena_id": "cap_02_cena_03",
+  "capitulo": 2,
+  "cena": 3,
+  "total_afirmacoes_extraidas": 5,
+  "total_apos_filtro": 4,
+  "afirmacoes_filtradas": [
+    {"id": "AFC-001", "segmento": "cena_03", "afirmacao": "Bruno começou sem dinheiro, sem experiência, sem rede de contato, aos vinte e poucos anos, sem formação universitária imediata.", "tipo": "HISTORICO_GEOGRAFICO", "pergunta_para_validador": "O Bruno de Oliveira compartilha que começou a empreender sem recursos, sem formação, sem rede, e com disposição para testar? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "segmento": "cena_03", "afirmacao": "O pivô da Patacori (cristal) foi focar em mulher de 30-45 anos, interessada em bem-estar, após análise de dados.", "tipo": "PROTOCOLO", "pergunta_para_validador": "O Bruno descreve ter feito um pivô no negócio de cristal/pedras com base em dados, identificando público específico? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "segmento": "cena_03", "afirmacao": "Resiliência, humildade e constância são os três pilares do validador (não do apostador).", "tipo": "PROTOCOLO", "pergunta_para_validador": "O Bruno defende que persistência, capacidade de adaptação e constância são qualidades decisivas para quem quer validar um negócio digital? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-004", "segmento": "cena_03", "afirmacao": "A curva de validação demora para arrancar e depois acelera.", "tipo": "PROTOCOLO", "pergunta_para_validador": "O Bruno apresenta a ideia de que validar exige passar por um começo lento antes da aceleração (curva de validação)? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ],
+  "perguntas": [
+    {"id": "AFC-001", "pergunta_para_validador": "O Bruno compartilha que começou sem recursos e com disposição para testar? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "pergunta_para_validador": "O Bruno fez pivô no negócio de cristal com base em dados? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "pergunta_para_validador": "O Bruno defende persistência, adaptação e constância como qualidades decisivas? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-004", "pergunta_para_validador": "O Bruno apresenta a curva de validação como lenta no começo e acelerada depois? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ]
+}

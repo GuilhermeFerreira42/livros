@@ -1,0 +1,18 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "PROTOCOLO", "pergunta": "Passo a passo do domínio (Registro.br) é claro?", "referencia_bible": "Corpus '4 - Domínio, e-mail profissional'"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "Passo a passo do e-mail profissional (Google Workspace ou Zoho Mail) é claro?", "referencia_bible": "Corpus '4 - Domínio, e-mail profissional'"},
+  {"id": "CONT-007", "categoria": "REGRA_MERCADO", "pergunta": "Regra dos 2 canais (1 venda + 1 audiência) é explícita?", "referencia_bible": "Corpus '5 - Audiência é REI'"},
+  {"id": "CONT-008", "categoria": "CASE_REFERENCIADO", "pergunta": "Case Patacori (gmail → domínio próprio em 2018, R$ 300) é citado com fidelidade?", "referencia_bible": "Cases: Patacori (PRIMÁRIA)"},
+  {"id": "CONT-009", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Estrutura Mínima Viável' continua avançando (domínio, e-mail, canais)?", "referencia_bible": "Fios: Estrutura Mínima Viável"},
+  {"id": "CONT-010", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Triângulo do Sucesso' (Audiência × Estrutura × Ofertas) é instalado?", "referencia_bible": "Fios: Triângulo do Sucesso ML"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Próxima cena (ERP, gateway, envios) é anunciada com gancho emocional?", "referencia_bible": "Bible Cronologia: Dias 8-21"},
+  {"id": "CONT-012", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Domínio e e-mail (Dias 8-21) são a peça correta do MVP neste momento?", "referencia_bible": "Cronologia: Dias 8-21"},
+  {"id": "CONT-013", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa narrativa de caos/medo (percepção de brincadeira vs. empresa) para evitar virar manual?", "referencia_bible": "Diretriz editorial crítica: âncoras sensoriais"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena tem fecho propulsor variado (não só 'Bora')?", "referencia_bible": "Diretriz editorial: variar fechos"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular, fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

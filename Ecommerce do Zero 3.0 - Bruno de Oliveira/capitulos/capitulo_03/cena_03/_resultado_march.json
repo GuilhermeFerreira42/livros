@@ -1,0 +1,36 @@
+{
+  "cena_id": "cap_03_cena_03",
+  "capitulo": 3,
+  "cena": 3,
+  "data_validacao": "2026-07-30T17:32:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 11,
+  "auditoria_cegueira": {
+    "log_prompt_contem_saida_escritor": false,
+    "violacao": false
+  },
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Corpus '4 - O que vender.txt' e '5 - Para quem vender.txt' e '6 - Quem vai te fornecer.txt' estruturam o tripé: 'O que você vai vender? Para quem você vai vender? Quem vai te fornecer?' Bible v1.4 Cases: 'Patrícia: nicho, persona, produto'.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus '2 - Nichos de Mercado.txt' defende micro-nicho vs macro. A própria frase da cena 'hidratante para cabelo cacheado de criança, tinta recarga HP 664, comedouro lento para cão braquicefálico' é construção do Escritor a partir do conceito do corpus (nichos verticais).", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '2 - Nichos de Mercado.txt': 'a gente está no país com mais de 210 milhões de habitantes. Então, qualquer coisa que a gente desce de vender no Brasil... tem demanda.'", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '2 - Nichos de Mercado.txt' / '1 - O método': 'a gente vendia em todo o de 2 milhões reais por mês' referindo-se à fase de cartucho do Bruno. Confirmado pela Bible: 'Patacori: loja de pedras e cristais do próprio Bruno' e histórico de cartuchos documentado.", "tipo": "CITACAO_CASE"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Corpus '5 - Para quem vender.txt': 'Existe uma ferramenta para você preencher... chamada Mapa de Empatia. Essa ferramenta ela vai te ajudar a mapar pontos importantes, características, dores, soluções da sua persona... Eu vou disponibilizar para vocês uma aula bônus... sobre como você vai preencher o mapa de empatia.'", "tipo": "PROTOCOLO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Corpus '5 - Para quem vender.txt' trata da construção de persona com base em evidência (transformada ou mapeada). A distinção conceitual é elaboração do Escritor, mas coerente com o método.", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': 'O que você vai vender? Para quem você vai vender? Quem vai te fornecer?' - a ordem fundante do planejamento é a mesma. Produto como 'resposta para a dor da persona' é coerente com o método.", "tipo": "MECANISMO"},
+    {"id": "AFC-008", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Cases: 'Ana Clara Magalhães é a nossa diretora de marketing de embalagem... a pessoa que mais entende de produção de conteúdo'. Corpus módulo 5 confirma que a Ana Clara conduz a estratégia de audiência/conteúdo.", "tipo": "NOME_PROPRIO"},
+    {"id": "AFC-009", "status": "CONFIRMADO", "evidencia": "Corpus '4 - O que vender.txt' e '3 - Análise de Mercado, Produtos e Concorrência.txt' mencionam marketplace, Google, análise de concorrência como caminhos de pesquisa. A enumeração específica (TikTok, grupos Facebook, fóruns) é complementação coerente do Escritor.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-010", "status": "CONFIRMADO", "evidencia": "Corpus '2 - Nichos de Mercado.txt' defende foco em micro-nicho antes de expandir. Bible Decisão Editorial: 'Cap. dedicado a Dropshipping: verdade desmascarando modelo internacional' — coerente com a ideia de começar focado.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-011", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt' e '6.1 - MasterClass Fornecedores.txt' tratam de encontrar, qualificar e homologar fornecedores. A frase do fecho da cena ('como encontrar e homologar, contingência principal + 2 backups, negociar prazo e crédito') é antecipação do conteúdo do Corpus '6' e '6.1'.", "tipo": "PROTOCOLO"}
+  ],
+  "metricas": {
+    "confirmados": 11,
+    "contraditos": 0,
+    "nao_encontrados": 0,
+    "taxa_confirmacao": 1.0,
+    "taxa_nao_encontrado": 0.0,
+    "taxa_contradicao": 0.0
+  },
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T17:32:00Z"
+}

@@ -1,0 +1,19 @@
+{
+  "cena_id": "cap_02_cena_01",
+  "total_verificacoes": 6,
+  "confirmados": 6,
+  "contraditos": 0,
+  "nao_encontrados": 0,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Cena 2.1 mantém padrão: 1ª ('eu também queria pular', 'eu me perdia', 'eu te entendo', 'eu não tive') com 2ª em comandos ('antes de você dar o próximo passo', 'você vai sair sabendo', 'trata esse curso como se fosse um trabalho').", "categoria": "PERSONAGEM_ACAO"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Cena 2.1 cita na ordem: 'planejamento de verdade' (cap 3), 'estrutura mínima viável' (cap 4), 'audiência' (cap 5), 'atendimento' (cap 6), 'vendas' (cap 7), 'impulsão' (cap 8). Sequência mantida.", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Cena 2.1: 'A Ana Clara, nossa diretora de marketing, vai te dar as ferramentas práticas' — coerente com Cena 1.3 e corpus. Audiência = cap 5 = 3ª etapa do método. Coerente.", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Cena 2.1 inteiramente no presente, tom pragmático ('o curso é grande. Tem coisa para fazer'), encorajador ('a metodologia funciona, e funciona mais rápido quando você se compromete'), ritmo modular (mapa → detalhamento por cap → compromisso).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible, Plano de Cenas: 12 capítulos planejados. Agrupar em 3 blocos (fundamentação 1-4 / operação 5-8 / escala 9-12) é síntese lógica que reflete a sequência metodológica do corpus. Coerente.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Cena 2.1 cumpre o objetivo: apresenta o mapa dos 12 capítulos, explica os 3 blocos, recomenda 2h/dia 5x/semana. Leitor sai com clareza estrutural + compromisso de tempo. Mudança de estado documentada no checklist final.", "categoria": "OBJETIVO_CENA"}
+  ],
+  "erros": [],
+  "auditoria_cegueira": {"validador_viu_saida_escritor": false, "violacao": false},
+  "timestamp": "2026-07-27T22:57:00Z"
+}

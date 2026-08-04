@@ -1,0 +1,108 @@
+{
+  "cena_id": "cap_03_cena_04",
+  "capitulo": 3,
+  "cena": 4,
+  "total_afirmacoes_extraidas": 16,
+  "total_apos_filtro": 11,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_04",
+      "afirmacao": "Fornecedor não é marketplace; marketplace é onde você vende, fornecedor é quem te abastece",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Abertura: 'Mercado Livre, Amazon, Shopee são marketplaces... Fornecedor é quem te abastece.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus diferencia explicitamente marketplace (canal de venda) de fornecedor (quem abastece)?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_04",
+      "afirmacao": "Antes de buscar fornecedor você precisa ter: nicho e produto definidos, margem mínima aceitável, e volume estimado",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 2: 'antes de ir atrás do fornecedor, você precisa ter três coisas claras'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o fornecedor deve ser buscado depois de definir nicho, produto, margem e volume?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_04",
+      "afirmacao": "Cinco caminhos para encontrar fornecedor: Google (até página 20), feiras/congressos, embalagem de produto concorrente, networking com colegas de nicho adjacente, criatividade (LinkedIn, WhatsApp, B2B presencial)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'Onde você acha esses fornecedores?'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma esses caminhos de busca de fornecedor (Google, feiras, embalagem, networking, criatividade)?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_04",
+      "afirmacao": "Fornecedor familiar, em galpão, no interior, sem experiência em vender online, é muitas vezes o melhor parceiro (topa consignação, prazo longo, NF do jeito que você precisa)",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo do B2B presencial",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que fornecedor familiar/nacional, sem experiência digital, é um bom parceiro?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_04",
+      "afirmacao": "Checklist de homologação tem 6 itens: CNPJ ativo e situação regular, NF correta, prazo de entrega real, qualidade do produto, comunicação, disposição para parceria",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'homologação'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o processo de homologação com critérios de CNPJ, NF, prazo, qualidade, comunicação, parceria?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_04",
+      "afirmacao": "Regra de contingência: para cada produto, 1 fornecedor principal e 2 backups homologados",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Parágrafo 'nunca dependa de um único fornecedor'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a regra de ter fornecedor principal + backups?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_04",
+      "afirmacao": "Fornecedor deve ser tratado como parceiro, não como adversário; preço espremido hoje significa abandono na primeira crise",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo 'trate fornecedor como parceiro, não como adversário'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que fornecedor deve ser tratado como parceiro (relação de longo prazo, não espremer preço)?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_04",
+      "afirmacao": "Homologação vem antes da compra grande: pedido de teste primeiro, conferir tudo, só depois pedido grande",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo final 'não comprou estoque ainda, mas já homologou'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a regra de homologar com pedido pequeno antes do pedido grande?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_04",
+      "afirmacao": "Próxima cena: dropshipping nacional homologado — modelo legal sem estoque, com NF do fabricante direto pro cliente",
+      "tipo": "PROTOCOLO",
+      "contexto": "Fecho: 'dropshipping nacional homologado... sem colocar um real em estoque'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o próximo capítulo trata de dropshipping nacional homologado?"
+    },
+    {
+      "id": "AFC-010",
+      "segmento": "cena_04",
+      "afirmacao": "CNPJ do fornecedor deve ser consultado no site da Receita Federal para verificar situação regular",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Item 1 do checklist de homologação",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a importância de verificar CNPJ do fornecedor na Receita Federal?"
+    },
+    {
+      "id": "AFC-011",
+      "segmento": "cena_04",
+      "afirmacao": "MEI com faturamento estourado é fornecedor a descartar (R$ 80k/ano)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Item 1: 'MEI com faturamento estourado, descarta'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que MEI tem limite de R$ 80k/ano e que estourar é problema?"
+    }
+  ]
+}

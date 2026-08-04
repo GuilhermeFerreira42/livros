@@ -1,0 +1,35 @@
+{
+  "cena_id": "6.1",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_cap_5_audiência": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_6_2_canais": "APROVADO",
+    "fernando_com_atrito_completo": "APROVADO",
+    "nubank_literal_ao_corpus": "APROVADO",
+    "conceitos_alinhados_glossario": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO ('Bora' + 'Te vejo')",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "metricas_nps_fieis": "APROVADO",
+    "conceito_ancora_cx_instalado": "APROVADO",
+    "bible_regra_sac_cx_respeitada": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 20 eixos. Pode avançar para 6.2 (Canais)."
+}

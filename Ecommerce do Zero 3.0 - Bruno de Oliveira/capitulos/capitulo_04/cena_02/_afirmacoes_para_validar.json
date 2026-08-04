@@ -1,0 +1,81 @@
+{
+  "cena_id": "cap_04_cena_02",
+  "capitulo": 4,
+  "cena": 2,
+  "total_afirmacoes_extraidas": 12,
+  "total_apos_filtro": 8,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_02",
+      "afirmacao": "Estrutura física não é despesa, é alavanca de produtividade: cadeira ruim gera hérnia de disco e abandono do negócio",
+      "tipo": "CAUSALIDADE",
+      "contexto": "Abertura: 'estrutura física não é despesa. É alavanca de produtividade.' E 'eu vi aluno abandonar o negócio por causa de dor nas costas que começou com cadeira ruim e virou hérnia de disco.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que estrutura física impacta produtividade e que problemas físicos (dor lombar, hérnia) podem levar ao abandono do negócio?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_02",
+      "afirmacao": "Bruno operava dentro do quarto em 2012, com criado-mudo de 40cm como mesa, cadeira era borda da cama, abajur como luz",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo 2: 'Lá em 2012, quando eu comecei a vender cartucho de impressora, eu operava dentro do meu quarto.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Bruno começou no e-commerce em 2012 e operava inicialmente do quarto?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_02",
+      "afirmacao": "Bruno alugou espaço de 12m² com mesa de 1,20m, cadeira ergonômica, luminária LED, armário com 4 gavetas, impressora térmica, por R$ 800 no total, e triplicou a produtividade",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo 3: 'O dia que mudou foi quando eu aluguei um espaço de 12 metros quadrados... tripliquei a quantidade de pedidos que eu despachava por dia'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma essa virada de estrutura física do Bruno (espaço comercial, mesa, cadeira, R$ 800, triplicou produtividade)?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_02",
+      "afirmacao": "Necessário mínimo: mesa 1m+, cadeira ergonômica R$ 250-500, luminária LED, notebook 8GB RAM SSD 256GB, impressora térmica R$ 350-500, embalagem padronizada, armário 3-4 divisões",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'O que é NECESSÁRIO'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma esses itens como necessários para a estrutura física do e-commerce (mesa, cadeira, luminária, notebook, impressora, embalagem, armário)?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_02",
+      "afirmacao": "Impressora jato de tinta comum dura 2 meses com 10 etiquetas por dia; impressora térmica de etiquetas em rolo custa R$ 350-500 e dura 2 anos",
+      "tipo": "PROTOCOLO",
+      "contexto": "Item 'Impressora térmica de etiquetas de envio'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a recomendação de impressora térmica de etiquetas como equipamento padrão do método?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_02",
+      "afirmacao": "Firula: caixa personalizada com logo, mesa cara de R$ 2.000, decoração, notebook gamer, uniforme, papel timbrado — tudo isso é supérfluo antes de validar",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'O que é FIRULA'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que esses elementos (caixa personalizada, decoração, uniforme) são firula antes de validar o negócio?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_02",
+      "afirmacao": "A Patacori faz 80% dos envios em sacos de embalagem (pedras não vazam, não amassam); caixas são obrigatórias para cosméticos, eletrônicos, comida, produtos frágeis",
+      "tipo": "PROTOCOLO",
+      "contexto": "Item 'Embalagem padronizada'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a Patacori faz 80% dos envios em sacos de embalagem e que caixas são obrigatórias para certos tipos de produto?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_02",
+      "afirmacao": "Bancada de embalagem na altura da cintura com tudo à mão é o que define produtividade por hora; fluxo decide volume diário",
+      "tipo": "MECANISMO",
+      "contexto": "Parágrafo sobre bancada de embalagem",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a importância da bancada na altura da cintura para produtividade no e-commerce?"
+    }
+  ]
+}

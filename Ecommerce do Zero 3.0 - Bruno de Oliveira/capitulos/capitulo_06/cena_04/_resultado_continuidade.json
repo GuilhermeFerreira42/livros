@@ -1,0 +1,33 @@
+{
+  "cena_id": "6.4",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_6_3": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_6_5_com_cases_fernando_nubank": "APROVADO",
+    "beatriz_com_atrito_completo": "APROVADO",
+    "4_momentos_fieis_ao_corpus": "APROVADO",
+    "benchmarks_atenuados": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.400)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "frases_ancora_memoraveis": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 18 eixos. Pode avançar para 6.5 (Solução de conflitos)."
+}

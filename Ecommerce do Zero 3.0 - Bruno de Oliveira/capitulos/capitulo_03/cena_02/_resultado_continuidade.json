@@ -1,0 +1,40 @@
+{
+  "cena_id": "cap_03_cena_02",
+  "capitulo": 3,
+  "cena": 2,
+  "data_validacao": "2026-07-30T17:28:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {
+    "log_prompt_contem_saida_escritor": false,
+    "violacao": false
+  },
+  "total_verificacoes": 17,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.4 POV_padrao 2ª com 1ª do mentor. Cena: 'eu te apresentei', 'a gente vai zoomar', 'Pensa comigo' (mentor) + 'você fatura', 'você cadastra', 'se você pular' (2ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tempo_verbal presente. Cena: 'chega', 'é', 'tem', 'significa', 'leva', 'fecha', 'virou', 'diz', 'acontece'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tom pragmático/encorajador. Cena: 'matemática do negócio fecha', 'piso onde o negócio se sustenta', 'não é juiz, é bússola', 'campo de batalha' implícito no tom direto.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Distância Mentor/Consultor. Cena: 'Pensa comigo', 'Vou te dar a analogia que eu uso com meus alunos', 'anota isso no seu caderno'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Cap. 1.1 'Essa é a sua bússola.' Cena 3.2: 'A meta é bússola. Não é juiz.' + os três números R$ 10K / 100 / 90.", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Bible Glossário: 'MVP: Metodologia adaptada pelo Bruno do Vale do Silício: estrutura mínima viável de validação'. Cena: 'MVP — Mínimo Produto Viável. Validação é exatamente isso: testar se o negócio tem perna antes de apostar a casa.'", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Cap. 2 Cena 3: 'A curva de validação tem um formato específico. Ela demora para arrancar. E quando arranca, ela acelera.' Cena 3.2: 'A curva de validação não é uma reta subindo... Começo lento, zero vendas por um tempo... A curva demora para arrancar. E quando arranca, ela acelera.'", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Bible Mitos: 'E-commerce é para ficar rico rápido' -> 'Não. E-commerce é validação lenta até romper a barreira da incerteza.' Cena: 'trinta dias é ilusão... Noventa dias é o ciclo real de validação'.", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Bible Mitos: 'Loja virtual própria é obrigatória para começar' -> 'Não. Comece nos marketplaces.' Cena pós-validação: 'O que vem depois? Escala. Novos marketplaces. Loja virtual própria.'", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 1–7 Planejamento... Dias 8–21 Estrutura... Dias 22–35 Produtos... Dias 36–60 Audiência... Dias 60–75 Vendas... Dias 70–80 Atendimento... Dias 80–90 Impulsão... Dia 90 Meta'. Cena lista: nicho/persona, CNPJ/ERP, cadastro produtos (SKU/EAN/foto/vídeo), indexação, vendas orgânicas, ajustes.", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible Fios: 'A Validação (R$ 10K / 100 pedidos)' - Tema Central, introduzido Cap. 3. Cena: 'Essa é a sua bússola... anota isso no seu caderno... Como norte'.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible Fios: 'Estrutura Mínima Viável' - Conceito Âncora, introduzido Cap. 4. Cena conecta validação de 90 dias ao MVP: 'Dez mil, cem, noventa é o seu MVP.'", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Cases: 'Zappos: Caso clássico citado para ilustrar validação mínima... REFERÊNCIA HISTÓRICA'. Cena: 'Lembra do começo da aula do método? A Zappos... Fizeram um teste... MVP — Mínimo Produto Viável.'", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': '99% são a chance desse negócio da certo... a gente passa ao invés de correr risco, a gente vai passar para gerenciar risco.' Cena: 'O negócio que rompe essa barreira de validação... rompe a barreira da incerteza. Você passa a ter 99% de chance de dar certo. Você para de correr risco e passa a gerenciar risco.'", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Bible Cronologia Pós-90: 'Escalar: novos marketplaces, loja virtual própria, mais produtos, equipe.' Cena: 'O que vem depois? Escala. Novos marketplaces. Loja virtual própria. Mais produtos. Equipe. Anúncio com orçamento de verdade.'", "categoria": "FIO_NARRATIVO_PAYOFF"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "Bible: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'Três números. Vamos dissecar cada um'. Teoria: dissecação dos 3 números. Analogia: Zappos/MVP. Campo de Batalha: curva feia, 99% chance, correr risco vs gerenciar risco. Fecho propulsor: 'Bora escolher direito.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-017", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md exige '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem exatamente essas 3 seções no final.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {
+    "confirmados": 17,
+    "contraditos": 0,
+    "nao_encontrados": 0,
+    "taxa_confirmacao": 1.0
+  },
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T17:28:00Z"
+}

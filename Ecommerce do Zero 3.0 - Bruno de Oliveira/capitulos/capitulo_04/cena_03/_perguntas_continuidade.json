@@ -1,0 +1,19 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_TECNICO", "pergunta": "MEI vs ME são diferenciados claramente (limite, custo, prazo, uso)?", "referencia_bible": "Bible Glossário: MEI / ME"},
+  {"id": "CONT-006", "categoria": "REGRA_MERCADO", "pergunta": "Regra 'MEI primeiro, ME quando o MEI travar' é explícita?", "referencia_bible": "Bible Filosofia: começar enxuto"},
+  {"id": "CONT-007", "categoria": "PROTOCOLO", "pergunta": "Os 5 erros estão enumerados e detalhados (CNAE, ME sem validar, contador caro, sem NF, conta misturada)?", "referencia_bible": "Corpus '3 - Marca, CNPJ, MEI, ME'"},
+  {"id": "CONT-008", "categoria": "REGRA_MERCADO", "pergunta": "Pró-labore MEI isento até R$ 1.320 é citado?", "referencia_bible": "Glossário: MEI"},
+  {"id": "CONT-009", "categoria": "PROTOCOLO", "pergunta": "Conta PJ separada (pessoal vs empresa) é regra clara?", "referencia_bible": "Bible Decisões Editoriais: separar contas"},
+  {"id": "CONT-010", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Estrutura Mínima Viável' continua avançando (CNPJ como peça 1)?", "referencia_bible": "Fios: Estrutura Mínima Viável"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Próxima cena (domínio, e-mail) é anunciada com gancho emocional?", "referencia_bible": "Bible Cronologia: Dias 8-21"},
+  {"id": "CONT-012", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "CNPJ (Dias 8-21) é a peça correta do MVP neste momento?", "referencia_bible": "Cronologia: Dias 8-21"},
+  {"id": "CONT-013", "categoria": "MITO_DESCONSTRUIDO", "pergunta": "Mito 'Vender como CPF funciona' é combatido (precisa de CNPJ)?", "referencia_bible": "Mitos: Vender como CPF - não funciona"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa narrativa de caos/medo (Receita Federal cobrando imposto dobrado, aluno multado, etc.) para evitar virar manual?", "referencia_bible": "Diretriz editorial crítica: âncoras sensoriais"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena tem fecho propulsor variado (não só 'Bora')?", "referencia_bible": "Diretriz editorial: variar fechos"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular, fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-017", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

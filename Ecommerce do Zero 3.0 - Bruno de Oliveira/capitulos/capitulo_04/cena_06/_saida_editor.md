@@ -1,0 +1,61 @@
+# Capítulo 4 — A Estrutura Mínima Viável
+## Cena 6: SKU, EAN e o cadastro do primeiro produto
+
+---
+
+E aí, tudo bem? Engrenagem montada, Bling integrado, NF automática. Agora a gente vai colocar o primeiro produto para rodar nessa engrenagem. E aqui, eu preciso te explicar dois códigos que confundem todo mundo, mas que, quando você entender, ficam simples para o resto da vida.
+
+**SKU** significa Stock Keeping Unit, que é Unidade de Manutenção de Estoque. É um código **interno, seu, da sua empresa**, que serve para você organizar e identificar cada variação do seu produto. SKU é seu, só seu, e cada negócio cria o SKU do jeito que faz sentido para ele. **EAN** significa European Article Number, que é o código universal de produto, com treze dígitos, presente na embalagem de fábrica do produto. EAN é do fabricante, não é seu, e serve para o sistema identificar o produto em qualquer lugar do mundo, em qualquer loja, em qualquer país. EAN é global, é padronizado, é igual para o mesmo produto em qualquer lugar.
+
+E a confusão que todo mundo faz é pensar que SKU e EAN são a mesma coisa, ou que um substitui o outro. **Não são.** Eles coexistem, e cada um tem uma função. O **EAN serve para o marketplace e o sistema saber que o seu produto é o mesmo produto que está em mil outras lojas** no Brasil e no mundo. É o que faz a comparação automática de preço funcionar, é o que faz o seu anúncio aparecer quando o cliente pesquisa aquele produto específico, é o que dá credibilidade ao seu anúncio, porque o cliente vê que o produto tem código, tem registro, tem marca. O **SKU serve para você organizar o seu estoque**, para você saber quantas unidades tem de cada variação, para você separar produto por tamanho, por cor, por fornecedor, por lote, pelo critério que fizer sentido para o seu negócio.
+
+E aqui vai um exemplo prático que vai te clarear. Imagina que você vende uma caneca de cerâmica branca, lisa, da marca X. Esse produto tem um **EAN 7891234500011** (do fabricante, único no mundo, igual em qualquer loja que venda essa caneca). Mas você, na sua loja, vende esse produto em três variações: caneca X branca lisa, caneca X preta lisa, caneca X branca com estampa. Para o seu estoque, cada variação é um **SKU diferente**: você pode chamar de CAN-X-BR-LISA-001, CAN-X-PR-LISA-002, CAN-X-BR-EST-003, por exemplo. O EAN fica o mesmo para a branca e a preta (mesmo produto base), mas a caneca com estampa é de outro fabricante, então tem outro EAN. **Cada combinação de produto + variação tem um SKU único no seu sistema.** E o **EAN é único por produto base do fabricante**, independente de variação.
+
+E aqui vai um caso que parece simples mas que pega muita gente. **O que fazer se o seu produto não tem EAN?** E essa é a realidade para MUITOS produtos no Brasil, especialmente pequenos fabricantes, importadores novos, ou produtos artesanais. Sem EAN, o marketplace não consegue comparar o seu produto com o de outras lojas automaticamente, o seu anúncio fica em desvantagem na busca, e o cliente pode ficar desconfiado ("esse produto tem código? tem registro? tem marca?").
+
+A solução é simples. **Você gera um EAN próprio para o seu produto, dentro das regras da GS1 Brasil** (que é a entidade que controla códigos de barras no mundo). A GS1 Brasil vende faixas de EAN para empresas. Uma faixa com 10 códigos custa em torno de R$ 350. Uma faixa com 100 códigos custa R$ 800. Uma faixa com 1.000 códigos custa R$ 1.500. E os EANs que você adquire são seus para sempre, vinculados ao seu CNPJ, e podem ser usados em qualquer marketplace do mundo.
+
+Mas eu sei que R$ 350 pode ser pesado no MVP. E aqui vai a saída. **Para o MVP, com 5 a 10 produtos, você tem duas opções.** A primeira é comprar a faixa menor de 10 códigos por R$ 350, e usar um EAN em cada produto. A segunda é usar **EANs genéricos do Mercado Livre**, que são EANs atribuídos a produtos que ainda não têm código global, e que o Mercado Livre aceita no cadastro. Você vai ver, no formulário de cadastro do Mercado Livre, a opção "produto sem código de barras" ou "EAN genérico". E aí, o próprio Mercado Livre atribui um EAN temporário ao seu produto, que funciona para o cadastro e para a busca, mas que é trocado pelo EAN oficial quando você comprar a faixa da GS1.
+
+**No MVP, com 5 produtos, minha recomendação é: compre a faixa menor de 10 EANs na GS1 Brasil, R$ 350, e use um EAN em cada produto.** É um investimento, sim, mas é um investimento que vai ficar com você para sempre, que vai te dar credibilidade, e que vai te permitir cadastrar produto em qualquer marketplace do mundo, hoje e no futuro.
+
+Agora, **como cadastrar o produto no Bling**. Acesse o Bling, vá em "Produtos" → "Adicionar Produto", e preencha os campos. O Bling vai te pedir: nome do produto, SKU (seu código interno), código de barras (EAN do fabricante, ou o da GS1), descrição, categoria, preço de custo, preço de venda, peso, dimensões, foto, e status (ativo ou inativo). Preencha tudo com calma, com atenção, porque **o que você cadastra aqui é o que vai aparecer em todos os marketplaces**, automaticamente, se a sincronização estiver ligada. Ou seja, **se você errar o título aqui, vai errar em todos os marketplaces ao mesmo tempo**. E se você errar o peso aqui, o frete vai ser calculado errado em todos os marketplaces. Cuidado, atenção, e faça o primeiro produto com calma, para entender o sistema. Depois do terceiro, você vai estar rápido.
+
+E aqui vai a **dica de ouro para o título do produto**. No Mercado Livre, o título é o que o cliente pesquisa. E o título ideal tem três coisas: **marca, modelo, e o principal atributo do produto**. Exemplo: "Caneca Cerâmica Branca 350ml - Marca X - Lisa". Esse título tem marca (X), modelo (cerâmica branca), atributo (350ml, lisa), e o cliente que pesquisa "caneca branca 350ml" vai encontrar. **Não encha o título de palavras-chave que não são relevantes**, tipo "caneca linda caneca perfeita caneca para presente caneca de café caneca de chá". O Mercado Livre pune título com palavras repetidas, e o cliente sente que é spam. **Título limpo, com o que o cliente pesquisa, com a marca, com o modelo, com o atributo principal. Ponto.**
+
+E sobre a **descrição do produto**. Aqui vai a maior besteira que o iniciante faz: **colar a especificação técnica do fabricante e achar que está bom**. Não está. A descrição do marketplace é o seu vendedor falando com o cliente, é a sua chance de tirar a última dúvida antes da compra, é o seu argumento de venda. E ela tem que responder três coisas: **o que é o produto, para que serve, e por que comprar de você e não do concorrente**. Exemplo de descrição boa: "A Caneca Cerâmica Branca de 350ml da Marca X é ideal para o seu café da manhã ou chá da tarde. Produzida em cerâmica de alta qualidade, suporta micro-ondas e lava-louças. Estoque à pronta entrega, com NF e envio em 24h." Essa descrição fala o que é, para que serve, e o diferencial (pronta entrega, NF, envio rápido).
+
+E **por que comprar de você, especificamente**. Aqui entra o que o mercado chama de "argumento de venda". E aqui, no MVP, o argumento é prático, não emocional. É "estoque à pronta entrega", "NF emitida em 1 hora", "envio em 24h", "frete grátis acima de R$ 79", "garantia de 7 dias para troca". São os cinco argumentos que o cliente iniciante do marketplace mais valoriza. E com o tempo, conforme você cresce, você vai adicionando outros argumentos, como "marca própria", "produzido no Brasil", "certificado de qualidade", "clientes em mais de 5.000 cidades". Mas no MVP, os práticos valem mais que os emocionais.
+
+E sobre a **foto do produto**. Aqui vai a maior economia burra que o iniciante faz: **tirar foto no celular, em cima da mesa, com luz de janela, e achar que está bom**. Não está. Foto ruim, com sombra, com fundo bagunçado, com o produto torto, é a primeira coisa que o cliente vê, e é o que faz ele clicar no seu concorrente. A foto do produto tem que ter: **fundo branco** (ou cor sólida neutra), **luz uniforme** (sem sombra dura), **produto centralizado** (no centro da imagem, com margem), **foco nítido** (sem borrão), **resolução alta** (pelo menos 1200x1200 pixels), e **mostrar o produto inteiro** (sem cortar). Para tirar essa foto, você tem três opções, em ordem de custo: (1) **setup DIY com papel branco e luz natural** (R$ 0 a R$ 50, com prática fica bom); (2) **mini estúdio de mesa** (R$ 200 a R$ 500, com luz LED e fundo infinito, fica profissional); (3) **fotógrafo profissional** (R$ 50 a R$ 150 por produto, fica top, mas só vale a pena com catálogo maduro). **No MVP, faça a (1) ou a (2).** Foto boa, com luz certa e fundo branco, vende mais que foto ruim, e o investimento se paga em 5 vendas.
+
+E a **última peça do cadastro é a categoria**. Categoria é o que o cliente usa para navegar no marketplace, e o que o algoritmo usa para sugerir o seu produto. E aqui, **escolha a categoria mais específica que fizer sentido**, não a mais genérica. Se você vende caneca, a categoria genérica é "Utilidades Domésticas > Canecas", mas a categoria específica é "Canecas de Cerâmica". Quanto mais específica, mais o seu produto aparece para quem está procurando exatamente aquilo, e menos aparece para quem está procurando coisa parecida mas não igual. E aqui, **cuidado com categorias que viralizam**: categoria viral atrai muito tráfego, mas o cliente é menos qualificado, e a conversão cai. Categoria específica atrai menos tráfego, mas o cliente é mais qualificado, e a conversão sobe. **No MVP, prefira categoria específica.**
+
+E com o produto cadastrado, o Bling automaticamente publica nos marketplaces integrados, com o título, descrição, foto, preço, e tudo. Você não precisa copiar e colar em cada marketplace. Você cadastra uma vez, e o Bling replica. **Esse é o "mão na massa" digital que o Bling faz por você, e que é o motivo pelo qual a gente recomenda ele.** Se a sua integração não estiver replicando, volte na cena anterior e revise a configuração de sincronização.
+
+E aqui, a gente sai do cadastro e entra no caminho alternativo. **Você tem o produto cadastrado, mas o que fazer se você não quer estocar?** Aí entra o **dropshipping nacional homologado**, que a gente vai destrinchar na próxima cena deste capítulo. Toca triangular.
+
+---
+
+## Resumo da cena
+
+Cena 6 do Capítulo 4, sobre **SKU vs EAN e o cadastro do primeiro produto**. **SKU** = código interno, seu, para organizar estoque (ex: CAN-X-BR-LISA-001). **EAN** = código universal, do fabricante, com 13 dígitos (ex: 7891234500011), usado para o marketplace comparar seu produto. **EAN próprio:** comprar faixa na GS1 Brasil (10 códigos R$ 350, 100 códigos R$ 800). **No MVP:** comprar faixa menor de 10 EANs. **Cadastro no Bling:** Produtos → Adicionar → preencher SKU, EAN, título, descrição, preço, peso, dimensões, foto, categoria. **Título limpo** (marca + modelo + atributo principal, sem spam de keywords). **Descrição com argumento de venda** (o que é, para que serve, por que comprar de você). **Foto:** fundo branco, luz uniforme, foco nítido, 1200x1200px mínimo. Setup DIY R$ 0-50, mini estúdio R$ 200-500, fotógrafo R$ 50-150/produto. **Categoria específica > genérica.** Bling replica automaticamente nos marketplaces integrados. Próxima cena: dropshipping nacional homologado.
+
+---
+
+## Seu checklist desta cena
+
+Antes de ir para a próxima cena deste capítulo, você precisa ter feito ou decidido:
+
+- [ ] Comprar faixa de 10 EANs na GS1 Brasil (R$ 350) ou agendar compra
+- [ ] Definir o padrão de SKU do seu negócio (ex: CATEGORIA-COR-TAMANHO-ATRIBUTO-NUMERO)
+- [ ] Cadastrar o primeiro produto no Bling (com calma, sem pressa)
+- [ ] Tirar foto profissional do produto (DIY ou estúdio)
+- [ ] Escrever descrição de venda (não colar especificação técnica)
+- [ ] Testar se o Bling está replicando o produto nos marketplaces integrados
+- [ ] Simular a compra de teste (R$ 1 no seu próprio produto) para verificar se NF, etiqueta e frete saem automaticamente
+- [ ] Repetir o cadastro para o segundo e terceiro produto (depois do terceiro, você fica rápido)
+
+---
+
+**Na próxima cena deste capítulo:** "Dropshipping nacional homologado — como montar a triangulação", onde a gente mostra o caminho legal de vender sem estoque, com fornecedor brasileiro enviando direto, NF do fabricante pro cliente, e você no meio coordenando. Toca triangular.

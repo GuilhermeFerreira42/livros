@@ -1,0 +1,88 @@
+{
+  "cena": "8.5",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "R$ 50/dia como ponto de partida",
+        "Distribuição: 5 posts × R$ 10/dia = R$ 50/dia",
+        "Cálculo do 'comprometido amanhã'",
+        "4 gatilhos de escalar (ROI 2x, CPC caindo, público crescendo, criativo novo)",
+        "4 motivos de pausar (ROI negativo, CPC subindo, criativo queimado, post off)",
+        "4 durações de campanha (3d/7d/14-30d/5-7d)",
+        "5 erros do iniciante",
+        "5 boas práticas Bruno",
+        "Exemplo real: R$ 50 → R$ 1.000 → escalar pra R$ 100-200"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Acertar e não escalar é queimar dinheiro",
+        "Engessar orçamento mata o crescimento",
+        "Aumentar verba em ROI negativo é acelerar sangramento",
+        "Diferença brutal: R$ 9.000 em 60 dias vs R$ 9.000 em 6 meses",
+        "A diferença é o método, não o dinheiro"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Linguagem coloquial: 'trava', 'sangramento', 'engessa', 'jogando contra si mesmo'",
+        "'Errar faz parte' reduz ansiedade",
+        "Reconhecimento: 'Bruno não tem, começa com menos'",
+        "Tom motivacional: 'o céu é o limite'"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Coerente com 8.1: 'só investir no que gera resultado'",
+        "Coerente com 8.3: 3-5 campeões → 5 posts × R$ 10/dia",
+        "Coerente com 8.4: duração de 7 dias para público personalizado",
+        "Encerra Cap 8 com a tese central",
+        "Conecta com Cap 9 (Validação)",
+        "Lei 6 respeitada"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola: 'mentalidade de crescimento progressivo'",
+        "Gancho: 'a pergunta que trava 80% das pessoas'",
+        "Estrutura modular completa",
+        "Conector: 'Te vejo no R$ 10K'",
+        "Encerramento do capítulo: recapitulação das 5 cenas"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (sem R$ 50/dia): coberto com mínimo R$ 6/dia",
+      "Tentativa 2 (ROI negativo): coberto com motivo 1 de pausa",
+      "Tentativa 3 (CPC vs venda): coberto por ROI positivo como gatilho",
+      "Tentativa 4 (saturação antes de 7d): coberto com possibilidade de parar antes",
+      "Tentativa 5 (pular orgânico): coberto com tese 'só investir no que funciona'"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena de fechamento perfeito. Recapitula as 4 cenas anteriores, instala a mentalidade de crescimento progressivo, e fecha com 'a diferença é o método, não o dinheiro'. 15 citações literais. Conector emocional 'Te vejo no R$ 10K' é forte. Lei 6 respeitada. Capítulo 8 fica coeso e memorável.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 15,
+    "fatos_verificaveis": 21,
+    "casos_com_atrito": "não aplicável (cena técnica)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Te vejo no R$ 10K",
+    "encerramento_capitulo": true,
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

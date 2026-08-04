@@ -1,0 +1,32 @@
+{
+  "cena_id": "cap_04_cena_07",
+  "capitulo": 4,
+  "cena": 7,
+  "data_validacao": "2026-07-30T18:40:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 17,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'eu preciso reforçar o que a gente já viu no capítulo três' (mentor 1ª), 'você tem 5 a 10 produtos' (2ª), 'você vende, dá suporte, e ganha' (mentor com 2ª na orientação).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'tem', 'fica', 'precisa', 'gera', 'custa', 'cai', 'sobe'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'margem menor, mas com capital empatado zero, é melhor que margem maior com capital empatado, no MVP. A matemática do risco compensa.', 'integrar antes da validação é otimizar para o inferno'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'E aqui vai um ponto que vai te economizar muita dor de cabeça.', 'E aqui vai o erro clássico do dropshipping.', 'A pergunta que vai te ocorrer agora é'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Cena: 'São três pontas: cliente, você, fornecedor. O cliente compra de você... você pega o pedido e passa para o fornecedor... o fornecedor emite a NF direto pro cliente... você acompanha o envio, responde dúvida do cliente, resolve troca.' Triangulação explicada com clareza e fluxo.", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Cena detalha 6 passos do fluxo prático: (1) pedido entra no Bling, (2) alerta por e-mail, (3) repasse para fornecedor, (4) fornecedor confirma estoque + emite NF + envia, (5) código de rastreio devolvido, (6) cliente fala com VOCÊ se tiver problema. Fluxo completo.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Cena: 'você precisa ser transparente no anúncio e na descrição: Produto enviado diretamente pelo fabricante/fornecedor homologado. NF emitida pelo CNPJ do fabricante. Estoque e logística por nossa conta, suporte e garantia por nossa conta.' Regra explícita com frase modelo.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Cena: 'No MVP, com 5 a 10 produtos, misture os dois modelos. Tenha 2 a 3 produtos em estoque próprio (os prováveis campeões) e 2 a 3 em dropshipping (os que você ainda está testando).' Regra justificada com lógica de validação progressiva.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Cena: 'No dropshipping, você não tem espaço para desconto. Você precisa operar com o preço cheio, e compensar o cliente com outro valor, que é a velocidade de envio, a qualidade da embalagem, e o atendimento humanizado. Velocidade, embalagem, e CX são os seus argumentos de venda, e custam zero de margem.' Regra prática e específica.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Cena: 'quando o produto vender consistentemente 10 a 20 unidades por mês, com margem de dropshipping de 25%, vale a pena comprar 50 unidades em estoque, e a margem subir para 50%, porque você eliminou o custo de logística do fornecedor.' Causalidade clara: volume → estoque próprio → margem maior.", "categoria": "CAUSALIDADE"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Dropshipping Nacional Homologado - Solução de Nicho, introduzido Cap. 3, payoff Cap. 4'. Cena 4.7 aprofunda o fio com a triangulação operacional (cliente → você → fornecedor → cliente). O payoff é concretizado.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Cena: 'Toca montar a vitrine. Na próxima cena deste capítulo, a gente vai tratar de descrição, foto e vídeo — a vitrine que vende.' Anúncio com gancho (transformação: 'o melhor produto do mundo morre se a vitrine for ruim') + fecho variado ('Toca montar a vitrine').", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 22-35 Primeiros produtos cadastrados com SKU + EAN, descrições, fotos, vídeos.' Cena 4.7 trata dropshipping como modalidade integrada ao cadastro de produto (Dias 22-35).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: a cena usa âncoras sensoriais via medo/medo. (1) 'A NF do fornecedor para o cliente é NF do fornecedor... E o cliente, em alguns casos, estranha.' (medo: perda de venda). (2) 'você não tem espaço para desconto... quebrar a margem que você já tem apertada.' (medo: prejuízo). (3) 'integrar antes da validação é otimizar para o inferno.' (medo: erro operacional). As 3 âncoras seguem o padrão medo → solução.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: fecho propulsor variado. Cena usa: 'Toca montar a vitrine' (no fecho). Variedade implementada.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'um caminho que muita gente tem curiosidade mas pouco entendimento'. Teoria: quando usar/não usar, triangulação. Analogia/Caso: Patacori 6 meses cristais. Campo de Batalha: erros (desconto, plataforma cedo, fornecedor único). Fecho: 'Toca montar a vitrine'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-017", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 17, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:40:00Z"
+}

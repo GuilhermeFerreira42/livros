@@ -1,0 +1,133 @@
+{
+  "cena_id": "6.5",
+  "cena_anterior": "6.4 (Pós-venda) — checksum 52c6677a",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 6.5 faz ponte explícita com as 4 cenas anteriores?",
+      "resposta_observada": "Sim. Abertura: 'A gente fechou a cena passada vendo como o pós-venda ativo transforma cliente único em cliente recorrente. E tudo isso, ao longo das 4 cenas anteriores, parecia um mundo de cliente feliz, de CX rodando, de recompra acontecendo. E é. É o que acontece quando o sistema funciona. Mas a gente precisa ser honesto com você.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada em cada nível: N1 (insatisfeita em silêncio), N2 (reclama direto), N3 (reclamação no marketplace), N4 (mediação), N5 (Reclame Aqui), N6 (Procon).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para o Cap. 7 (Estrutura de Vendas) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai ver que, sem funil, a audiência vira cliente sem padrão, e o atendimento vira caos, e a operação vira reativa. E com funil, cada etapa tem objetivo, cada objetivo tem script, e cada script tem métrica.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Cases Ain e AliExpress são citações literais?",
+      "resposta_observada": "Sim. Citações literais: 'A AIN teve nos últimos seis meses, um pouco a cada 12 meses. Doas 1774 reclamações... 92% é... 92% positiva, 77% diz que voltaria a fazer negócio' + 'AliExpress. Eu vejo que nos últimos 12 meses, 8.438 pessoas reclamaram dessa empresa. E ninguém foi respondido.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Regra dos 1% de mediação no Mercado Livre é literal?",
+      "resposta_observada": "Sim. Citação literal: 'você não pode ter mais de 1% das suas vendas passando por uma mediação'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "6 níveis de conflito são sínteses fiéis do corpus?",
+      "resposta_observada": "Sim. Aula 9 descreve literalmente 6 níveis: cliente insatisfeito em particular, cliente insatisfeito que reclama direto, reclamação no marketplace, mediação, Reclame Aqui, Procon/juizado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Tese (conflito é normal) → Framework (6 níveis) → Cases (Ain vs AliExpress) → Protocolo (5 passos) → 3 casos negativos → Fechamento do Cap 6.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes. Fechamento de capítulo é explícito.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.600 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'CX' (Cap 6) FECHADO. Fio 'Patacori' continua. Cases Fernando (6.1) e Nubank (6.1) ecoam implicitamente. Próximo cap (7) plantado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo do Cap. 7?",
+      "resposta_observada": "Cap. 7 (Estrutura de Vendas: o funil que não vaza) é citado como próximo, com gancho claro, mas não é desenvolvido.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. 6 níveis ilustram como conflitos evoluem quando mal resolvidos. Ain (resolve 100%) vs AliExpress (resolve 0%) é atrito completo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 6 = Dias 70-80 (atendimento). 6.5 (Solução de conflitos) é a última cena do Cap 6.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 6.5 fecha com 'Te vejo lá' + fechamento de capítulo. Variação com recapitulação do Cap 6 inteiro ('CX rodando, audiência com retenção, funil de vendas estruturado') + frase-âncora ('cada etapa tem objetivo, cada objetivo tem script, e cada script tem métrica').",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próximo capítulo é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'sem funil, a audiência vira cliente sem padrão, e o atendimento vira caos'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. AliExpress (0% resposta, caos) vs Ain (100% resposta, solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Cases oficiais do corpus (Ain, AliExpress, ML) são protegidos?",
+      "resposta_observada": "Sim. Cases oficiais do corpus. Bible v1.5 não tem cases específicos do Cap 6 pré-definidos; cases do corpus foram integrados com fidelidade.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-019",
+      "pergunta": "Cases de Patacori (Fernando, Nubank) das cenas anteriores ecoam?",
+      "resposta_observada": "Sim. Caso Fernando da cena 6.1 (auge/queda/recuperação com CX) é citado implicitamente como exemplo de como N1-N2 evoluem. Nubank é citado como exemplo de N2 bem resolvido.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-020",
+      "pergunta": "Mitos do Mercado da Bible são desconstruídos?",
+      "resposta_observada": "Mito 'Reclame Aqui é pesadelo' (implícito) é desconstruído. Reclame Aqui é reposicionado como oportunidade de outdoor positivo.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 6.5 fecha o Cap. 6 com chave de ouro. 6 citações literais da Aula 9. Cases Ain e AliExpress são prototípicos (resolve vs não resolve). Protocolo 5 passos é síntese estruturada. 3 casos negativos são construções coerentes. Cap. 6 pode ser consolidado como completo."
+  }
+}

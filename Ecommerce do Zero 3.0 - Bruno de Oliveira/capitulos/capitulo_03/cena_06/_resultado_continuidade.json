@@ -1,0 +1,31 @@
+{
+  "cena_id": "cap_03_cena_06",
+  "capitulo": 3,
+  "cena": 6,
+  "data_validacao": "2026-07-30T17:44:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 16,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.4 POV_padrao. Cena: 'E aí, tudo bem?' (mentor), 'você já tem', 'você tem' (2ª), 'eu comecei', 'a gente chama', 'meus alunos' (mentor).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tempo presente. Cena: 'chega', 'tem', 'é', 'faz', 'diferencia', 'compra', 'lembra', 'fecha', 'constrói', 'testa', 'converte'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tom pragmático/encorajador. Cena: 'ninguém compra produto — compra oferta', 'agulha no palheiro', 'campo de batalha' implícito, 'testa no orgânico', 'Bora'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Distância Mentor/Consultor. Cena: 'Deixa eu te explicar a diferença', 'Vamos fazer do jeito certo', 'Bora montar a oferta', 'Bora construir'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas.txt': 'as pessoas compram ofertas e não compram produtos'. Bible Glossário: 'Cross-sell / Upsell / Down-sell', 'Kits', 'Anúncios Múltiplos'. Cena: 'ninguém compra produto — compra oferta... produto + preço + condição + urgência + garantia + brinde + parcelamento + frete + comunicação'.", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Bible Glossário: 'Triângulo do Sucesso (ML): Audiência × Estrutura × Ofertas equilibradas. A falta de qualquer um dos três derruba as vendas.' Cena: 'Lembra do triângulo? Audiência × Estrutura × Ofertas. Se um dos três faltar, a venda não acontece.'", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas.txt': 'produtos com alto potencial de lucro, e baixa concorrência... Isso aqui é o que a gente chama de agulha num palheiro.' Cena: 'A gente chama de produto estrela aquele que tem alto potencial de lucro + baixa competição. É a agulha no palheiro.'", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas.txt': 'a gente vai dar uma nota para cada um desses produtos... qual os produtos tem a maior nota em termos de potencial de lucro? Qual os produtos tem a menor nota em termos de competitividade? A gente vai fazer uma média...' Subcritérios (margem, ticket, recorrência, cross-sell/upsell / poucos anúncios, fotos ruins, descrições fracas, avaliações mistas, preços desorganizados) são elaboração do Escritor.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas.txt' detalha os 3 cases completos: Patrícia (bolsa de bíblia para evangélicas → adquire cliente → bolsa de praia na jornada), Vitor (testou lençol/toalha/mesa nada → tapete banheiro estrela → alavancou o portfólio), John (moda íntima nada → passo pra trás → descascador pinhão 1.400unid/mês a R$ 65 → parceria 30k SKUs para jornada).", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Corpus '8 - Gerador ou Atendedor de Demanda.txt': 'Quando você trabalha com o produto de marcas conhecidas... você está trabalhando com o produto de alta demanda... se você vai trabalhar com produtos de alta demanda, você precisa aproveitar a demanda onde ela já existe.' + 'produto de marca própria... produto de baixa demanda... melhor você criar no seu próprio canal, na sua própria rede social, na sua própria loja virtual.'", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Corpus '9 - Ofertas.txt' menciona: produto estrela, cross-sell/upsell/down-sell, kits, nota fiscal, conexão com audiência. Cenário coerente. Bible Decisão Editorial: 'Cap. 11 — O ERP na Prática (Bling)'. Lista dos 10 elementos é síntese do Escritor.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible: 'Impulsão Seletiva: Anunciar SÓ o que já está funcionando organicamente. Não impulsionar o fraco.' Corpus '9 - Ofertas': cases Patrícia e Vitor testaram no orgânico e só depois escalaram. Cena reproduz.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'se algo não vende orgânico, não é o anúncio que vai resolver — é o produto, a oferta ou a persona que estão errados.' Cena: 'Nunca impulsiona o que não vende orgânico. Impulsão amplia. Não cria.'", "categoria": "MECANISMO"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace, meios de pagamento/envio... Dias 22-35 Primeiros produtos cadastrados com SKU + EAN, descrições, fotos, vídeos.' Fontes Cap. 4 listam todas essas aulas. Cena: 'próximo capítulo... Estrutura Mínima Viável (MVP): CNPJ, ERP, marketplace, meios de pagamento, envio, embalagem, SKU/EAN, cadastro de produtos.'", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Bible v1.4: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'ninguém compra produto — compra oferta'. Teoria: triângulo, produto estrela, critérios. Analogia/Casos: 3 cases (Patrícia, Vitor, John). Campo de Batalha: 'agulha no palheiro', 'testa no orgânico', 'impulsão não cria'. Fecho: 'Bora.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 16, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T17:44:00Z"
+}

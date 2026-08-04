@@ -1,0 +1,30 @@
+{
+  "cena_id": "cap_04_cena_08",
+  "capitulo": 4,
+  "cena": 8,
+  "data_validacao": "2026-07-30T18:45:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 15,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'eu vou ser bem direto com você' (mentor 1ª), 'você tem a descrição que você escreveu' (2ª), 'você não perdeu por causa do produto' (mentor).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'tem', 'fica', 'mostra', 'precisa', 'custa', 'converte', 'vira'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'é simples assim', 'gaste o tempo que for preciso para ter a melhor foto e a melhor descrição do seu produto. É o investimento com maior retorno que você vai fazer no e-commerce.', 'Triplicou. Sem mudar o produto.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'E aqui vai uma verdade que eu te peço para gravar.', 'Deixa eu te contar uma história que vai te marcar.', 'E aqui, a gente fecha o capítulo quatro'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Cena define as 3 peças da vitrine: descrição (texto que convence), foto (imagem que mostra), vídeo (animação que complementa). Cada uma tem papel distinto e regra específica. A frase 'no e-commerce, o cliente não toca no produto. Não sente o cheiro. Não experimenta.' é o insight central.", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Cena fornece regras práticas: Foto (3 ângulos: frente, lado, detalhe), Iluminação (luz natural de janela, 1,5m, cortina branca), Vídeo (15-30s, hands-on, sem narração obrigatória). Cada regra com custo zero ou baixo, coerente com o MVP.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Cena fornece exemplo completo do kit 7 chakras com 4 parágrafos (dor, o que é, diferencial, logística) + CTA. A estrutura é detalhada e replicável. A regra de 'escrever para o cliente, não para o algoritmo' é princípio de copywriting.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Cases: 'Patacori (PRIMÁRIA) - kit de 7 chakras como produto carro-chefe'. Cena: 'a Patacori tinha um produto, o kit de 7 chakras... vendas estáveis, em torno de 15 a 20 unidades por mês... as vendas do kit subiram de 15-20 para 60 unidades por mês. Triplicou.' Case detalhado com fidelidade ao case documentado.", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Estrutura Mínima Viável - Conceito Âncora, introduzido Cap. 4, payoff Cap. 8'. Cena 4.8 é a última do Cap. 4: 'a gente fecha o capítulo quatro, que é o coração operacional do método. Você saiu do zero... e agora tem tudo isso rodando. A estrutura mínima viável está montada.' O fio é explicitamente fechado no capítulo.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Audiência > Conteúdo - Mudança de Paradigma, introduzido Cap. 5'. Cena: 'E o que vem depois disso, no próximo capítulo, é o que vai fazer a sua operação virar máquina de crescimento. Audiência é Rei. Você vai entender por que, sem audiência, mesmo o melhor produto do mundo fica encalhado.' Fio antecipado com gancho.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace, meios de pagamento/envio... Dias 22-35 Primeiros produtos cadastrados com SKU + EAN, descrições, fotos, vídeos.' Cap. 4 cobriu Dias 8-21 (Estrutura) + parte de Dias 22-35 (cadastro de produto, descrição, foto, vídeo). Cena 4.8 fecha o capítulo.", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: a cena usa âncoras sensoriais via medo/perda. (1) 'foto do celular, em cima da mesa, com luz de janela, e achar que está bom. Não está.' (medo: parecer amador). (2) 'olha 2 segundos, e clica no seu concorrente. Você não perdeu por causa do produto. Você perdeu por causa da vitrine.' (medo: perder venda). (3) 'tratar isso como detalhe... depois eu faço.' (medo: procrastinação). As 3 âncoras seguem o padrão medo → solução.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: fecho propulsor variado. Cena usa: 'Te vejo lá' (no fecho do capítulo). Variedade implementada nas 8 cenas do capítulo: Bora (×2), Toca (×3), Vamos (×1), Te vejo (×2). Distribuição equilibrada.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório'. Cena 4.8 (última do Cap. 4) tem fecho de capítulo: 'a gente fecha o capítulo quatro, que é o coração operacional do método. Você saiu do zero, sem CNPJ, sem Bling, sem produto, sem marketplace, e agora tem tudo isso rodando.' A recapitulação das 6 peças do MVP (bancada, CNPJ, domínio, engrenagem, produto, dropshipping, vitrine) dá fechamento completo ao capítulo.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 15, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:45:00Z"
+}

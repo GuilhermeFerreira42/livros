@@ -1,0 +1,45 @@
+{
+  "cena_id": "cap_02_cena_01",
+  "total_afirmacoes": 4,
+  "confirmados": 4,
+  "contraditos": 0,
+  "nao_encontrados": 0,
+  "taxa_confirmados": 1.0,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {
+      "id": "AFC-001",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus: curso Ecommerce do Zero 3.0 estrutura-se em 12 módulos numerados de 01 (Introdução) a 12 (Bônus - MasterClasses Ecommerce na Prática), conforme mapeamento da estrutura de pastas e aulas.",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-002",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 03, Aula 1 — 'O método'): 'planejamento, estrutura, audiência, vendas, atendimento e impulsão. Esse é o método que vai levar o teu negócio do zero, a avalidação, e a resultado muito superior no processo de pós-validação.' A divisão em fases/blocos é síntese coerente com a sequência metodológica.",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-003",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 03): contém 14 aulas tratando de nicho, persona, produto, fornecedor, oferta, demanda, tendência, listagem, estoque. 'Onde que você precisa detalhar o plano do seu negócio, onde você não precisa detalhar tanto' — explícita demanda por decisões.",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-004",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 05, Aula 1 — 'Audiência é REI'): 'Ao longo desse módulo, você vai assistir algumas aulas comigo e outras aulas com a Ana Clara, que é a nossa diretora de embal de marketing aqui no e-commerce na prática.'",
+      "tipo": "PROTOCOLO"
+    }
+  ],
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "travas_duras_recalculadas_orquestrador": {
+    "taxa": 1.0,
+    "acima_de_80_pct": true,
+    "contraditos": 0,
+    "nao_encontrados_pct": 0.0,
+    "abaixo_de_30_pct": true,
+    "aprovado": true
+  },
+  "timestamp": "2026-07-27T22:55:00Z"
+}

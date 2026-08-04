@@ -1,0 +1,72 @@
+{
+  "cena_id": "cap_04_cena_06",
+  "capitulo": 4,
+  "cena": 6,
+  "total_afirmacoes_extraidas": 10,
+  "total_apos_filtro": 7,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_06",
+      "afirmacao": "SKU (Stock Keeping Unit) é código interno, seu, para organizar estoque; EAN (European Article Number) é código universal, do fabricante, com 13 dígitos",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Seção 'SKU vs EAN': 'SKU significa Stock Keeping Unit, que é Unidade de Manutenção de Estoque. É um código interno, seu, da sua empresa... EAN significa European Article Number, que é o código universal de produto, com treze dígitos'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma as definições de SKU (código interno) e EAN (código universal do fabricante, 13 dígitos)?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_06",
+      "afirmacao": "GS1 Brasil vende faixas de EAN: 10 códigos por R$ 350, 100 por R$ 800, 1.000 por R$ 1.500; EANs são vinculados ao CNPJ e podem ser usados em qualquer marketplace do mundo",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'EAN próprio': 'GS1 Brasil vende faixas de EAN para empresas. Uma faixa com 10 códigos custa em torno de R$ 350. Uma faixa com 100 códigos custa R$ 800. Uma faixa com 1.000 códigos custa R$ 1.500'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma os valores de faixas de EAN da GS1 Brasil e que são vinculados ao CNPJ?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_06",
+      "afirmacao": "Título do produto no marketplace deve ter: marca, modelo, e principal atributo; sem spam de keywords repetidas",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'dica de ouro para o título': 'o título ideal tem três coisas: marca, modelo, e o principal atributo do produto. Exemplo: Caneca Cerâmica Branca 350ml - Marca X - Lisa'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a estrutura de título (marca + modelo + atributo) e a regra de não spammar keywords?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_06",
+      "afirmacao": "Descrição do produto deve responder: o que é, para que serve, e por que comprar de você (não do concorrente)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'descrição do produto': 'a descrição do marketplace é o seu vendedor falando com o cliente... ela tem que responder três coisas: o que é o produto, para que serve, e por que comprar de você e não do concorrente'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a estrutura de descrição (o que é + para que serve + diferencial)?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_06",
+      "afirmacao": "Foto do produto precisa de: fundo branco, luz uniforme, foco nítido, 1200x1200px mínimo, produto centralizado, sem corte",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'foto do produto': 'fundo branco (ou cor sólida neutra), luz uniforme (sem sombra dura), produto centralizado (no centro da imagem, com margem), foco nítido (sem borrão), resolução alta (pelo menos 1200x1200 pixels)'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma os requisitos técnicos para foto de produto no marketplace?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_06",
+      "afirmacao": "Setup de foto DIY com papel branco e luz natural custa R$ 0-50; mini estúdio de mesa R$ 200-500; fotógrafo profissional R$ 50-150 por produto",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'foto do produto': 'setup DIY com papel branco e luz natural (R$ 0 a R$ 50)... mini estúdio de mesa (R$ 200 a R$ 500)... fotógrafo profissional (R$ 50 a R$ 150 por produto)'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma os custos das três opções de setup de fotografia de produto?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_06",
+      "afirmacao": "Categoria específica atrai menos tráfego mas mais qualificado; categoria genérica/viral atrai mais tráfego mas menos qualificado; no MVP, preferir categoria específica",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'última peça do cadastro é a categoria': 'escolha a categoria mais específica que fizer sentido, não a mais genérica... categoria viral atrai muito tráfego, mas o cliente é menos qualificado, e a conversão cai. Categoria específica atrai menos tráfego, mas o cliente é mais qualificado, e a conversão sobe'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a regra de preferir categoria específica no MVP?"
+    }
+  ]
+}

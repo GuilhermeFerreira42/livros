@@ -1,0 +1,27 @@
+{
+  "cena_id": "8.2",
+  "validador": "MARCH (blind)",
+  "data_validacao": "2026-08-01",
+  "status": "APROVADO",
+  "metricas": {
+    "afirmacoes_total": 10,
+    "aprovadas_direto": 10,
+    "aprovadas_com_ressalva": 0,
+    "reprovadas": 0,
+    "taxa_suportabilidade_percent": 100,
+    "afirmacoes_com_fonte_literal": 9,
+    "afirmacoes_com_case_ancorado": 1,
+    "construcoes_editoriais_do_metodo": 1
+  },
+  "checks_realizados": {
+    "fidelidade_voz_bruno": "APROVADO",
+    "ancoragem_caso_real": "APROVADO (Patacori R$ 8k+ R$ 3k limite)",
+    "show_dont_tell": "APROVADO",
+    "estrutura_interna": "APROVADO",
+    "caos_antes_solucao": "APROVADO (conta mal configurada → 7 passos)",
+    "fechos_variados": "APROVADO ('Toca analisar resultados')",
+    "lei_6_zero_marketing": "APROVADO",
+    "lei_5_isolamento_pasta": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA. Pode avançar para 8.3 (Análise de resultados)."
+}

@@ -1,0 +1,133 @@
+{
+  "cena_id": "5.6",
+  "cena_anterior": "5.5 (Jornada) — checksum b7a11439",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 5.6 faz ponte explícita com as 5 cenas anteriores?",
+      "resposta_observada": "Sim. Abertura: 'A gente chega na última cena do capítulo cinco. E essa cena é, talvez, a mais importante de todas as que a gente passou até aqui. Porque é a cena que conecta tudo o que a gente construiu — audiência, persona, canais, autoridade, jornada.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada repetidamente como persona-âncora. A frase 'amplifica o que a Claudia já está validando organicamente' é a tese central.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para o Cap. 6 (Atendimento) é claro e emocional?",
+      "resposta_observada": "Sim. 'sem atendimento, a audiência vira cliente único, e cliente único some. E com atendimento, a audiência vira cliente recorrente, e cliente recorrente indica, e indicada vira nova audiência, e o ciclo se fecha. É o capítulo onde o CX vira o ativo mais valioso do seu negócio.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "A régua da 5.5 é alimentada e citada?",
+      "resposta_observada": "Sim. 'A régua alimenta a impulsão, e a impulsão alimenta a régua. É um ciclo virtuoso.' Referência explícita à construção cumulativa.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Case Alisson é prototípico com atrito (fracasso antes do sucesso)?",
+      "resposta_observada": "Sim. Alisson teve R$ 4.800 perdidos em 6 meses anunciando produto de fundo, antes de virar com a impulsão de conteúdo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Conceitos técnicos alinhados com glossário Bible v1.5?",
+      "resposta_observada": "Termos (impulsão seletiva, ROI, custo por salvamento/clique) são vocabulário de marketing digital, não exigem nova entrada no glossário. 'Impulsão Seletiva' está na Bible v1.5 (Conceitos Âncora).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (impulsão seletiva) → Analogia (Alisson R$ 4.800 perdidos) → Analogia (Alisson R$ 22.000 ROI 8x) → Regra de ouro → 5 passos → Efeito cascata → Fórmula.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes. Fechamento de capítulo é explícito ('Capítulo 5 fechado. Próximo: Cap 6').",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado. Sem menção a pipeline Greenforge ou ferramentas do sistema.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Audiência > Conteúdo' continua. Fio 'Patacori como prova social' continua (implícito). Fio 'Impulsão Seletiva' é aprofundado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo do Cap. 6?",
+      "resposta_observada": "Cap. 6 (Atendimento) é citado como próxima etapa, com gancho claro (CX como ativo), mas não é desenvolvido.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Alisson teve fracasso inicial (R$ 4.800 negativos) antes de acertar com a impulsão de conteúdo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 5 = Dias 36-60 (audiência). Impulsão (5.6) é o último passo do Cap 5, antes de Atendimento (Cap 6 = Dias 70-80).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 5.6 fecha com recapitulação forte do Cap. 5 e gancho para o Cap. 6. 'Toca' + 'Te vejo' + 'celebrar' + 'próximo capítulo' — variação para fechamento de capítulo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próximo capítulo é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'sem atendimento, a audiência vira cliente único, e cliente único some. Com atendimento, a audiência vira cliente recorrente, e cliente recorrente indica, e indicada vira nova audiência, e o ciclo se fecha.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Alisson R$ 4.800 perdidos em 6 meses (caos) → R$ 2.700 mês 1 com R$ 22.000 vendas ROI 8x (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Fechamento do Cap. 5 é explícito?",
+      "resposta_observada": "Sim. 'a gente fecha o capítulo cinco, que é o capítulo onde a sua operação começou a ganhar tração. No capítulo quatro, a gente montou a estrutura. No capítulo cinco, a gente ligou a estrutura com a Claudia... Você tem agora, no fim do capítulo cinco, é uma máquina de audiência rodando.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-019",
+      "pergunta": "Mitos do Mercado da Bible são desconstruídos?",
+      "resposta_observada": "Mito 'Anunciar vai resolver o problema de vendas' (Bible v1.5) é reforçado/desconstruído. 'Anúncio de produto sem base aquecida é dinheiro queimado'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-020",
+      "pergunta": "Conceito 'Impulsão Seletiva' (Bible v1.5) é o conceito-âncora da cena?",
+      "resposta_observada": "Sim. 'Anunciar SÓ o que já está funcionando organicamente' (Bible) é a tese central da cena. A cena operacionaliza o conceito da Bible.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 5.6 fecha o Cap. 5 com chave de ouro. Case Alisson é prototípico com atrito (fracasso de R$ 4.800 → sucesso de R$ 60k/mês em 6 meses). 5 passos práticos são síntese coerente com Bible v1.5. 3 sinais reais (salvamento, compartilhamento, comentário) são diferencial didático forte. Fechamento do capítulo recapitula a máquina de audiência completa. Conceito 'Impulsão Seletiva' da Bible é operacionalizado. Cap. 6 (Atendimento) é plantado como próxima etapa. O Cap. 5 está pronto para ser consolidado como capítulo completo."
+  }
+}

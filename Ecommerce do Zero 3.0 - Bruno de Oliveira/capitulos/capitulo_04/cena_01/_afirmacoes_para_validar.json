@@ -1,0 +1,90 @@
+{
+  "cena_id": "cap_04_cena_01",
+  "capitulo": 4,
+  "cena": 1,
+  "total_afirmacoes_extraidas": 14,
+  "total_apos_filtro": 9,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_01",
+      "afirmacao": "O conceito de MVP (Minimum Viable Product) veio do Vale do Silício, das startups de tecnologia, nos anos 2000",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Abertura: 'conceito que veio do Vale do Silício, das startups de tecnologia, lá pelos anos 2000'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o conceito de MVP veio do Vale do Silício/startups de tecnologia?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_01",
+      "afirmacao": "MVP adaptado para o e-commerce = menor quantidade de peça técnica, jurídica, logística e financeira para vender o primeiro produto com NF, com prazo, com atendimento, com risco controlado",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo 'a gente adaptou esse conceito para o e-commerce'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a adaptação do conceito MVP para o contexto de e-commerce?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_01",
+      "afirmacao": "Erro clássico: gastar 15 mil reais antes de validar (CNPJ LTDA, loja virtual completa, fotógrafo R$ 3.000, Bling Titânio antecipado, 500 placas MDF)",
+      "tipo": "CAUSALIDADE",
+      "contexto": "Seção 'erro clássico'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o erro clássico de superinvestir antes de validar?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_01",
+      "afirmacao": "MVP de verdade: R$ 1.000 a R$ 3.000 de capital, 30 a 45 dias para montar tudo",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Parágrafo 'MVP de verdade'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o capital mínimo de R$ 1.000 a R$ 3.000 e prazo de 30-45 dias para montar o MVP?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_01",
+      "afirmacao": "As 6 peças do MVP são: 1) CNPJ (MEI ou ME), 2) ERP (Bling), 3) Canal de venda (marketplace), 4) Catálogo mínimo (5-10 produtos), 5) Embalagem e expedição mínima, 6) Capital de giro mínimo",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafos das 6 peças",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma essas 6 peças do MVP de e-commerce?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_01",
+      "afirmacao": "Bling é o ERP recomendado no método; plano Cobalto (~R$ 50/mês) é o mínimo viável; plano Titânio (~R$ 100/mês) é o avançado",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Peça 2: ERP (Bling)",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma Bling como ERP recomendado, com plano Cobalto mínimo e Titânio avançado?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_01",
+      "afirmacao": "Marketplaces para começar validação: Mercado Livre, Amazon, Olist, Enjoei, Elo7, Elu7 (não começa com loja virtual própria, começa com marketplace)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Peça 3: Canal de venda",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a validação começa com marketplace (Mercado Livre, Amazon, Olist, Enjoei, Elo7, Elu7) e não com loja virtual própria?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_01",
+      "afirmacao": "Catálogo mínimo: 5 a 10 produtos bem escolhidos, com foto, título, descrição, preço, frete calculado; 5 produtos bons valem mais que 50 medíocres",
+      "tipo": "PROTOCOLO",
+      "contexto": "Peça 4: Catálogo mínimo",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma catálogo mínimo de 5-10 produtos, com regra de que qualidade > quantidade?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_01",
+      "afirmacao": "A Patacori faz 80-90% dos envios em sacos de embalagem; embalagem mínima = caixa papelão do tamanho certo, plástico bolha, fita adesiva de qualidade, NF dentro (R$ 1 a R$ 3 por envio)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Peça 5: Embalagem",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a Patacori usa sacos de embalagem em 80-90% dos envios e que a embalagem mínima custa R$ 1 a R$ 3?"
+    }
+  ]
+}

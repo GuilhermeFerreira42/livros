@@ -1,0 +1,30 @@
+{
+  "cena_id": "cap_04_cena_01",
+  "capitulo": 4,
+  "cena": 1,
+  "data_validacao": "2026-07-30T18:05:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 15,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'a gente chega agora no capítulo quatro' (mentor 1ª plural) + 'você precisa estar formalizado', 'você não precisa de 200 produtos' (2ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'precisa', 'tem', 'fica', 'pode', 'consegue', 'vai', 'evolui'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'borracha encontra o asfalto de verdade', 'mapa no papel não roda negócio', 'virou estatística', 'pivô com dignidade'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'Pensa comigo', 'Vou te dar o erro clássico', 'Eu te peço para guardar com carinho', 'Bora formalizar'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'MVP (Mínimo Produto Viável). Metodologia adaptada pelo Bruno do Vale do Silício: estrutura mínima viável de validação.' Corpus '1 - Sua Estrutura de Trabalho.txt': 'metodologia do MVP'. Cena define MVP claramente.", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt' e demais aulas do Módulo 04 cobrem as 6 peças. Cena apresenta as 6 com detalhamento (CNPJ, Bling, marketplace, catálogo, embalagem, capital) e ordem sugerida (1→2→3→4→5→6).", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mitos: 'Loja virtual própria é obrigatória para começar' -> 'Não. Comece nos marketplaces. Loja virtual vem quando estiver validado.' Cena: 'Não é loja virtual própria. É marketplace.'", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Cena: 'Gasta 15 mil reais para descobrir, no dia 45, que o produto não tem demanda. E aí, sem caixa para continuar, sem moral para pivô, fecha a loja. Virou estatística. A diferença entre 15 mil e 1,5 mil é a diferença entre desistir por quebra e pivotar com dignidade.' Causalidade clara: superinvestir = quebra = desistência.", "categoria": "CAUSALIDADE"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Estrutura Mínima Viável - Conceito Âncora, introduzido Cap. 4, payoff Cap. 8'. Cena 4.1 instala o fio como conceito central: 'Estrutura Mínima Viável, ou MVP... a gente adaptou esse conceito para o e-commerce'.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Cases: 'Patacori: Loja de pedras e cristais do próprio Bruno. Opera com Bling Titânio (~R$ 100/mês), 80-90% dos envios em sacos de embalagem'. Cena: 'A Patacori faz 80-90% dos envios em sacos de embalagem - funciona, e é mais barato.'", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Cena anuncia próxima cena do mesmo capítulo: 'Na próxima cena deste capítulo, a gente vai abrir a primeira peça do MVP: o CNPJ. A gente vai te ensinar a diferença entre MEI e ME, como abrir pelo Portal do Empreendedor ou pelo contador, e os 5 erros que apagam 30% do seu lucro no primeiro ano.' Coerente com Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME...'", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace, meios de pagamento/envio... Dias 22-35 Primeiros produtos cadastrados'. Cena 4.1 trata do MVP no geral; cenas subsequentes tratarão CNPJ (8-21), Bling (8-21), marketplace (8-21), catálogo (22-35).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Mitos: 'Loja virtual própria é obrigatória para começar' -> 'Não. Comece nos marketplaces.' Cena reproduz: 'Não é loja virtual própria. É marketplace.'", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'borracha encontra o asfalto de verdade'. Teoria: definição de MVP, 6 peças. Analogia/Casos: erro clássico dos 15 mil (case negativo), Patacori. Campo de Batalha: '5 produtos bons valem mais que 50 medíocres', 'MVP não é amador', regra de 30-45 dias. Fecho: 'Bora formalizar.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 15, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:05:00Z"
+}

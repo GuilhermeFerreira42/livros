@@ -1,0 +1,31 @@
+{
+  "cena_id": "cap_04_cena_04",
+  "capitulo": 4,
+  "cena": 4,
+  "data_validacao": "2026-07-30T18:30:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 16,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'eu vou te explicar' (mentor 1ª), 'você tá com a cara montada' (2ª), 'eu decidi investir R$ 300' (mentor 1ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'tem', 'fica', 'pode', 'precisa', 'muda', 'vale', 'aparece'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'percepção de seriedade vale tanto quanto o produto', 'Conta de marca fica. Conta pessoal vai com a pessoa', 'campo de batalha' implícito.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'Deixa eu te contar uma história', 'Eu vou te dar agora o passo a passo', 'Antes de dormir hoje'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Corpus '4 - Domínio, e-mail profissional, canais de audiência e venda' detalha Registro.br. Cena: 'Acesse o Registro.br (para .com.br)... Custo: R$ 40 por ano'. Passo a passo claro.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Corpus '4' detalha Google Workspace e Zoho Mail. Cena: 'Google Workspace (R$ 30 por mês por usuário, com 30 dias grátis) ou o Zoho Mail (R$ 12 por mês por usuário, com plano gratuito de até 5 usuários)'. Passo a passo claro.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Cena: 'comece com um canal de venda e um canal de audiência. Ponto. Dois canais.' Regra explícita: 'Instagram gera demanda, Mercado Livre captura demanda.'", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Cases: 'Patacori: Loja de pedras e cristais do próprio Bruno.' Cena: 'eu decidi investir R$ 300 num domínio próprio, patacori.com.br, e configurar um e-mail profissional, contato@patacori.com.br.' Case detalhado com fidelidade.", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Estrutura Mínima Viável - Conceito Âncora, introduzido Cap. 4'. Cena 4.4 continua aprofundando com domínio, e-mail, e canais (peças do MVP).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Conceitos-chave: 'Triângulo do Sucesso (ML): Audiência × Estrutura × Ofertas equilibradas.' Cena: 'Instagram gera demanda, Mercado Livre captura demanda. É a engrenagem perfeita.' A lógica do triângulo (audiência + venda como dois lados) é o fio.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Cena: 'Toca configurar a engrenagem. Na próxima cena deste capítulo, a gente vai para o ERP, o gateway de pagamento, e os envios — a engrenagem da operação.' Anúncio com gancho (transformação: 'começa a rodar sem você fazer tudo à mão') + fecho variado ('Toca configurar').", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace, meios de pagamento/envio.' Cena 4.4 trata domínio e e-mail (peças do MVP, Dias 8-21).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: a cena usa âncoras sensoriais via percepção. (1) 'pedraspatacori@gmail.com parecia hobby, parecia brincadeira, parecia que a pessoa tava vendendo do quarto da mãe' (medo: parecer amador). (2) 'contato@patacori.com.br parecia empresa, parecia que tinha alguém por trás respondendo' (prazer: parecer sério). O contraste brincadeira vs. empresa é a âncora de caos/alívio.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: fecho propulsor variado. Cena usa: 'Toca configurar a engrenagem' (no fecho). Variedade implementada.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'uma parte que parece vaidade, e que na verdade é a sua cara digital'. Teoria: domínio, e-mail, selo. Analogia/Caso: Patacori antes/depois. Campo de Batalha: regra dos 2 canais. Fecho: 'Toca configurar'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 16, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:30:00Z"
+}

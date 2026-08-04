@@ -1,0 +1,93 @@
+{
+  "cena_id": "8.2",
+  "titulo": "Conta de anúncios e método de pagamento: configurando o motor",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "Sem conta bem configurada, não dá pra fazer impulsionamento. Conta mal configurada = banido por 'atividade incomum' = perde investimento e acesso.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'A gente não consegue fazer esse tipo de trabalho, fazer esse tipo de impulsionamento, se a gente tem bem configurada uma conta de anúncios dentro do Facebook.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "TESE",
+      "afirmacao": "2 caminhos: (1) Conta de perfil pessoal (iniciante, MVP, mais simples); (2) BM - Business Manager (avançado, escala, mais recursos). Tudo que dá pra fazer no perfil, dá pra fazer no BM, e vice-versa.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'Se você está começando agora como pessoa física ainda, você pode usar a conta de anúncios do teu perfil... Se você já é empresa, já tem CNPJ, o ideal é que você crie um BM. As pessoas chamam de BM. Mas é um Business Manager... Mas tudo que você consegue fazer lá, você vai conseguir fazer também em uma conta de perfil.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "TESE",
+      "afirmacao": "Fuso horário: ajustar para Brasil. Padrão vem Costa Oeste americana. Fuso errado = anúncio roda no horário errado = Claudia vê de madrugada = não clica.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'A primeira delas, ele vai perguntar o teu fuzorário e vai vir como padrão no cadastro fuzorário da costoeste americana, que não é a sua, obviamente. Então você tem que ajustar o teu fuzorário por Brasil, para a sua localização.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "TESE",
+      "afirmacao": "Moeda: escolher BRL (Real Brasileiro). 'Isso não dá para mudar depois.' Escolha errada de moeda = problema operacional.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'Uma outra coisa que ele vai te perguntar é qual moeda você quer ser cobrado. E aí é muito importante, porque isso não dá para mudar depois... Então escolha a moeda real brasileiro.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "TESE",
+      "afirmacao": "Dados pessoais: preencher com cuidado. 'Eu não recomendo que você tenha o teu perfil e faça anúncios no CPF de uma outra pessoa. Isso pode ser um grande indicativo de fraude pro Facebook. Ele corre a gente de bloquear a sua conta, bloquear a tua fanpage.'",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'Vai pedir o seu CPF, vai pedir o seu nome completo. O teu endereço é muito importante que você preencha isso com cuidado para que o Facebook não identifique a sua conta como um possível fraude... Eu não recomendo que você tenha o teu perfil e faça anúncios no CPF de uma outra pessoa. Isso pode ser um grande indicativo de fraude pro Facebook.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "Cartão de crédito: usar virtual (Nubank, Inter, Bradesco) OU SuperDigital pré-pago + PayPal. Cartão virtual é mais seguro (cancelamento imediato).",
+      "fonte_no_corpus": "transcrição literal Aula 3 - 'cartão de crédito que hoje permite a gente criar um cartão virtual. Eu geralmente faço isso. Eu entro em um aplicativo do meu cartão de crédito, do no bem, do inter, o bradêsco, geram cartão virtual e eu coloco esse cartão virtual no Facebook. E aí o dia que eu quiser cancelar esse cartão virtual, eu consigo fazer até pelo app... Se você não tem cartão de crédito, tem uma alternativa. Você fazer um cartão de crédito pré-pago. Uma delas que eu posso recomendar é o super digital... O Facebook não aceita a cartão pré-pago. Não aceita. Só que o Facebook aceita a PayPal. Então você vai criar uma conta no PayPal. Você vai vincular esse cartão pré-pago lá no PayPal.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "DADO",
+      "afirmacao": "Faixas de cobrança Facebook: R$ 80 → R$ 160 → R$ 240 → R$ 800 → R$ 1.600 → R$ 2.400 → R$ 3.000. Bruno recomenda limite de R$ 800 na Patacori.",
+      "fonte_no_corpus": "transcrição literal Aula 3 - 'essas faixas de cobrança geralmente acontece a primeira quando você gasto 80 reais e vai lá e cobra. A segunda, quando você gasto 160 reais, ele vai lá e cobra. Quando você gasto 240 reais, ele vai lá e cobra. Quando você gasto 800 reais, ele vai lá e cobra. E aí ele vai evoluindo para 1600, 2,400 até 3000... Eu posso gerenciar isso. Eu coloco um limite. Eu quero ser cobrado sempre que eu gastar 500. Ou seja, eu não quero ter que pagar uma fatura de 3000. Quero ter que pagar uma fatura de 500. Nem que eu preciso pagar 4, 5 faturas no mês. Então você consegue colocar um limite para isso aqui. Eu gosto de trabalhar com 800'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "7 passos práticos: (1) Acessar gerenciador; (2) Fuso horário Brasil; (3) Moeda BRL; (4) Dados pessoais reais; (5) Método de pagamento; (6) Limite de cobrança + limite de gastos; (7) Vincular Instagram.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 2 (que detalha os 4 primeiros passos) + Aula 3 (que detalha pagamento e limites)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese estruturada do corpus"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "CUIDADO_SEGURANCA",
+      "afirmacao": "4 cuidados: (1) Não logar em dispositivos desconhecidos; (2) Usuário único no computador; (3) Não misturar contas; (4) Perfil com dados reais.",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'Para você ter muito cuidado aqui para frente de onde você loja o Facebook... Você vai poder logar no Facebook só no teu computador, só no teu celular. Abro na minha casa todo mundo usa o mesmo computador. Aí você vai ter que criar usuários no computador.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "TESE",
+      "afirmacao": "Bloqueio por 'atividade incomum' é feito por robô que analisa padrões. Prevenção 100x melhor que correção (que demora 7-30 dias).",
+      "fonte_no_corpus": "transcrição literal Aula 2 - 'Esses são basicamente os principais motivos que fazem as pessoas serem bloqueadas porque o Facebook chama de atividade incomum. Que é meio que uma suspeita de fraude. O Facebook entende que não é você que está logando. Tem que entender que nunca é uma pessoa que faz essas análises. É um robô que vai analisar padrões de comportamento. E esses padrões de comportamento são coisas que o Facebook acham estranho.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 8.2 é a mais técnica do Cap. 8 até agora. 8 citações literais (incluindo fuso horário, moeda BRL, dados pessoais, cartão virtual, faixas de cobrança, 4 cuidados, bloqueio por robô). 7 passos são síntese estruturada das Aulas 2 e 3. Conceitos-âncora (cartão virtual + PayPal, limite de R$ 800) são literalmente do corpus."
+  }
+}

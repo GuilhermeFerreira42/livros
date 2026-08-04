@@ -1,0 +1,93 @@
+{
+  "cena_id": "5.3",
+  "titulo": "Canais de conteúdo: onde sua persona está",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "CASE",
+      "afirmacao": "Patacori 2020: tentativa de postar em 5 canais ao mesmo tempo (Instagram, TikTok, YouTube, Pinterest, Facebook, Twitter) durante 8 meses, com resultado medíocre em todos. Instagram chegou a 1.800 seguidores, TikTok 600, YouTube 47 inscritos, Pinterest 80, Facebook 1.200 curtidas, Twitter 90.",
+      "fonte_no_corpus": "case coerente com a lógica da Aula 2 (Canais de Conteúdo) 'trate os seus canais de conteúdo como grandes ativos... audiência é igual à venda' + coerente com a tese de foco do método",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Case construído para a cena, numericamente plausível; coerente com o que o Bruno prega"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "DADO_PESQUISA",
+      "afirmacao": "Em 2019, 15 clientes da Patacori foram entrevistadas: 13 usavam Instagram diariamente, 11 descobriram a Patacori no Instagram, 9 compraram pela primeira vez após 30 dias de seguir a marca, 7 indicaram a Patacori pra uma amiga após postagem de stories. Nenhuma mencionou TikTok como canal de descoberta. Nenhuma mencionou YouTube como canal de conteúdo que acompanha.",
+      "fonte_no_corpus": "case construído para a cena, coerente com a metodologia do Bruno (entrevistas com clientes reais, citada na Aula 3 do Cap. 5)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Construção editorial baseada na metodologia descrita; numericamente coerente"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "CONCEITO",
+      "afirmacao": "Cada canal tem um papel diferente: Instagram (identidade e relacionamento), TikTok (alcance e descoberta), YouTube (autoridade e profundidade), Blog/SEO (captura de intenção).",
+      "fonte_no_corpus": "construção editorial estruturada a partir das Aulas 2 e 6 do Cap. 5 ('funcionamento das redes sociais' + 'como ter ideias para conteúdo')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese coerente com o corpus"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "CASE",
+      "afirmacao": "Aluna de cosmético natural, 2022: 0 a 80.000 seguidores no TikTok em 6 meses, com vídeos de 15 segundos. Resultado: 200 cliques/mês no link da bio, 5 vendas/mês, 2 clientes recorrentes em 6 meses.",
+      "fonte_no_corpus": "case construído para a cena, coerente com a tese 'alcance ≠ audiência qualificada' (que está no corpus da Aula 2: 'não adianta você ter milhares de seguidores, milhões de seguidores que não estão conectados com a tua persona')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Numericamente plausível para o cenário descrito"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "4 passos para escolher o canal: (1) volta na persona, pergunta onde ela está; (2) olha operação, escolhe o que consegue ser consistente; (3) olha mercado, vai onde algoritmo está aquecido; (4) escolhe UM principal + UM secundário no máximo.",
+      "fonte_no_corpus": "construção editorial baseada na Aula 2 + coerente com a regra dos 2 canais do Cap. 4 (cena 4.4)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese prática do método"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "MVP 90 dias de audiência no Instagram: Semanas 1-2 fundação (otimizar perfil, 9 posts, 5 highlights), Semanas 3-6 consistência (1 post/dia feed + 3-5 stories/dia), Semanas 7-10 experimentação (testar 3 formatos), Semanas 11-13 fechamento (analisar números, decidir segundo canal).",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 2 (que fala de 'media de 10-12 stories por dia', 'Stories entrega mais que feed', 'a curto prazo é o melhor que você pode fazer sozinho')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o método"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "TESE",
+      "afirmacao": "Presença em todo lugar é ausência em lugar nenhum. A primeira audiência é a mais difícil. As próximas são consequência.",
+      "fonte_no_corpus": "construção editorial no estilo do Bruno; alinhada com a regra dos 2 canais do Cap. 4",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tom coerente com o mentor"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "CITAÇÃO",
+      "afirmacao": "Frase da Ana Clara: 'Não é sobre estar em todo lugar. É sobre estar bem onde a sua persona está.'",
+      "fonte_no_corpus": "construção editorial no tom da Ana Clara (que está no corpus)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a personagem e com a tese"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "TESE",
+      "afirmacao": "TikTok dá alcance, mas não dá, necessariamente, audiência qualificada.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus: 'não adianta você ter milhares de seguidores que não estão conectados com a tua persona'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual coerente"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "DADO",
+      "afirmacao": "Stories entrega mais que feed no Instagram. Média de mercado: 10-12 stories por dia.",
+      "fonte_no_corpus": "transcrição literal Aula 8 - 'existe uma média de mercado que diz para você postar ali, em torno de 10, 12 stories por dia'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 5.3 tem 1 citação literal (AFC-010, Aula 8), 2 cases construídos (AFC-001 Patacori 2020, AFC-004 aluna TikTok 2022), 1 case baseado em metodologia do corpus (AFC-002 entrevista com 15 clientes). Conceitos (papéis dos 4 canais, 4 passos para escolher, MVP 90 dias) são construções editoriais alinhadas com o método. Coerência com regra dos 2 canais do Cap. 4 mantida."
+  }
+}

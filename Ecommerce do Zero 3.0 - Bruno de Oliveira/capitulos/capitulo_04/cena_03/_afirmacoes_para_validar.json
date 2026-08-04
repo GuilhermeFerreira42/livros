@@ -1,0 +1,81 @@
+{
+  "cena_id": "cap_04_cena_03",
+  "capitulo": 4,
+  "cena": 3,
+  "total_afirmacoes_extraidas": 11,
+  "total_apos_filtro": 8,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_03",
+      "afirmacao": "MEI tem limite de R$ 80.000/ano de faturamento, é gratuito para abrir, e tem custo fixo mensal em torno de R$ 70 de imposto (DAS)",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'MEI': 'o limite de faturamento é de oitenta mil reais por ano... o imposto é fixo, em torno de R$ 70 por mês'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que MEI tem limite de R$ 80k/ano e custo fixo mensal de R$ 70 de imposto?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_03",
+      "afirmacao": "ME (Microempresa) tem custo de contador de R$ 150-300/mês, imposto Simples Nacional de 4% a 19% sobre faturamento, e prazo de abertura de 7-30 dias",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'ME': 'Contador (R$ 150-300 por mês), imposto sobre venda (Simples Nacional, começa em 4% sobre o faturamento e pode chegar a 19% conforme a faixa), NF com regras mais complexas, e a abertura leva de 7 a 30 dias.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que ME tem custo de contador R$ 150-300, Simples Nacional 4-19%, e prazo de 7-30 dias para abrir?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_03",
+      "afirmacao": "CNAE de e-commerce é 4789-0 (comércio varejista de outros produtos não especificados anteriormente) e funciona em todos os estados",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Erro 1: 'CNAE de e-commerce é 4789-0... Funciona em todos os estados.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a CNAE 4789-0 como a classificação fiscal para e-commerce varejista?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_03",
+      "afirmacao": "MEI pode ser aberto em 15 minutos pelo Portal do Empreendedor, com certificado digital A1 custando R$ 80-150/ano (não precisa de A3 token físico)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'passo a passo MEI': 'Em 15 minutos, você tem CNPJ. O número vem em 24 a 48 horas... o certificado digital A1 (arquivo) é suficiente e custa em torno de R$ 80 a R$ 150 por ano.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que MEI pode ser aberto em 15 minutos pelo Portal do Empreendedor e que certificado A1 (R$ 80-150/ano) é suficiente?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_03",
+      "afirmacao": "Sem CNPJ, o empreendedor não vende em marketplace sério, não emite NF, não constrói reputação, não cresce — CNPJ é 'certidão de nascimento' do empreendedor",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo final: 'CNPJ não é burocracia. É a sua certidão de nascimento como empreendedor.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que sem CNPJ não é possível operar e-commerce sério, e que CNPJ é a formalização do empreendedor?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_03",
+      "afirmacao": "Bling emite NF automática a cada pedido; toda venda deve gerar NF desde o primeiro dia, sem exceção",
+      "tipo": "PROTOCOLO",
+      "contexto": "Erro 4: 'Configure o Bling para emitir NF automática a cada pedido, integre com o seu marketplace, e pronto. A cada venda, sai a NF.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o Bling emite NF automática por pedido e que NF deve ser emitida desde a primeira venda?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_03",
+      "afirmacao": "Pró-labore para MEI é isento de imposto até R$ 1.320 por mês (em 2024); para ME é tributado em 11% mas conta como despesa",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Erro 5: 'Pró-labore para MEI é isento de imposto até R$ 1.320 por mês (em 2024). Para ME, é tributado em 11% sobre o valor, mas conta como despesa da empresa.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o limite de isenção do pró-labore MEI e a tributação de 11% para ME?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_03",
+      "afirmacao": "Bancos digitais (Banco do Brasil, C6, Inter, Nubank) oferecem conta PJ gratuita para MEI",
+      "tipo": "PROTOCOLO",
+      "contexto": "Erro 5: 'Abra uma conta PJ (Conta Simples ou Conta MEI do Banco do Brasil, C6, Inter, Nubank — todos têm conta PJ gratuita para MEI).'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a disponibilidade de conta PJ gratuita em bancos digitais para MEI?"
+    }
+  ]
+}

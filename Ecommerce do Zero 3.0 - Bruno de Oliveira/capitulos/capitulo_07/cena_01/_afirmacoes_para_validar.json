@@ -1,0 +1,93 @@
+{
+  "cena_id": "7.1",
+  "titulo": "Estrutura de vendas: o funil que não vaza",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "Venda passiva (marketplace) + venda ativa (rede social) se alimentam mutuamente, e o funil é o que costura as duas.",
+      "fonte_no_corpus": "transcrição literal Aula 1 - 'a nossa estrutura de vendas ela consiste em dois cenários. As vendas passivas que acontecem dentro dos marketing places... e as vendas ativas são as vendas que acontecem em rei do social.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "TESE",
+      "afirmacao": "Venda ativa não é sair vendendo. Venda ativa é fazer postagens direcionadas a ofertas, dentro do conteúdo de audiência, com o objetivo claro de vender.",
+      "fonte_no_corpus": "transcrição literal Aula 1 - 'Elas não são necessariamente ativas daquele tipo que você sai por aí abordando e tentando vender para as pessoas. Não, mas a gente faz algumas ações que essas ações acabam originando uma venda.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal do corpus"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "TESE",
+      "afirmacao": "Conteúdo de audiência sozinho não dá volume. Venda indireta (vinda de conteúdo) não tem o volume que você precisa pra bater a validação. Precisa de venda direta (post de conversão).",
+      "fonte_no_corpus": "transcrição literal Aula 1 - 'a tua produção de conteúdo vai gerar a venda indireta, só que essa venda indireta ela não vai ter o volume que você precisa. Para a gente conseguir vender com mais volume, a gente vai precisar fazer vendas diretas, que é a venda ativa que eu falo.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "FRAMEWORK",
+      "afirmacao": "3 camadas do funil: (1) Atração (topo, conteúdo Cap. 5, gera alcance/salvamento); (2) Consideração (meio, gera salvamento/comentário qualificado, abre dúvida construtiva); (3) Decisão (fundo, post de conversão com oferta+CTA+link, gera compra).",
+      "fonte_no_corpus": "construção editorial estruturada a partir das Aulas 1 (Vendas) e 5.5 (Jornada — Cap. 5)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Síntese estruturada do método"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "PROPORCAO",
+      "afirmacao": "Proporção 70-20-10: 70% atração (Cap. 5), 20% consideração (Cap. 7), 10% decisão (Cap. 7). 30 posts/mês = 3 posts de decisão são suficientes.",
+      "fonte_no_corpus": "construção editorial estruturada a partir da Aula 1 (que fala em 'vendas diretas' misturadas 'dentro do conteúdo' + proporção típica de funis balanceados)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o método"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "ANALOGIA",
+      "afirmacao": "Analogia: atração = vitrine da loja física, consideração = vendedor perguntando 'posso te ajudar?', decisão = caixa.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que separa 'topo/meio/fundo' + 'loja física vs digital')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Refinamento conceitual coerente"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "TESE",
+      "afirmacao": "Cada post tem UM objetivo, e só um. Post que tenta atrair, considerar, e decidir ao mesmo tempo não faz nenhuma das três bem.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que enfatiza 'o objetivo dessas publicações é de fato vender a oferta')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "Erro que mata o funil: postar só decisão (vira shopping center, audiência para de seguir) ou só atração (não vende, audiência esvazia). Equilíbrio 70-20-10 com disciplina semanal.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que trata dos dois extremos)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "FRASE_ANCORA",
+      "afirmacao": "'Sem funil, a audiência vira cliente sem padrão, e o atendimento vira caos, e a operação vira reativa. Com funil, cada etapa tem objetivo, cada objetivo tem script, e cada script tem métrica.'",
+      "fonte_no_corpus": "construção editorial no estilo do Bruno",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "MAPA_CAPITULO",
+      "afirmacao": "Mapa do Cap. 7: 7.1 visão geral, 7.2 post de conversão, 7.3 cross/upsell/down-sell, 7.4 kits, 7.5 NF Bling, 7.6 gestão de pedidos/expedição.",
+      "fonte_no_corpus": "construção editorial alinhada com o plano de Cap. 7 do Estado v1.5",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a estrutura do livro"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 7.1 é conceitual-estrutural. 3 citações literais (AFC-001, 002, 003) da Aula 1. Framework das 3 camadas (AFC-004) é síntese das Aulas 1 + 5.5. Proporção 70-20-10 (AFC-005) é construção editorial coerente. Analogia da loja física (AFC-006) é construção editorial alinhada com a lógica do corpus. Conceitos centrais (cada post um objetivo, equilíbrio 70-20-10) são diferenciais didáticos."
+  }
+}

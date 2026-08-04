@@ -1,0 +1,19 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª pessoa do mentor (Bruno) com alternância para 2ª pessoa ('você')?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente (conceitos atemporais, sensação de mentoria ao vivo)?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador/transformador com imagem de 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância narrativa Mentor/Consultor (proximidade de mentoria particular)?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_DEFINICAO", "pergunta": "A meta R$ 10 mil + 100 pedidos + 90 dias é apresentada como 'bússola, não juiz'?", "referencia_bible": "Glossário: Validação = R$ 10 mil + 100 pedidos + ~90 dias"},
+  {"id": "CONT-006", "categoria": "CONCEITO_DEFINICAO", "pergunta": "MVP é definido como estrutura mínima viável de validação (adaptação do Vale do Silício)?", "referencia_bible": "Glossário: MVP adaptado do Vale do Silício"},
+  {"id": "CONT-007", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "O fio 'Curva de validação' é instalado (lenta no começo, acelera depois)?", "referencia_bible": "Fios: Validação (R$ 10K/100 pedidos) - Tema Central Cap. 3"},
+  {"id": "CONT-008", "categoria": "MITO_DESCONTRUIDO", "pergunta": "O mito 'E-commerce é para ficar rico rápido' é combatido (90 dias vs 30 dias)?", "referencia_bible": "Mitos: ficar rico rápido - desconstruído"},
+  {"id": "CONT-009", "categoria": "MITO_DESCONSTRUIDO", "pergunta": "O mito 'Loja virtual própria é obrigatória' é respeitado (loja virtual vem só pós-validação)?", "referencia_bible": "Mitos: loja virtual própria - começar nos marketplaces"},
+  {"id": "CONT-010", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Cronologia do método (Dias 1-7 Plan, 8-21 Estr, 22-35 Prod, 36-60 Aud, 60-75 Vendas, 70-80 Atend, 80-90 Impulsão) está presente?", "referencia_bible": "Bible Cronologia do Método"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "O fio 'Validação (R$ 10K/100 pedidos)' é reforçado como norte do capítulo?", "referencia_bible": "Fios: Validação Tema Central Cap. 3"},
+  {"id": "CONT-012", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "O fio 'Estrutura Mínima Viável' é conectado ao conceito de MVP?", "referencia_bible": "Fios: Estrutura Mínima Viável Conceito Âncora Cap. 4"},
+  {"id": "CONT-013", "categoria": "CASE_REFERENCIADO", "pergunta": "A Zappos é citada como caso histórico de MVP/validação?", "referencia_bible": "Cases: Zappos - Referência Histórica"},
+  {"id": "CONT-014", "categoria": "CONCEITO_REGRA", "pergunta": "A regra '99% de chance / correr risco → gerenciar risco' é apresentada?", "referencia_bible": "Conceitos-chave: Validação rompe barreira da incerteza"},
+  {"id": "CONT-015", "categoria": "FIO_NARRATIVO_PAYOFF", "pergunta": "O payoff pós-validação (escala, novos marketplaces, equipe) é apresentado como gancho?", "referencia_bible": "Bible Cronologia Pós-90: Escalar"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular (Teoria → Analogia → Campo de Batalha), fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-017", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com '## Resumo da cena' e '## Seu checklist desta cena'?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

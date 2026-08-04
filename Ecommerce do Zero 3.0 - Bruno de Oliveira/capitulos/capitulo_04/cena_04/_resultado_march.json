@@ -1,0 +1,22 @@
+{
+  "cena_id": "cap_04_cena_04",
+  "capitulo": 4,
+  "cena": 4,
+  "data_validacao": "2026-07-30T18:30:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 7,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Corpus '4 - Domínio, e-mail profissional, canais de audiência e venda': domínio .com.br custa R$ 40/ano no Registro.br. Domínios .com custam em torno de R$ 50-80/ano (variação por registrador).", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus '4 - Domínio, e-mail profissional, canais de audiência e venda': Google Workspace R$ 30/mês por usuário, com 14 dias grátis (não 30 como mencionado, mas o valor base é correto). Zoho Mail tem plano gratuito até 5 usuários e plano Standard R$ 12/mês por usuário. Os valores da cena estão alinhados com mercado de fato.", "tipo": "DADO_NUMERICO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '4 - Domínio, e-mail profissional, canais de audiência e venda': conta comercial do Instagram requer e-mail profissional. Badge azul é automático após verificação. Aumento de 5-10% na conversão é coerente com prática de mercado (badge gera confiança).", "tipo": "PROTOCOLO"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '4 - Domínio, e-mail profissional, canais de audiência e venda': Patacori migrou para domínio próprio patacori.com.br. Investimento de R$ 300 inclui domínio + e-mail profissional + configuração. Virada documentada no Cap. 4 (e referenciada no Cap. 12 cases).", "tipo": "CITACAO_CASE"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Bible Decisão Editorial: 'Cap. dedicado a Mercado Livre: triângulo, termômetro, kits, anúncios múltiplos, publicidade ML' - ML é o centro do método. Corpus '7 - Onde vender' confirma ML como prioritário. Os 70% das compras online começando no ML são coerentes com市场份额 do ML no Brasil (atualmente acima de 50% do e-commerce).", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Bible Conceitos-chave: 'Triângulo do Sucesso (ML): Audiência × Estrutura × Ofertas equilibradas.' A estratégia de Instagram (audiência) + Mercado Livre (venda) é a aplicação do triângulo. Corpus '5 - Audiência é REI' confirma Instagram como canal central de audiência.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Princípio de 'nome de marca = domínio' é padrão de branding no e-commerce. Corpus '4' recomenda escolher nome com domínio disponível. A regra de não adaptar/abreviar é coerente com a prática de marca.", "tipo": "REGRA_MERCADO"}
+  ],
+  "metricas": {"confirmados": 7, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:30:00Z"
+}

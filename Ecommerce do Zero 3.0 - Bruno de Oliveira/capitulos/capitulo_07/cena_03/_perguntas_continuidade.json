@@ -1,0 +1,127 @@
+{
+  "cena_id": "7.3",
+  "cena_anterior": "7.2 (Post de conversão) — checksum 9e755261",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 7.3 faz ponte explícita com 7.2?",
+      "resposta_observada": "Sim. Abertura: 'A gente fechou a cena passada vendo a anatomia do post de conversão. E agora, nessa cena, a gente vai entrar numa das alavancas mais subutilizadas do e-commerce.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada no exemplo do iPhone e na estrutura dos scripts.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 7.4 (Kits) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai entrar na tática de kits... ticket médio da Patacori subiu de R$ 30 pra R$ 300 com a estratégia de kits. Toca empacotar.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Cases iPhone e cartucho são citações literais?",
+      "resposta_observada": "Sim. Citações literais: 'Concordo comigo que é um pouco difícil, né?... Qual seria um downsell desse iPhone?... uma capa é um croixel' + 'um cliente entrou na minha loja e comprou um cartucho de impressora... eu posso vender para ele e papel'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "70% mais fácil é literal?",
+      "resposta_observada": "Sim. Citação literal: 'é 70% mais fácil render para um cliente que já comprou de você do que vender para uma outra pessoa que não te conhece.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "20-30% de aumento é literal?",
+      "resposta_observada": "Sim. Citação literal: 'Teu faturamento aumenta aí. Tenho certeza de 20 a 30% você realizando essa técnica.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Planilha 4 colunas é literal?",
+      "resposta_observada": "Sim. Citação literal: 'eu vou disponibilizar para vocês uma planilha modelo, de como eu faço isso... Lista todos os seus produtos. E ele está a quem é você, a quem é croiceu, quem é dançar o de cada um.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Oferecer 1 coisa por vez é literal?",
+      "resposta_observada": "Sim. Citação literal: 'oferecer pelo menos alguma coisa. Pelo menos 1 dessas 3, desses 3 caminhos que eu dei para vocês aqui.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (70%) → Definição (3 táticas) → Cases (iPhone, cartucho) → Scripts (3 práticos) → Matemática → Regra de ouro.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Patacori' continua. Fio 'Audiência > Conteúdo' (Cap 5) continua. Fio 'CX' (Cap 6) continua. Fio 'Vendas' (4ª etapa) continua.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Não antecipa conteúdo da próxima cena?",
+      "resposta_observada": "7.4 (Kits) é citada como próxima, com gancho claro (Patacori R$ 30→R$ 300), mas não é desenvolvida.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Atalho: aluno que oferece tudo junto (queima a relação) antes da regra '1 por vez' (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 7 = Dias 60-75 (vendas orgânicas começam). 7.3 é a terceira cena do Cap 7, sequencial lógica.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 7.3 fecha com 'Toca empacotar.' Variação curta e impactante (mesmo padrão da 7.2).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'ticket médio da Patacori subiu de R$ 30 pra R$ 300 com a estratégia de kits'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Aluno que oferece tudo junto (caos) antes da regra '1 por vez' (solução).",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 17,
+    "aprovadas": 17,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 7.3 cumpre integralmente os contratos de continuidade. 7 citações literais (incluindo cases iPhone e cartucho). Próxima cena (7.4 Kits) pode avançar com case Patacori R$ 30→R$ 300 já plantado."
+  }
+}

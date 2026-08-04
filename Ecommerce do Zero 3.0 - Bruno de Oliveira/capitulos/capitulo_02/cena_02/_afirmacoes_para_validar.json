@@ -1,0 +1,19 @@
+{
+  "cena_id": "cap_02_cena_02",
+  "capitulo": 2,
+  "cena": 2,
+  "total_afirmacoes_extraidas": 7,
+  "total_apos_filtro": 4,
+  "afirmacoes_filtradas": [
+    {"id": "AFC-001", "segmento": "cena_02", "afirmacao": "O mercado de e-commerce brasileiro movimenta algo em torno de 180 bilhões de reais (2023) e está em crescimento.", "tipo": "DADO_NUMERICO", "pergunta_para_validador": "O Bruno de Oliveira apresenta o mercado de e-commerce brasileiro como crescente e bilionário, com números compatíveis com a casa dos 180 bilhões em 2023? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "segmento": "cena_02", "afirmacao": "O ticket médio do e-commerce brasileiro gira em torno de 150 a 200 reais.", "tipo": "DADO_NUMERICO", "pergunta_para_validador": "O Bruno apresenta o ticket médio do e-commerce brasileiro como estando entre 150 e 200 reais? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "segmento": "cena_02", "afirmacao": "A maioria das vendas online no Brasil acontece em marketplaces (Mercado Livre, Shopee, Americanas, etc.).", "tipo": "PROTOCOLO", "pergunta_para_validador": "O Bruno afirma que a maior parte das vendas online no Brasil acontece em marketplace, não em loja própria? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-004", "segmento": "cena_02", "afirmacao": "E-commerce não exige conhecimento técnico avançado — saber usar o básico (computador, celular, internet) é suficiente.", "tipo": "PROTOCOLO", "pergunta_para_validador": "O Bruno afirma que o nível técnico exigido para começar no e-commerce é baixo, sem necessidade de programação ou conhecimento técnico avançado? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ],
+  "perguntas": [
+    {"id": "AFC-001", "pergunta_para_validador": "O Bruno apresenta o mercado de e-commerce brasileiro como crescente e bilionário (casa dos 180 bi em 2023)? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-002", "pergunta_para_validador": "O Bruno apresenta o ticket médio como entre 150 e 200 reais? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-003", "pergunta_para_validador": "O Bruno afirma que a maior parte das vendas acontece em marketplace? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."},
+    {"id": "AFC-004", "pergunta_para_validador": "O Bruno afirma que o nível técnico exigido é baixo? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO."}
+  ]
+}

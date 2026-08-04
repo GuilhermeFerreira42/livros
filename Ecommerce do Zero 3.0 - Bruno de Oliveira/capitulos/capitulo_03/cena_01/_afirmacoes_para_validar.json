@@ -1,0 +1,189 @@
+{
+  "cena_id": "cap_03_cena_01",
+  "capitulo": 3,
+  "cena": 1,
+  "total_afirmacoes_extraidas": 22,
+  "total_apos_filtro": 19,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_01",
+      "afirmacao": "Bruno de Oliveira começou no e-commerce em 2012",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Parágrafo 2: 'Quando eu comecei, lá em 2012, eu não tinha método.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Bruno de Oliveira iniciou no e-commerce em 2012?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_01",
+      "afirmacao": "O método Ecommerce do Zero é composto por seis etapas na ordem: Planejamento, Estrutura, Audiência, Vendas, Atendimento, Impulsão",
+      "tipo": "MECANISMO",
+      "contexto": "Parágrafos 3-8: apresentação das seis etapas do método em sequência",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o método Ecommerce do Zero 3.0 define exatamente seis etapas nessa ordem: Planejamento → Estrutura → Audiência → Vendas → Atendimento → Impulsão?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_01",
+      "afirmacao": "A primeira etapa do método é Planejamento, onde se define nicho, persona, produto, fornecedor e oferta",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 3: 'Primeira etapa: Planejamento. Aqui você define nicho, persona, produto, fornecedor, oferta.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a etapa de Planejamento inclui definir nicho, persona, produto, fornecedor e oferta?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_01",
+      "afirmacao": "A segunda etapa do método é Estrutura, que inclui CNPJ (MEI ou ME), ERP (Bling), marketplace, meios de pagamento, envio e embalagem",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 4: descrição completa da etapa de Estrutura",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a etapa de Estrutura abrange CNPJ (MEI/ME), ERP Bling, marketplace, meios de pagamento, envio e embalagem?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_01",
+      "afirmacao": "O Bling é o ERP recomendado no método Ecommerce do Zero",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Parágrafo 4: 'ERP — o Bling, que é o que a gente usa e recomenda.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o Bling é o ERP recomendado pelo método Ecommerce do Zero?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_01",
+      "afirmacao": "Os marketplaces citados como canais de venda são Mercado Livre, Amazon, Olist, Enjoei, Elo7, Elu7",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Parágrafo 4: 'Marketplace — Mercado Livre, Amazon, Olist, Enjoei, Elo7, Elu7, onde sua persona compra.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Mercado Livre, Amazon, Olist, Enjoei, Elo7 e Elu7 são os marketplaces mencionados como canais de venda no método?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_01",
+      "afirmacao": "A terceira etapa do método é Audiência, baseada no princípio 'audiência é rei'",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo 5: 'Terceira etapa: Audiência. Esse é um dos pilares mais importantes, e eu vou falar isso até cansar: audiência é rei.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a terceira etapa é Audiência e que o princípio 'audiência é rei' é central no método?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_01",
+      "afirmacao": "Ana Clara Magalhães é a diretora de marketing do Ecommerce na Prática",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Parágrafo 5: 'A Ana Clara, nossa diretora de marketing, vai te dar as ferramentas.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Ana Clara Magalhães atua como diretora de marketing no Ecommerce na Prática?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_01",
+      "afirmacao": "A quarta etapa do método é Vendas, abrangendo estrutura de vendas, posts de conversão, cross-sell, upsell, down-sell, kits, nota fiscal e gestão de pedidos",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 6: descrição completa da etapa de Vendas",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a etapa de Vendas inclui estrutura de vendas, posts de conversão, cross-sell, upsell, down-sell, kits, nota fiscal e gestão de pedidos?"
+    },
+    {
+      "id": "AFC-010",
+      "segmento": "cena_01",
+      "afirmacao": "A quinta etapa do método é Atendimento, focada em Customer Experience (CX), não SAC, integrando WhatsApp Business, Direct do Instagram, Messenger do Facebook e mensagens do marketplace",
+      "tipo": "MECANISMO",
+      "contexto": "Parágrafo 7: descrição da etapa de Atendimento como CX",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a etapa de Atendimento adota Customer Experience (CX) integrando WhatsApp Business, Direct, Messenger e mensagens do marketplace, diferenciando de SAC tradicional?"
+    },
+    {
+      "id": "AFC-011",
+      "segmento": "cena_01",
+      "afirmacao": "Babi é a diretora de CX (Customer Experience) do Ecommerce na Prática",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Parágrafo 7: 'A Babi, nossa diretora de CX, vai te mostrar como.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Babi atua como diretora de Customer Experience no Ecommerce na Prática?"
+    },
+    {
+      "id": "AFC-012",
+      "segmento": "cena_01",
+      "afirmacao": "A sexta etapa do método é Impulsão, usando anúncios pagos no Facebook e Instagram apenas do que já funciona organicamente",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 8: 'Sexta etapa: Impulsão. Anúncios pagos no Facebook e no Instagram — mas só do que já está funcionando organicamente.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a Impulsão usa anúncios no Facebook e Instagram apenas para produtos que já vendem organicamente?"
+    },
+    {
+      "id": "AFC-013",
+      "segmento": "cena_01",
+      "afirmacao": "A ordem das seis etapas é fixa e inverter qualquer etapa aumenta risco, custo e chance de desistência",
+      "tipo": "CAUSALIDADE",
+      "contexto": "Parágrafo 9: 'Essa ordem não é enfeite. É a sequência que minimiza risco. Se você inverte qualquer uma dessas etapas, eu te garanto: você vai gastar mais, vai vender menos, e vai desistir antes da hora.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a ordem das seis etapas é obrigatória e que inverter etapas aumenta gasto, reduz vendas e eleva risco de desistência?"
+    },
+    {
+      "id": "AFC-014",
+      "segmento": "cena_01",
+      "afirmacao": "A meta de validação do método é R$ 10.000 em vendas, 100 pedidos, em 90 dias",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Parágrafo 11: 'Lembra dos três números? Dez mil reais em vendas. Cem pedidos. Noventa dias.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a meta de validação padrão é R$ 10.000 em vendas, 100 pedidos, em 90 dias?"
+    },
+    {
+      "id": "AFC-015",
+      "segmento": "cena_01",
+      "afirmacao": "O método permite sobreposição de etapas (ex: pesquisar fornecedor enquanto monta estrutura, testar oferta no orgânico enquanto constrói audiência), mas a decisão de avançar exige validação mínima da etapa anterior",
+      "tipo": "MECANISMO",
+      "contexto": "Parágrafo 12: 'O método não é linear no sentido de termina uma, começa a outra. Tem sobreposição... Mas a decisão de avançar para a próxima etapa só acontece quando a anterior tem o mínimo validado.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o método permite sobreposição de atividades entre etapas, mas exige validação mínima da etapa anterior para avançar formalmente?"
+    },
+    {
+      "id": "AFC-016",
+      "segmento": "cena_01",
+      "afirmacao": "Regras de porta: sem CNPJ não abre marketplace; sem fornecedor homologado não cadastra produto; sem conteúdo orgânico rodando não liga anúncio",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Parágrafo 12: 'Não tem CNPJ? Não abre marketplace. Não tem fornecedor homologado? Não cadastra produto. Não tem conteúdo orgânico rodando? Não liga anúncio.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma as três regras de porta: CNPJ obrigatório para marketplace, fornecedor homologado para cadastrar produto, conteúdo orgânico ativo para iniciar anúncios?"
+    },
+    {
+      "id": "AFC-017",
+      "segmento": "cena_01",
+      "afirmacao": "O próximo capítulo (planejamento na prática) abordará: escolha de nicho micro, mapa de empatia para persona conversando com gente real, passo a passo para encontrar fornecedor que começa pequeno, montagem de oferta que converte",
+      "tipo": "PROTOCOLO",
+      "contexto": "Parágrafo 13: preview do conteúdo do próximo capítulo",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o planejamento prático cobre nicho micro, mapa de empatia com conversas reais, busca de fornecedor escalável e estruturação de oferta?"
+    },
+    {
+      "id": "AFC-018",
+      "segmento": "cena_01",
+      "afirmacao": "O mapa de empatia é a ferramenta usada para mapear a persona no método",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Parágrafo 13: 'Vou te mostrar como mapear a persona com mapa de empatia — não adivinhando, conversando com gente real.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o mapa de empatia é a ferramenta oficial do método para mapeamento de persona?"
+    },
+    {
+      "id": "AFC-019",
+      "segmento": "cena_01",
+      "afirmacao": "Exemplos de pular etapa: abrir CNPJ antes de saber o que vender, contratar fotógrafo antes de ter fornecedor, gastar R$ 5.000 em anúncio com loja vazia sem avaliação e sem reputação",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo 9: 'Eu já vi gente abrir CNPJ antes de saber o que ia vender. Já vi gente contratar fotógrafo antes de ter fornecedor. Já vi gente gastar cinco mil reais em anúncio com uma loja vazia, sem avaliação, sem reputação.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma os exemplos de pular etapa: abrir CNPJ antes de definir produto, contratar fotógrafo antes de fornecedor, gastar R$ 5.000 em anúncio com loja vazia?"
+    },
+    {
+      "id": "AFC-020",
+      "segmento": "cena_01",
+      "afirmacao": "A Patacori é a loja de pedras e cristais do próprio Bruno, usada como case real no método",
+      "tipo": "NOME_PROPRIO",
+      "contexto": "Parágrafo 2: 'na operação da Patacori'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que a Patacori é a loja de pedras e cristais do Bruno, usada como case real no método?"
+    }
+  ]
+}

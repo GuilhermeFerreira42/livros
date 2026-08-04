@@ -1,0 +1,29 @@
+{
+  "cena": "8.3",
+  "validador": "Continuidade",
+  "metodo": "Bible da Obra + Estado da Obra",
+  "data": "2026-08-04",
+  "perguntas_avaliadas": 10,
+  "aprovadas": 10,
+  "reprovadas": 0,
+  "detalhes": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector 'Na próxima cena deste capítulo', variação de fecho, cases com atrito respeitados"},
+    {"id": "p2", "tema": "Case Patacori canônico", "status": "APROVADO", "nota": "Números reais do corpus preservados (47 cliques, R$ 50, 17 seguidores, 87% mulher, 18-54 anos)"},
+    {"id": "p3", "tema": "Coerência com cena 8.1", "status": "APROVADO", "nota": "Anunciar SÓ o que já funciona operacionalizado com análise 5-10x"},
+    {"id": "p4", "tema": "Coerência com cena 8.2", "status": "APROVADO", "nota": "Conta configurada é usada para análise"},
+    {"id": "p5", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Nenhuma informação nova conflitante com Bible v1.5"},
+    {"id": "p6", "tema": "Checkpoint Estado", "status": "APROVADO", "nota": "Cena 8.3 do checkpoint do Estado, avança contador"},
+    {"id": "p7", "tema": "Conector para cena 8.4", "status": "APROVADO", "nota": "Conector emocional forte: 'sai do anuncio pra todo mundo e vai pro anuncio pra Claudia'"},
+    {"id": "p8", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p9", "tema": "Preparação para Cap 9", "status": "APROVADO", "nota": "Análise de resultados e impulsão preparam marco de R$ 10K/100 pedidos/90 dias"},
+    {"id": "p10", "tema": "POV mentor + 2ª pessoa", "status": "APROVADO", "nota": "1ª do mentor Bruno alternando para 2ª pessoa, com transparência da fonte"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 8.3 ser fechada, atualizar Cena_atual para {capitulo: 8, cena: 4}",
+    "Incrementar Chamadas_gastas em ~15 (2 cenas por call)",
+    "Atualizar tabela de status do Cap 8 com cena 8.3 concluída"
+  ],
+  "status_geral": "APROVADO"
+}

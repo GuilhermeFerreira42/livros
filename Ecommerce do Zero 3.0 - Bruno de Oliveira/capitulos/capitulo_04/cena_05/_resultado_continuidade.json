@@ -1,0 +1,32 @@
+{
+  "cena_id": "cap_04_cena_05",
+  "capitulo": 4,
+  "cena": 5,
+  "data_validacao": "2026-07-30T18:30:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 17,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'eu preciso te contar o que acontecia antes do Bling' (mentor 1ª), 'você vai entrar' (2ª), 'a Patacori vendia em três marketplaces' (mentor 1ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'tem', 'fica', 'precisa', 'gera', 'custa', 'muda', 'cai'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'quase quebrou não por causa de venda, e sim por causa de operação manual', 'liberou tempo para a frente de batalha', 'Contador bom é investimento. Contador ruim é prejuízo' (repetido do capítulo anterior, mas aplica).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'Deixa eu te contar uma história', 'Eu preciso te contar o que acontecia antes do Bling', 'Antes de a gente ir para a próxima cena'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' detalha o caminho de integração. Cena: 'Acesse o Bling, vá em Configurações → Integrações → Marketplaces → Mercado Livre → Conectar. Ele vai pedir o seu login do Mercado Livre, vai pedir autorização, vai puxar todos os seus anúncios.'", "categoria": "PROTOCOLO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Cena: 'Mercado Pago como gateway, Mercado Envios como transportadora, etiqueta sendo impressa na sua impressora térmica, e NF sendo emitida automaticamente. Quatro peças, R$ 50 por mês de Bling, o resto é gratuito.' Fluxo completo descrito.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Cena: 'Se o cliente te chamar para comprar por fora, recuse educadamente, explique que para a segurança dele, a venda é pelo marketplace, e que assim ele tem NF, rastreio, e proteção em caso de problema.' Regra explícita com justificativa.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Cena: 'No MVP, com 10 a 30 vendas por mês, Full não vale a pena. Mercado Envios padrão, com a etiqueta sendo impressa na sua bancada e você levando até os Correios, é o caminho. Quando você estiver batendo 100 vendas por mês por SKU, e tiver a operação física resolvida, aí sim, considere o Full.' Regra com critério de volume.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Cena: 'Sabe o que acontece quando você vende o mesmo produto no Mercado Livre e na Amazon, e os dois estão com o estoque desconectado? Você vende 5 unidades no Mercado Livre, mas o seu estoque no Bling ainda mostra 5, e a Amazon vende mais 3, totalizando 8 vendas, mas você só tinha 5. Resultado: você vende 8, mas só tem 5 para entregar, e o cliente fica sem o produto, e o marketplace abre disputa, e sua reputação vai para o chão.' Causalidade completa: over-selling → reputação destruída.", "categoria": "CAUSALIDADE"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' e Bible Cases: 'Patacori (PRIMÁRIA)'. Cena: 'Aí, em 2018, a gente migrou para o Bling. E em uma semana, todas as notas fiscais saíram em 30 segundos com um clique. O estoque virou único, integrado aos três marketplaces.' Case com fidelidade.", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Estrutura Mínima Viável - Conceito Âncora'. Cena 4.5 continua aplicando com Bling, gateway, envios (peças 2-4 do MVP, conforme cena 4.1).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Cena: 'a gente sai do back office e entra no produto em si. A engrenagem está montada, agora a gente vai colocar o que ela vai processar: os produtos. Na próxima cena deste capítulo, a gente vai falar de SKU, EAN, e o cadastro do primeiro produto no Bling.' Anúncio com transição lógica (engrenagem → produto processado pela engrenagem).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace, meios de pagamento/envio... Dias 22-35 Primeiros produtos cadastrados'. Cena 4.5 trata Bling/gateway/envios (Dias 8-21), preparando para a próxima cena tratar cadastro (Dias 22-35).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: a cena usa narrativa de caos (Patacori 300 NFs no Word, 3 planilhas, 4h/dia perdidas) → alívio (Bling: 30s/NF, 4h/dia recuperadas, tempo para frente de batalha). Padrão implementado com excelência.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: fecho propulsor variado. Cena usa: 'Vamos lá' (no fecho). Variedade implementada ('Bora' + 'Toca' + 'Vamos' = 3 variações nas 3 cenas do cap 4).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'faz essa cara ganhar dinheiro sem você enlouquecer'. Teoria: ERP, gateway, transportadora. Analogia/Caso: Patacori 300 NFs no Word → Bling 30s. Campo de Batalha: erros (Pix por fora, Mercado Full sem volume, over-selling). Fecho: 'Vamos lá'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-017", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 17, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:30:00Z"
+}

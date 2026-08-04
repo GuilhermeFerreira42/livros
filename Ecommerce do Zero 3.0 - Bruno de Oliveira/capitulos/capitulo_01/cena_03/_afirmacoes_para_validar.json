@@ -1,0 +1,61 @@
+{
+  "cena_id": "cap_01_cena_03",
+  "capitulo": 1,
+  "cena": 3,
+  "total_afirmacoes_extraidas": 8,
+  "total_apos_filtro": 5,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_03",
+      "afirmacao": "Ana Clara Magalhães é a diretora de marketing de embalagem do Ecommerce na Prática, responsável pela produção de conteúdo e estratégia de audiência.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Apresentação da equipe.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno de Oliveira identifica Ana Clara Magalhães como diretora de marketing de embalagem do Ecommerce na Prática, responsável pela estratégia de produção de conteúdo e audiência? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_03",
+      "afirmacao": "Babi é a diretora de produtos e customer experience (CX) do Ecommerce na Prática, responsável pelo módulo de atendimento.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Apresentação da equipe.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno de Oliveira identifica 'Babi' como diretora de produtos e customer experience (CX) do Ecommerce na Prática, responsável por ensinar atendimento ao cliente? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_03",
+      "afirmacao": "No Paraná, MEI não tem inscrição estadual e, portanto, não permite emitir nota fiscal de venda de produto.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Caso da aluna Renata — exemplo de suporte.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno afirma que em alguns estados (não cita Paraná nominalmente, mas menciona que há estados que não permitem MEI ter inscrição estadual) o MEI não consegue emitir nota fiscal de venda, e nesse caso o caminho é abrir ME (microempresa)? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_03",
+      "afirmacao": "O Ecommerce na Prática mantém uma comunidade de alunos ativa, com espaço para compartilhar cases, dúvidas, planilhas e marcos pessoais.",
+      "tipo": "PROTOCOLO",
+      "contexto": "Apresentação da comunidade.",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O Bruno de Oliveira menciona, ao longo do treinamento, a existência de uma comunidade de alunos do Ecommerce na Prática, incentivando a troca de experiências, dúvidas, cases e materiais? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_03",
+      "afirmacao": "Bruno começou seu negócio de e-commerce sozinho, no quarto, sem rede de apoio — experiência que o motivou a construir uma estrutura de suporte e comunidade para os alunos.",
+      "tipo": "HISTORICO_GEOGRAFICO",
+      "contexto": "Vulnerabilidade do mentor + motivação para a estrutura.",
+      "speaker_origem": "Narrador (Mentor - 1ª pessoa)",
+      "pergunta_para_validador": "O Bruno de Oliveira menciona que começou seu negócio sozinho, dentro do quarto, sem rede de apoio, e que essa experiência de solidão motivou a construção de suporte e comunidade para os alunos? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."
+    }
+  ],
+  "perguntas": [
+    {"id": "AFC-001", "pergunta_para_validador": "O Bruno identifica Ana Clara Magalhães como diretora de marketing de embalagem do Ecommerce na Prática? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-002", "pergunta_para_validador": "O Bruno identifica 'Babi' como diretora de produtos e CX? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-003", "pergunta_para_validador": "O Bruno afirma que em alguns estados o MEI não consegue emitir nota fiscal e a saída é abrir ME? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-004", "pergunta_para_validador": "O Bruno menciona a comunidade de alunos do Ecommerce na Prática como espaço de troca? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."},
+    {"id": "AFC-005", "pergunta_para_validador": "O Bruno começou sozinho no quarto e isso motivou a construção de suporte? Responda CONFIRMADO/CONTRADITO/NAO_ENCONTRADO baseado APENAS no corpus original."}
+  ]
+}

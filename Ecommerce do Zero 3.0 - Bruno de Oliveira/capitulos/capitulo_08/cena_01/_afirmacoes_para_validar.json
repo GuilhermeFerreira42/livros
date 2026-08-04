@@ -1,0 +1,93 @@
+{
+  "cena_id": "8.1",
+  "titulo": "A estratégia de impulsão: anunciar SÓ o que já funciona",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "Sem impulsão estratégica, o sistema trava no orgânico. 'O crescimento começa a ficar mais difícil, porque você está na dependência do orgânico.'",
+      "fonte_no_corpus": "transcrição literal Aula 1 - 'aí pode ser às vezes passa um dia que você não vem de nada, depois você vem de três e por aí vai, só que você vê que o crescimento ele começa a ficar mais difícil, porque você está na dependência do orgânico, né, para crescer'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "TESE",
+      "afirmacao": "Tese central: 'A gente não vai impulsionar tudo. A gente vai impulsionar só o que já está gerando o resultado, o que já está gerando venda.'",
+      "fonte_no_corpus": "transcrição literal Aula 1 - 'a gente vai impulsionar justamente essas coisas, a gente não vai impulsionar tudo, a gente vai impulsionar só o que já está gerando o resultado, o que já está gerando venda'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "TESE",
+      "afirmacao": "Orgânico e anúncio são o mesmo canal, em escalas diferentes. Anúncio escala o que já funciona; não descobre o que não funciona.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que trata 'vendas diretas precisam de um empurrãozinho')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Tese central da cena"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "Estratégia inicial sem dados: turbinar TODAS as publicações por 3 dias, com R$ 6/dia, sem pausar nenhuma. Identificar 3-5 campeões (posts 5-10x acima da média).",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'o ideal é você impulsionar com um pouquinho de dinheiro todos os postos. Durante um curto período de tempo, assim você vai conseguir entender qual deles performou... Se você não tem público e você está pensando com o estúdio público, o que você vai fazer? Você vai turbinar todas as suas publicações. Todas as suas publicações vão ser dominadas por três dias. Três dias. Você vai colocar lá seis reais por dia durante três dias. Todas, exatamente todas. E você não vai pausar nenhuma.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "TESE",
+      "afirmacao": "Por que 3 dias (iniciante) e 7 dias (avançado): 'Porque eu quero ver o resultado que isso vai gerar em dias da semana diferente.' (Bruno, literal)",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'Por que que eu vou colocar 7 dias? Porque eu quero ver o resultado que isso vai gerar em dias da semana diferente. Se eu coloco só 3 dias, eu vou conseguir saber o que vai acontecer amanhã, depois e depois. Mas eu não consigo ter uma noção de dia da semana. Porque hoje pode ser 6, hoje pode ser 2, hoje pode ser domingo, hoje pode ser terça. Então vai ter sempre uma proporção errada, às vezes um pocho bombou. À vezes ele bombou por causa do dia da semana e eu não vou saber. Então eu preciso colocar sempre 7 dias.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "TESE",
+      "afirmacao": "2 caminhos: (1) Botão Turbinar/Promover (iniciante, MVP, mais simples); (2) Gerenciador de Anúncios Meta Ads (avançado, escala, mais recursos).",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'Por que a gente não cria pelos gerenciadores de campanhas as anúncios? Porque através do botão Turbinar e Promover, lá no Instagram, a gente tem acesso a alguns recursos que vão fazer mais sentido agora nesse momento de validação. Lá na frente, você vai aprender a fazer campanhas pelo gerenciador que vai ser melhor. Agora não é.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "2 públicos atalho do iniciante: (1) 'Pessoas que curtiram a página e amigos delas' (Facebook, 11.000 fãs × 300 amigos = 3,3 milhões); (2) Público automático do Instagram.",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'pessoas que curtiram a página e amigos delas. Vou impulsionar para as pessoas que já curtem a página e os amigos dela... A média do Facebook que cada pessoa tem em média 300 amigos. Então a página da Patacura tem em torno de 11.000 fãs. A gente vai pegar 11.000 vezes 300. Isso vai para quase... vai para mais de 3 milhões de pessoas.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "DADO",
+      "afirmacao": "Investimento padrão Bruno: R$ 5,71/dia (R$ 40/7 dias, mínimo do Facebook) por post, com 2 posts Facebook + 2 posts Instagram = R$ 21,40/dia = R$ 150/semana.",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'Beleza? Nosso padrão vai ser o seguinte. A gente vai colocar 6 reais por dia durante 7 dias... o mínimo do Facebook hoje é assim que 40. 40 por dia, esse é o mínimo. Então eu vou ter que colocar 35. Não, vai dar mais. Vai ter que colocar 40 reais. O que significa isso? Ele vai gastar 40 reais ao longo de 7 dias e não por dia. Então vai dar mais ou menos 6 reais por dia. O que menos 6 reais por dia aqui. 5, 71 por dia.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "Erro fatal: anunciar produto que não vende organicamente, esperando que o anúncio 'descubra' o público. O problema não é o anúncio, é a falta de demanda orgânica.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que trata 'o que está funcionando' como critério)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "TESE",
+      "afirmacao": "2 tipos de conteúdo pra impulsionar: (1) Conteúdo de audiência (Cap. 5, topo de funil, construir audiência); (2) Post de conversão (Cap. 7, fundo de funil, gerar venda).",
+      "fonte_no_corpus": "transcrição literal Aula 4 - 'você vai entender que a gente vai impulsionar dois tipos de conteúdo. A gente vai impulsionar ofertas. Oste de oferta que tem objetivo de vender para que gerar a venda. E a gente vai impulsionar conteúdos que tem objetivo de construir audiência.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 8.1 é a tese conceitual do Cap. 8. 7 citações literais (AFC-001, 002, 004, 005, 006, 007, 008, 010). 2 tipos de conteúdo (audiência vs conversão) é citação literal. Estratégia 3 dias R$ 6/dia é literal. Investimento R$ 150/semana é literal. Regra de ouro 'impulsionar só o que já funciona' é literal."
+  }
+}

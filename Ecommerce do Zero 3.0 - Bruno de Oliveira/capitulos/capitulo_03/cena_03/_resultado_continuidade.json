@@ -1,0 +1,29 @@
+{
+  "cena_id": "cap_03_cena_03",
+  "capitulo": 3,
+  "cena": 3,
+  "data_validacao": "2026-07-30T17:32:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 14,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.4 POV_padrao. Cena: 'você vai definir', 'Pensa comigo' (mentor), 'conversa com gente real' (2ª), 'eu vou te dar' (mentor).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tempo presente. Cena: 'tem', 'é', 'começa', 'precisa', 'dá', 'vai', 'escolhe', 'constrói', 'funciona'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tom pragmático/encorajador. Cena: 'briga é mais justa', 'você pode ser a referência nacional', 'a borracha encontra o asfalto', 'comece micro, expanda só depois'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Mentor/Consultor. Cena: 'Pensa comigo', 'eu gostaria de ter recebido quando comecei', 'vou te dar um conselho que eu dei errado', 'Bora caçar'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible v1.4 + Corpus '2 - Nichos de Mercado.txt' defende micro-nicho vs macro. Cena: 'Nicho não é mercado macro. Mercado macro é beleza, moda, informática. Isso é categoria de shopping, não é nicho. Nicho é micro, verticalizado, com persona clara e dor específica.'", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Corpus '5 - Para quem vender.txt' define Mapa de Empatia. Cena: 'ferramenta simples: você preenche o que a pessoa pensa, o que ela sente, o que ela fala, o que ela faz, quais são as dores dela'.", "categoria": "CONCEITO_DEFINICAO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': 'O que você vai vender? Para quem você vai vender? Quem vai te fornecer?' - a ordem é fundante. Cena: 'A ordem é: nicho (onde), persona (para quem), produto (o quê).'", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Conceitos-chave: 'Triângulo do Sucesso (ML): Audiência × Estrutura × Ofertas equilibradas.' Cena: 'o produto é a resposta que você dá para a dor da persona, dentro do nicho que você escolheu' (antevê a estrutura como triângulo).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Fios: 'Estrutura Mínima Viável - Conceito Âncora'. Cena antecipa: 'Sem fornecedor, não tem produto. Sem produto, não tem validação. Bora caçar' (próximo capítulo sobre fornecedor, parte da estrutura).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Corpus '2 - Nichos de Mercado.txt': 'a gente vendia em todo o de 2 milhões reais por mês' (Bruno/Patacori fase cartucho). Bible Cases: 'Patacori: loja de pedras e cristais do próprio Bruno'.", "categoria": "CASE_REFERENCIADO"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Decisão Editorial: foco em micro-nicho. Cena: 'não escolhe nicho pelo tamanho. Escolhe pela sua capacidade de ser o melhor dentro dele... melhor ser o rei de um nicho pequeno do que mais um no meio de um oceano vermelho.'", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 1-7 Planejamento: nicho, persona, fornecedores, ofertas'. Cena: pesquisa → escolha → fornecedor (próximo capítulo) — segue a ordem.", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible v1.4: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'o tripé da escolha. Nicho. Persona. Produto.' Teoria: definições (micro, persona, produto). Analogia/Casos: Bruno/2M cartucho, exemplos de nichos. Campo de Batalha: pesquisa, ferramenta mapa empatia, merge. Fecho: 'Bora caçar.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem exatamente essas 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 14, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T17:32:00Z"
+}

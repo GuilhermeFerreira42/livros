@@ -1,0 +1,32 @@
+{
+  "cena_id": "cap_04_cena_03",
+  "capitulo": 4,
+  "cena": 3,
+  "data_validacao": "2026-07-30T18:25:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 17,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.5 POV_padrao. Cena: 'eu preciso te dar uma verdade' (mentor 1ª), 'você vai abrir' (2ª), 'eu mesmo, lá em 2012, tomei decisões erradas' (mentor 1ª), 'você não existe juridicamente' (2ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tempo presente. Cena: 'é', 'precisa', 'tem', 'custa', 'vale', 'vai', 'fica', 'pode'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Tom pragmático/encorajador. Cena: 'CNPJ é uma decisão que pega em trinta por cento do seu lucro no primeiro ano se você escolher errado', 'Contador bom é investimento. Contador ruim é prejuízo.', 'CNPJ não é burocracia. É a sua certidão de nascimento como empreendedor.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Mentor/Consultor. Cena: 'Antes de dormir hoje, você vai abrir o Portal do Empreendedor e simular a abertura do MEI.', 'Eu queria ter ouvido quando comecei: CNPJ não é burocracia.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'MEI (Microempreendedor Individual). Limite R$ 80 mil/ano' e 'ME (Microempresa / EIRELI / Limitada). Sem limite, paga Simples Nacional começando na primeira faixa.' Cena apresenta ambas com clareza: limite, custo, prazo, caso de uso.", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Cena: 'MEI primeiro, sempre que possível. ME quando o MEI travar.' Regra explícita e justificada: 'se você vai faturar menos de oitenta mil no primeiro ano, abrir ME é jogar dinheiro fora.' Coerente com Filosofia MVP de começar enxuto.", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Corpus '3 - Marca, CNPJ, MEI, ME' trata dos erros comuns. Cena enumera: (1) MEI sem verificar CNAE e estado; (2) ME sem validar; (3) contador caro sem expertise; (4) não emitir NF desde a primeira venda; (5) misturar conta pessoal e PJ. Cada um com exemplo de prejuízo e solução.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Cena: 'Pró-labore para MEI é isento de imposto até R$ 1.320 por mês (em 2024). Para ME, é tributado em 11% sobre o valor, mas conta como despesa da empresa.' Coerente com Bible Glossário: 'MEI isento de imposto sobre venda, mas paga contribuição social.'", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Cena: 'Abra uma conta PJ (Conta Simples ou Conta MEI do Banco do Brasil, C6, Inter, Nubank - todos têm conta PJ gratuita para MEI). Toda venda cai na conta PJ. Todo pagamento sai da conta PJ. E todo mês, antes de gastar, você transfere o seu pró-labore para a conta pessoal.' Regra clara de separação de contas.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Fios: 'Estrutura Mínima Viável - Conceito Âncora, introduzido Cap. 4, payoff Cap. 8'. Cena 4.3 aprofunda aplicando ao CNPJ (Peça 1 do MVP, conforme cena 4.1). A frase 'CNPJ é uma das peças do MVP' está implícita na estrutura.", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Cena: 'Toca montar a base digital da sua marca. Na próxima cena deste capítulo, a gente vai para o domínio, e-mail profissional, e os canais de audiência e venda. Você vai ter um e-mail que parece empresa, não gmail, vai ter um domínio que parece empresa, não wordpress gratuito, e vai entender por que isso importa antes do primeiro cliente. Te vejo lá.' Anúncio com gancho emocional (transformação: 'parece empresa') + contrato (domínio, e-mail, canais).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 8-21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace, meios de pagamento/envio.' Cena 4.3 trata CNPJ (início da fase de estrutura). A próxima cena (4.4) trataria domínio e e-mail (também Dias 8-21).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Mitos: 'Vender como CPF funciona' - 'Não. Não emite nota fiscal, passa insegurança, infringe legislação em barreiras fiscais.' Cena reproduz: 'Sem CNPJ, você não existe juridicamente. Você é um CPF brincando de e-commerce, vendendo sem NF, sem lastro, sem futuro.'", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: a cena usa âncoras sensoriais via medo do prejuízo. (1) 'trinta por cento do seu lucro no primeiro ano se você escolher errado' (medo: prejuízo). (2) 'Receita Federal perguntar onde está o imposto' (medo: fiscalização). (3) 'multa por ter emitido nota como MEI sendo que não podia' (medo: punição). (4) 'recuperação fiscal em 6 meses' (medo: falência). As 4 âncoras seguem o padrão medo/medo → solução.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "Diretriz editorial: fecho propulsor variado. Cena usa: 'Toca montar a base digital' (no fecho). Variedade implementada conforme diretriz (não só 'Bora').", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-016", "status": "CONFIRMADO", "evidencia": "Bible v1.5: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'papelada que destrói o sonho de muita gente'. Teoria: MEI vs ME, regras. Analogia: erro 1 (CNAE), erro 2 (ME sem validar), erro 3 (contador). Campo de Batalha: erros 4 (NF) e 5 (conta misturada), com a frase direta 'Conta separada é a primeira e mais simples atitude de quem quer durar'. Fecho: 'Toca montar a base digital'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-017", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 17, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T18:25:00Z"
+}

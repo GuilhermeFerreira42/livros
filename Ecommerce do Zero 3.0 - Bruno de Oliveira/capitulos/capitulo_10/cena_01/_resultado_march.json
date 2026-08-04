@@ -1,0 +1,87 @@
+{
+  "cena": "10.1",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "4 braços do ecossistema com descrição funcional",
+        "Vendas reais Patacori com números exatos",
+        "Mercado Envios Coleta (janela 2h, meta 97%, convite)",
+        "FULL (galpão, maior giro, mais relevância)",
+        "3 caminhos de fraude que NÃO funcionam",
+        "Caminho que funciona (amigos, reembolso por fora)",
+        "4 critérios do Mercado Líder com percentuais exatos",
+        "Mudança 15/out com novos valores",
+        "5 erros fatais"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "'O iniciante que entra achando que é só cadastrar produto está fadado a travar'",
+        "'Quem ignora a engrenagem vira invisível. Quem entende vira top of search'",
+        "'Produto com termômetro vermelho vai ser invisível na busca'",
+        "'A régua é cruel, mas é o que tem'"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "'A engrenagem invisível' como metáfora central",
+        "'Top of search' / invisível na busca",
+        "Linguagem direta: 'sujar o termômetro'",
+        "Reconhecimento honesto: 'os números mudam com o tempo, mas a lógica é a mesma'",
+        "Tom prático: '10-15 amigos diferentes'"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Coerente com Cap 9.2: 'marketplaces pós-validação'",
+        "Coerente com Cap 4 (MVP)",
+        "Coerente com Cap 6 (Atendimento)",
+        "Coerente com Cap 8 (Impulsão)",
+        "Patacori preservado",
+        "Lei 6 respeitada"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola: 'A engrenagem invisível que decide se você vende ou não'",
+        "Gancho: 'o capítulo que vai te mostrar a engrenagem invisível'",
+        "Estrutura modular completa",
+        "Conector: 'Toca equilibrar o triângulo'",
+        "Metáfora visual: 'engrenagem invisível'"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (sem amigos): termômetro ativa naturalmente com o tempo",
+      "Tentativa 2 (critérios mudam): Bruno reconhece mudança, recomenda senso crítico",
+      "Tentativa 3 (fraude mesmo com vendas reais): procedimento correto minimiza risco",
+      "Tentativa 4 (Patacori perdeu verde): números exemplares mostram manutenção",
+      "Tentativa 5 (Mercado Shops): Cap 9.2 já explica bônus de loja virtual própria"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena densa e prática. Cobre ecossistema inteiro (4 braços), fluxo completo de venda real, termômetro com régua clara, ativação com 5 erros, Mercado Líder com 4 critérios, mudança 15/out. Metáfora 'engrenagem invisível' é poderosa. Conector prepara cena 10.2. Lei 6 respeitada.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 18,
+    "fatos_verificaveis": 20,
+    "casos_com_atrito": "não aplicável (cena técnica)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Toca equilibrar o triângulo",
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

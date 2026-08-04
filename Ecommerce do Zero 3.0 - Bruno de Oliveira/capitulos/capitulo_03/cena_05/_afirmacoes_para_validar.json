@@ -1,0 +1,90 @@
+{
+  "cena_id": "cap_03_cena_05",
+  "capitulo": 3,
+  "cena": 5,
+  "total_afirmacoes_extraidas": 12,
+  "total_apos_filtro": 9,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_05",
+      "afirmacao": "Dropshipping não é modelo de negócio, é modelo de distribuição de produtos",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Abertura: 'Dropshipping não é modelo de negócio. Dropshipping é modelo de distribuição.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que dropshipping é modelo de distribuição, não modelo de negócio?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_05",
+      "afirmacao": "Dropshipping internacional com produto vindo de fora para cliente no Brasil = importação ilegal (crime tributário, sonegação fiscal, possível lavagem de dinheiro)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Motivo 1: 'importação por conta e ordem de terceiros sem registro. É crime tributário. Sonegação fiscal.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que dropshipping internacional configuraria importação ilegal, crime tributário, sonegação fiscal e possível lavagem de dinheiro?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_05",
+      "afirmacao": "No dropshipping internacional o cliente não é avisado que produto vem de fora; pacote fica preso na alfândega; cliente paga taxa/ICMS/multa; loja não tem CNPJ/NF/SAC; cliente processa, Procon multa",
+      "tipo": "MECANISMO",
+      "contexto": "Motivos 2 e 4",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que no dropshipping internacional o cliente não é avisado, pacote fica na alfândega, cliente paga taxas, e a loja não tem CNPJ/NF/SAC?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_05",
+      "afirmacao": "Esconder a origem do produto no dropshipping internacional viola o Código de Defesa do Consumidor (informação clara e adequada = direito básico; prática abusiva = multa, indenização, dano moral)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Motivo 3: 'informação clara e adequada é direito básico. Esconder a origem = prática abusiva.'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que esconder a origem no dropshipping internacional viola o CDC (direito à informação, prática abusiva, multa/indenização/dano moral)?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_05",
+      "afirmacao": "Modelo do Ecommerce na Prática: Dropshipping Nacional Homologado (fornecedor brasileiro, NF do fabricante pro cliente, você no meio dando suporte/CX, risco zero estoque via consignação)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'o que a gente faz no Ecommerce na Prática'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o modelo de Dropshipping Nacional Homologado: fornecedor brasileiro, NF do fabricante, suporte/CX, risco zero estoque, consignação?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_05",
+      "afirmacao": "Regras para usar dropshipping no método: só fornecedor homologado, produto confiável, atendimento seu (CX), triangulação clara (cliente compra de você → você pede pro fabricante → fabricante envia com NF pro cliente → você acompanha)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'regras do jogo'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma as 4 regras para usar dropshipping no método: fornecedor homologado, produto confiável, atendimento seu, triangulação clara?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_05",
+      "afirmacao": "Dropshipping não é modelo único: mistura com estoque próprio conforme o produto (alto giro = estoque, baixo giro/teste/ticket alto = dropshipping)",
+      "tipo": "MECANISMO",
+      "contexto": "Parágrafo 'dropshipping não é modelo único'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que dropshipping não é modelo único e pode ser misturado com estoque próprio conforme o produto?"
+    },
+    {
+      "id": "AFC-008",
+      "segmento": "cena_05",
+      "afirmacao": "Bruno começou com cartucho em consignação; Patacori trouxe cristais em consignação — modelo viável para começar",
+      "tipo": "CITACAO_CASE",
+      "contexto": "Parágrafo do case Bruno/Patacori",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que Bruno começou com cartucho em consignação e Patacori trouxe cristais em consignação?"
+    },
+    {
+      "id": "AFC-009",
+      "segmento": "cena_05",
+      "afirmacao": "Próxima cena: Ofertas, Demanda e Produto Estrela (montar oferta que converte, achar produto porta de entrada, conectar na audiência)",
+      "tipo": "PROTOCOLO",
+      "contexto": "Fecho: 'próxima cena vai fechar o tripé do planejamento com ofertas, demanda e produto estrela'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que o próximo capítulo (Cap. 3.6) trata de ofertas, demanda e produto estrela?"
+    }
+  ]
+}

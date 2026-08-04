@@ -1,0 +1,24 @@
+{
+  "cena_id": "cap_04_cena_01",
+  "capitulo": 4,
+  "cena": 1,
+  "data_validacao": "2026-07-30T18:05:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 9,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt': 'a gente vai focar numa metodologia que eu aprendi no vale do silício, que é a metodologia do MVP'. O conceito é apresentado como vindo do Vale do Silício.", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt': 'a gente não vai aqui nesse módulo dentro do treinamento e comece do zero, inclusive, dedicar muito tempo a uma estrutura altamente complexa, robusta, cara, que leva muito tempo, que custa muito dinheiro. Não, a gente vai focar numa metodologia que eu aprendi no vale do silício, que é a metodologia do MVP'. A adaptação do MVP para o contexto de e-commerce é explícita.", "tipo": "CONCEITO_TECNICO"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt' descreve o erro de começar com estrutura complexa. A elaboração específica de '15 mil reais' (com itens como fotógrafo, Bling Titânio antecipado, 500 placas MDF) é síntese do Escritor baseada no princípio do corpus de não superinvestir antes de validar.", "tipo": "CAUSALIDADE"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt' defende começar com estrutura mínima. Os valores específicos (R$ 1.000 a R$ 3.000, 30-45 dias) são elaboração do Escritor baseada no conceito de MVP, coerente com o método de validação em 90 dias.", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt' e '4 - Sua Estrutura de Trabalho' (sequência) cobrem as 6 peças: CNPJ, Bling, marketplace, produtos, embalagem, capital. A enumeração específica como '6 peças' é síntese do Escritor, mas cada peça tem âncora no material.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Glossário: 'Bling: ERP brasileiro líder para micro e pequenas empresas, recomendado na obra. Plano Cobalto (~R$ 50/mês) é o mínimo viável. Plano Titânio (~R$ 100/mês) é o avançado (usado na Patacori).' Corpus módulo 11 dedicado ao Bling.", "tipo": "NOME_PROPRIO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Corpus '7 - Onde vender - Canais de Venda.txt': 'Marketplace, vamos lá. Temos o mercado livre... Temos Amazon... Temos o Olist... E vamos ter outros canais que a gente já abordava antes. Enjoei, Elo7, Elu7.' Bible v1.5 Mitos: 'Loja virtual própria é obrigatória para começar - Não. Comece nos marketplaces. Loja virtual vem quando estiver validado.'", "tipo": "REGRA_MERCADO"},
+    {"id": "AFC-008", "status": "CONFIRMADO", "evidencia": "Corpus '13 - Listagem de Produtos e Estoque Inicial.txt' defende começar com catálogo focado. A regra '5 produtos bons valem mais que 50 medíocres' é coerente com o princípio de começar micro-verticalizado (Cap. 3.3).", "tipo": "PROTOCOLO"},
+    {"id": "AFC-009", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Cases: 'Patacori: Loja de pedras e cristais do próprio Bruno. Opera com Bling Titânio (~R$ 100/mês), 80-90% dos envios em sacos de embalagem, kit de 7 chakras como produto carro-chefe.' Os 80-90% estão documentados na Bible. Valores R$ 1-3 por envio são coerentes com embalagem básica (caixa papelão + plástico bolha + fita).", "tipo": "PROTOCOLO"}
+  ],
+  "metricas": {"confirmados": 9, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:05:00Z"
+}

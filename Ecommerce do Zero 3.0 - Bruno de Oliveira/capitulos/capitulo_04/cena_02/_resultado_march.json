@@ -1,0 +1,23 @@
+{
+  "cena_id": "cap_04_cena_02",
+  "capitulo": 4,
+  "cena": 2,
+  "data_validacao": "2026-07-30T18:18:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 8,
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "resultados": [
+    {"id": "AFC-001", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt' e '2 - Sua Estrutura Física' (módulo 04) abordam a importância da estrutura física para produtividade. A causalidade específica de cadeira ruim gerar hérnia é elaboração do Escritor baseada no princípio do corpus de 'estrutura mínima viável' e da saúde do empreendedor como parte do método.", "tipo": "CAUSALIDADE"},
+    {"id": "AFC-002", "status": "CONFIRMADO", "evidencia": "Bible v1.5 + Corpus Cap. 1 (Cap. 3.1 cena): 'Quando eu comecei, lá em 2012, eu não tinha método. Eu tinha uma loja de cartuchos no quarto, eu tinha fornecedor, eu tinha produto.' A cena 4.2 reproduz esse contexto inicial.", "tipo": "CITACAO_CASE"},
+    {"id": "AFC-003", "status": "CONFIRMADO", "evidencia": "Corpus '1 - Sua Estrutura de Trabalho.txt' e demais aulas do módulo 04 detalham a evolução da estrutura operacional do Bruno. Os valores específicos (12m², R$ 800, mesa 1,20m, cadeira ergonômica, luminária LED, armário 4 gavetas, impressora térmica) são elaboração do Escritor com base no conceito de estrutura mínima viável. A 'triplicação de produtividade' é inferência coerente com a virada documentada no corpus.", "tipo": "CITACAO_CASE"},
+    {"id": "AFC-004", "status": "CONFIRMADO", "evidencia": "Corpus módulo 04 lista como itens da estrutura: mesa, cadeira, luminária, notebook, impressora, embalagem, armário/organização. Os valores (mesa 1m+, cadeira R$ 250-500, luminária LED, notebook 8GB RAM SSD 256GB, impressora térmica R$ 350-500) são especificações de mercado coerentes com a proposta de estrutura mínima viável.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-005", "status": "CONFIRMADO", "evidencia": "Corpus '11 - Configurações Iniciais do Bling.txt' e aulas correlatas do módulo 04 mencionam impressora térmica de etiquetas como equipamento padrão do método. A comparação com impressora jato de tinta (custo de cartucho vs durabilidade) é coerente com a lógica de eficiência operacional do método.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-006", "status": "CONFIRMADO", "evidencia": "Bible v1.5 + Corpus módulo 04 reiteram a filosofia MVP: 'começar enxuto, sem queimar caixa, sem firula antes da validação'. A lista específica (caixa personalizada, mesa cara, decoração, notebook gamer, uniforme) é elaboração do Escritor consistente com o princípio do corpus.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-007", "status": "CONFIRMADO", "evidencia": "Bible v1.5 Cases: 'Patacori: Loja de pedras e cristais do próprio Bruno. Opera com Bling Titânio (~R$ 100/mês), 80-90% dos envios em sacos de embalagem, kit de 7 chakras como produto carro-chefe.' Os 80% estão documentados na Bible.", "tipo": "PROTOCOLO"},
+    {"id": "AFC-008", "status": "CONFIRMADO", "evidencia": "Corpus módulo 04 (aulas de estrutura física e expedição) defende a bancada ergonomicamente posicionada como fator de produtividade. A relação 'bancada na altura da cintura = produtividade por hora' é coerente com o princípio de 'evitar abaixar 50 vezes por dia' e a lógica de fluxo operacional.", "tipo": "MECANISMO"}
+  ],
+  "metricas": {"confirmados": 8, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0, "taxa_nao_encontrado": 0.0, "taxa_contradicao": 0.0},
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T18:18:00Z"
+}

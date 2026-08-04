@@ -1,0 +1,17 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_DEFINICAO", "pergunta": "MVP é definido claramente (origem Vale do Silício, adaptado para e-commerce)?", "referencia_bible": "Glossário: MVP adaptado do Vale do Silício"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "As 6 peças do MVP (CNPJ, Bling, marketplace, catálogo, embalagem, capital) são apresentadas?", "referencia_bible": "Bible Cronologia: Dias 8-21 / 22-35"},
+  {"id": "CONT-007", "categoria": "CONCEITO_REGRA", "pergunta": "Regra: começar com marketplace (não loja virtual própria)?", "referencia_bible": "Mitos: loja virtual própria - começar nos marketplaces"},
+  {"id": "CONT-008", "categoria": "CAUSALIDADE", "pergunta": "Causalidade: superinvestir antes de validar leva a quebra (15 mil vs 1,5 mil)?", "referencia_bible": "Mitos: começar enxuto, não queimar caixa"},
+  {"id": "CONT-009", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Estrutura Mínima Viável' é instalado como Conceito Âncora do Cap. 4?", "referencia_bible": "Fios: Estrutura Mínima Viável Cap. 4"},
+  {"id": "CONT-010", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Patacori' é referenciado (Bling Titânio, sacos de embalagem)?", "referencia_bible": "Cases: Patacori (PRIMÁRIA)"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Próxima cena do mesmo capítulo (CNPJ) é anunciada?", "referencia_bible": "Bible Cronologia: Dias 8-21"},
+  {"id": "CONT-012", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "A cronologia 'Dias 8-21 Estrutura, 22-35 Produtos' é respeitada (CNPJ primeiro, catálogo depois)?", "referencia_bible": "Cronologia: Dias 8-21 / 22-35"},
+  {"id": "CONT-013", "categoria": "MITO_DESCONSTRUIDO", "pergunta": "Mito 'loja virtual própria é obrigatória' é combatido (começar com marketplace)?", "referencia_bible": "Mitos: loja virtual própria - marketplace primeiro"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular (Teoria → Analogia → Campo de Batalha), fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

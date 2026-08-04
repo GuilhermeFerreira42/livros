@@ -1,0 +1,30 @@
+{
+  "cena_id": "cap_03_cena_04",
+  "capitulo": 3,
+  "cena": 4,
+  "data_validacao": "2026-07-30T17:36:00Z",
+  "validador": "CONTINUIDADE_PODBOOK",
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "total_verificacoes": 15,
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Bible v1.4 POV_padrao. Cena: 'você precisa entender', 'você vai usar todos eles em paralelo' (2ª) + 'eu sei que a tentação é espremer' (mentor 1ª).", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tempo presente. Cena: 'é', 'precisa', 'vai', 'descarta', 'topa', 'responde', 'manda'.", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Tom pragmático/encorajador. Cena: 'Fornecedor não é fornecedor... tem fornecedor que é parceiro de crescimento. E tem fornecedor que é o primeiro problema do seu negócio. Hoje, a gente vai te ensinar a separar um do outro.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Distância Mentor/Consultor. Cena: 'eu sei que a tentação é espremer', 'Fornecedor parceiro é aquele que você liga às 7 da manhã de um sábado... e ele atende.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Glossário: 'Marketplace: Canal de venda de terceiros' e 'Fornecedor: quem abastece'. Cena: 'Mercado Livre, Amazon, Shopee são marketplaces — os lugares onde você vende. Fornecedor é quem te abastece.'", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-006", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt' lista critérios: CNPJ ativo, NF correta, prazo de entrega, qualidade, comunicação, disposição para parceria. Cena sintetiza nos 6 itens do checklist de homologação.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-007", "status": "CONFIRMADO", "evidencia": "Corpus '6 - Quem vai te fornecer.txt': contingência (1+2) como princípio. Cena: 'nunca dependa de um único fornecedor. Você vai montar a contingência: para cada produto, você vai ter um fornecedor principal e dois backups.'", "categoria": "REGRA_MERCADO"},
+    {"id": "CONT-008", "status": "CONFIRMADO", "evidencia": "Corpus '6.1 - MasterClass Fornecedores.txt' defende fornecedor familiar como bom parceiro. Cases: Bruno/Patacori (PRIMÁRIA) - 'Patacori: loja de pedras e cristais do próprio Bruno'. Cena: 'esses são os melhores parceiros, porque eles topam consignação, topa prazo longo, topam fazer a NF do jeito que você precisa'.", "categoria": "CONCEITO_TECNICO"},
+    {"id": "CONT-009", "status": "CONFIRMADO", "evidencia": "Corpus '6.1 - MasterClass Fornecedores.txt' detalha: 'B2B é presencial. Relacionamento se faz no almoço, no café, no WhatsApp todo dia.' Cena reproduz esses princípios.", "categoria": "PROTOCOLO"},
+    {"id": "CONT-010", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Fios: 'Dropshipping Nacional Homologado - Solução de Nicho, introduzido Cap. 3, payoff Cap. 4'. Cena antecipa: 'próxima cena vai tratar de um caminho alternativo de abastecimento: o dropshipping nacional homologado.'", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-011", "status": "CONFIRMADO", "evidencia": "Bible v1.4 Fios: 'Estrutura Mínima Viável - Conceito Âncora'. Cena: 'fornecedor é o seu sócio de bastidor. Sem ele, a sua loja não roda' (parte da estrutura mínima).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-012", "status": "CONFIRMADO", "evidencia": "Cena desconstroi o mito: 'a tentação é espremer o fornecedor no preço. Aí ele te dá 5% com má cara, e daqui a pouco, na primeira crise, ele te esquece. Fornecedor parceiro é aquele que você liga às 7 da manhã de um sábado... e ele atende.'", "categoria": "MITO_DESCONSTRUIDO"},
+    {"id": "CONT-013", "status": "CONFIRMADO", "evidencia": "Bible Cronologia: 'Dias 1-7 Planejamento: nicho, persona, fornecedores, ofertas'. Fornecedor é parte do planejamento (Dias 1-7), embora a homologação aconteça também em paralelo à estrutura. Cena trata de busca e homologação (Dias 1-7).", "categoria": "TIMELINE_CRONOLOGIA"},
+    {"id": "CONT-014", "status": "CONFIRMADO", "evidencia": "Bible v1.4: 'Ritmo_padrao: Modular e ondulatório (Teoria → Analogia → Campo de Batalha/Ação)'. Gancho: 'Fornecedor não é fornecedor'. Teoria: marketplace vs fornecedor, 5 caminhos. Analogia/Casos: B2B presencial, fornecedor familiar. Campo de Batalha: 6 itens de homologação, contingência, parceria. Fecho: 'Bora desmascarar.'", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-015", "status": "CONFIRMADO", "evidencia": "FORMATO_CENA_PODBOOK.md: '## Resumo da cena' + '## Seu checklist desta cena' + preview próxima cena. Cena tem as 3 seções.", "categoria": "VOZ_NARRATIVA"}
+  ],
+  "metricas": {"confirmados": 15, "contraditos": 0, "nao_encontrados": 0, "taxa_confirmacao": 1.0},
+  "status_geral": "APROVADO",
+  "erros": [],
+  "timestamp": "2026-07-30T17:36:00Z"
+}

@@ -1,0 +1,33 @@
+{
+  "cena_id": "7.2",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_7_1": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_7_3_cross_upsell": "APROVADO",
+    "patacori_citronela_literal": "APROVADO",
+    "biblioteca_facebook_literal": "APROVADO",
+    "cleide_dor_pes_literal": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO ('Toca inflar o ticket')",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "coerencia_com_6_3_e_7_1": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 18 eixos. Pode avançar para 7.3."
+}

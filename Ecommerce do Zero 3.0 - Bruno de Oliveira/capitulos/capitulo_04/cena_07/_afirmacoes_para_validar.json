@@ -1,0 +1,72 @@
+{
+  "cena_id": "cap_04_cena_07",
+  "capitulo": 4,
+  "cena": 7,
+  "total_afirmacoes_extraidas": 10,
+  "total_apos_filtro": 7,
+  "afirmacoes_filtradas": [
+    {
+      "id": "AFC-001",
+      "segmento": "cena_07",
+      "afirmacao": "Dropshipping nacional homologado é o modelo legal de vender sem estoque, com fornecedor brasileiro enviando direto pro cliente, NF do fabricante, e você coordenando",
+      "tipo": "CONCEITO_TECNICO",
+      "contexto": "Abertura: 'dropshipping nacional homologado, que é vender sem estoque, com o fornecedor brasileiro enviando o produto direto pro cliente, e você ficando com a margem'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o modelo de dropshipping nacional homologado como legal e válido?"
+    },
+    {
+      "id": "AFC-002",
+      "segmento": "cena_07",
+      "afirmacao": "Triangulação: cliente → você → fornecedor → cliente. Fornecedor emite NF direto pro cliente. Você dá suporte e fica com a margem",
+      "tipo": "MECANISMO",
+      "contexto": "Seção 'como funciona a triangulação': 'cliente, você, fornecedor. O cliente compra de você... você pega o pedido e passa para o fornecedor... o fornecedor emite a NF direto pro cliente... você acompanha o envio, responde dúvida do cliente, resolve troca'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a estrutura de triangulação do dropshipping nacional homologado?"
+    },
+    {
+      "id": "AFC-003",
+      "segmento": "cena_07",
+      "afirmacao": "Margem típica de dropshipping nacional é 20% a 40% sobre o preço de venda. Patacori operou com cristais por 6 meses, margem média de 30%",
+      "tipo": "DADO_NUMERICO",
+      "contexto": "Seção 'quanto eu ganho de margem': 'a margem típica é de 20% a 40% sobre o preço de venda... a Patacori operou em dropshipping com cristais nos primeiros 6 meses, com margem média de 30%'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a margem típica de 20-40% do dropshipping nacional e a referência da Patacori (cristais, 6 meses, 30%)?"
+    },
+    {
+      "id": "AFC-004",
+      "segmento": "cena_07",
+      "afirmacao": "Transparência no anúncio: 'Produto enviado diretamente pelo fabricante/fornecedor homologado. NF emitida pelo CNPJ do fabricante. Estoque e logística por nossa conta, suporte e garantia por nossa conta.'",
+      "tipo": "PROTOCOLO",
+      "contexto": "Seção 'ponto crítico que ninguém te conta': 'você precisa ser transparente no anúncio e na descrição: Produto enviado diretamente pelo fabricante/fornecedor homologado. NF emitida pelo CNPJ do fabricante. Estoque e logística por nossa conta, suporte e garantia por nossa conta'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a recomendação de transparência sobre NF do fornecedor no anúncio?"
+    },
+    {
+      "id": "AFC-005",
+      "segmento": "cena_07",
+      "afirmacao": "Mistura no MVP: 2-3 produtos em estoque próprio (prováveis campeões) + 2-3 em dropshipping (em teste). Conforme valida, o que vender mais vai para estoque próprio",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'mistura no MVP': 'tenha 2 a 3 produtos em estoque próprio (os prováveis campeões) e 2 a 3 em dropshipping (os que você ainda está testando). Conforme você for validando, o que vender mais vai para estoque próprio, o que vender menos fica em dropshipping'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma a recomendação de misturar estoque próprio + dropshipping no MVP?"
+    },
+    {
+      "id": "AFC-006",
+      "segmento": "cena_07",
+      "afirmacao": "Plataformas de integração de dropshipping (Bling Dropshipping, Hub Integrador, Nuvemshop) só valem a pena com 20+ pedidos/dia. No MVP, fluxo manual via WhatsApp/email é viável",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'plataformas de integração de dropshipping': 'comece sem plataforma, manualmente. Você tem 5 a 10 pedidos por dia no começo, copiar e colar no WhatsApp do fornecedor é viável. Quando passar de 20 pedidos por dia, aí sim, considere uma plataforma'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma que plataformas de integração de dropshipping só compensam com 20+ pedidos/dia?"
+    },
+    {
+      "id": "AFC-007",
+      "segmento": "cena_07",
+      "afirmacao": "Saída do dropshipping para estoque próprio quando vender 10-20 unid/mês do mesmo SKU (margem sobe de 25% para 50%)",
+      "tipo": "REGRA_MERCADO",
+      "contexto": "Seção 'saída do dropshipping para o estoque próprio': 'quando o produto vender consistentemente 10 a 20 unidades por mês, com margem de dropshipping de 25%, vale a pena comprar 50 unidades em estoque, e a margem subir para 50%'",
+      "speaker_origem": "Narrador (Mentor)",
+      "pergunta_para_validador": "O corpus confirma o gatilho de 10-20 unid/mês para transição dropshipping → estoque próprio?"
+    }
+  ]
+}

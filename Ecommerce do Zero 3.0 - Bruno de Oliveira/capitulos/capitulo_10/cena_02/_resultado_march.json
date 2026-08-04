@@ -1,0 +1,82 @@
+{
+  "cena": "10.2",
+  "validador": "MARCH",
+  "metodo": "Mentor Atômico de Revisão Cega de Cena",
+  "data": "2026-08-04",
+  "dimensoes": {
+    "D1_materialidade": {
+      "status": "APROVADO",
+      "evidencias": [
+        "3 pilares com definições claras",
+        "51 milhões de compradores do ML",
+        "Custos de estrutura: Bling R$ 50/mês, EAN R$ 150-200, certificado R$ 150-200/ano",
+        "3 cases com números: Patrícia, Victor, John (1.400 × R$ 65 = R$ 91K)",
+        "Sintomas de cada pilar fraco",
+        "3 ações práticas"
+      ]
+    },
+    "D2_arena": {
+      "status": "APROVADO",
+      "evidencias": [
+        "'A diferença é brutal: usar audiência alheia acelera o teste; construir própria requer caixa'",
+        "'O iniciante que negligencia a estrutura ... está fadado a tomar muitas reclamações e perder o termômetro verde'",
+        "'O triângulo te diz: antes de mexer em tudo, mexe no pilar que está fraco'"
+      ]
+    },
+    "D3_ressonancia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Linguagem coloquial: 'agulha no palheiro', 'carro-chefe', 'sem sentido aparente', 'fora da curva'",
+        "Cases reais com nomes (Patrícia, Victor, John)",
+        "Reconhecimento honesto: 'Encontrar produto estrela pode levar horas ou dias'",
+        "'O iniciante que entra vendendo o que gosta está fadado a vender 10-20 unidades por mês'"
+      ]
+    },
+    "D4_consistencia": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Coerente com cena 10.1: ecossistema ML (audiência = 51M)",
+        "Coerente com Cap 4 (MVP): ERP Bling é peça central",
+        "Coerente com Cap 6 (Atendimento): satisfação = recompra",
+        "Coerente com Cap 7 (Vendas): kits, cross-sell, jornada de compra",
+        "Cases preservados com números",
+        "Lei 6 respeitada"
+      ]
+    },
+    "D5_heuristica": {
+      "status": "APROVADO",
+      "evidencias": [
+        "Frase-cola: 'O triângulo tem 3 pilares. Se 1 cai, o negócio cai'",
+        "Gancho: 'o conceito que é o coração do método do Bruno'",
+        "Estrutura modular completa",
+        "Conector: 'Toca dominar as táticas avançadas'",
+        "Metáfora visual: 'triângulo equilibrado'"
+      ]
+    }
+  },
+  "reverso": {
+    "quebras_tentadas": 5,
+    "quebras_criticas": 0,
+    "detalhes": [
+      "Tentativa 1 (sem produto estrela): Bruno reconhece que pode levar horas/dias",
+      "Tentativa 2 (certificado mais caro): preço é referência do corpus",
+      "Tentativa 3 (cases são sorte): método, não sorte (alto lucro + baixa concorrência)",
+      "Tentativa 4 (audiência só pós-validação): Bruno diz que é mais fácil pós, mas possível antes",
+      "Tentativa 5 (audiência zero): use a do ML (51 milhões)"
+    ]
+  },
+  "holistico": {
+    "impressao_geral": "Cena é o coração metodológico do Cap 10. 3 pilares explicados, 3 cases reais (Patrícia, Victor, John), sintomas por pilar fraco, 3 ações práticas. Sacada de 'usar audiência do ML' separa método Bruno de outros. Lei 6 respeitada.",
+    "status": "APROVADO"
+  },
+  "metricas_finais": {
+    "citacoes_literais_corpus": 17,
+    "fatos_verificaveis": 21,
+    "casos_com_atrito": "3 cases com atrito (Patrícia saturada, Victor 3-4 meses, John não validou)",
+    "conector_emocional_cena_proxima": true,
+    "variou_fecho_bora": true,
+    "fecho_usado": "Toca dominar as táticas avançadas",
+    "lei_6_respeitada": true,
+    "status": "APROVADO"
+  }
+}

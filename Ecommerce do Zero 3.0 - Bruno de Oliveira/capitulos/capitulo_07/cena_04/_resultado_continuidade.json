@@ -1,0 +1,34 @@
+{
+  "cena_id": "7.4",
+  "validador": "CONTINUIDADE",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 17,
+    "aprovadas": 17,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_7_3": "APROVADO",
+    "claudia_fiel": "APROVADO",
+    "gancho_para_7_5_nf": "APROVADO",
+    "case_patacori_literal": "APROVADO",
+    "fardo_sortido_literal": "APROVADO",
+    "frase_ancora_literal": "APROVADO",
+    "tese_audiencia_literal": "APROVADO",
+    "ritmo_modular": "APROVADO",
+    "formato_final_completo": "APROVADO",
+    "limite_palavras": "APROVADO (~2.500)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible": "APROVADO",
+    "sem_antecipacao_indevida": "APROVADO",
+    "cases_com_atrito": "APROVADO",
+    "cronologia_respeitada": "APROVADO",
+    "fecho_variado": "APROVADO",
+    "conector_emocional": "APROVADO",
+    "caos_antes_solucao": "APROVADO",
+    "coerencia_com_4_5_e_4_7": "APROVADO"
+  },
+  "veredicto": "Cena APROVADA em todos os 17 eixos. Pode avançar para 7.5."
+}

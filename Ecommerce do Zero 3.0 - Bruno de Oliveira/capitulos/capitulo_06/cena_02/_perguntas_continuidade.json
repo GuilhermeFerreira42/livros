@@ -1,0 +1,133 @@
+{
+  "cena_id": "6.2",
+  "cena_anterior": "6.1 (Atendimento SAC vs CX) — checksum d6a78202",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 6.2 faz ponte explícita com a 6.1?",
+      "resposta_observada": "Sim. Abertura: 'no capítulo cinco, a gente construiu a máquina de audiência. E na cena passada, a gente plantou a semente do CX — atendimento como ativo, e não como centro de custo. E agora, nessa cena, a gente vai descer pro chão.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada como 'vai te procurar em vários canais' e 'cada mensagem pré-venda é uma Claudia com a mão no bolso'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 6.3 (Pré-venda) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai mergulhar em como responder perguntas de marketplace de forma que converte, como transformar o chat do WhatsApp em máquina de venda, e como usar o Direct pra qualificar a Claudia antes dela chegar no checkout. Porque cada mensagem pré-venda é uma Claudia com a mão no bolso, esperando uma razão pra apertar o botão.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Case Patacori 2019 é construído com base na lógica do corpus?",
+      "resposta_observada": "Sim. Aula 8 (Marketplaces) fala explicitamente: 'no mercado livre, isso é possível até de bloqueio. De você ser banido. Então, você tem que tirar dúvida do cliente ali. Se não pode recomendar a sua loja... De você ser banido da plataforma.' O case Patacori 2019 é coerente com essa lógica.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "5 funcionalidades do WhatsApp Business são citações literais?",
+      "resposta_observada": "Sim. Cartão de visitas, respostas automáticas, etiquetas, catálogo, lista de transmissão são todos citados literalmente na Aula 5.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Marketplaces canônicos da Bible v1.5 são respeitados?",
+      "resposta_observada": "Sim. Bible lista Mercado Livre, Amazon, Olist, Enjoei, Elo7, Elu7 como canônicos. Cena 6.2 cita Mercado Livre, Amazon, Olist, Enjoei, Elo7 — coerente.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Regra 80-15-4-1 está atenuada no texto?",
+      "resposta_observada": "Sim. Texto diz 'da nossa experiência' e usa benchmarks plausíveis do corpus (Aula 5 destaca WhatsApp como 'democrática, todo mundo usa').",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (hóspede vs dono) → Analogia (Patacori) → Protocolo marketplace → Conceito (80-15-4-1) → Ferramentas (WhatsApp) → Rotina.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'CX' (Cap 6) continua. Fio 'Patacori' continua. Fio 'Marketplaces canônicos' continua. Fio 'Audiência > Conteúdo' (Cap 5) ecoa implicitamente.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Não antecipa conteúdo das próximas cenas (6.3, 6.4, 6.5)?",
+      "resposta_observada": "6.3 (Pré-venda) é citada como próxima cena, com gancho claro. 6.4 (Pós-venda) e 6.5 (Conflitos) não são citados.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Patacori 2019: vendedor iniciante tentou desvio → 5 anúncios derrubados, 30 dias pra recurso.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 6 = Dias 70-80 (atendimento estruturado). 6.2 (canais) é a operacionalização dos canais da cena 6.1 (CX).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 6.2 fecha com 'Te vejo lá.' (mantido). Variação no 'Bora organizar os canais' (6.1) vs 'cada mensagem pré-venda é uma Claudia com a mão no bolso' (6.2).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'cada mensagem pré-venda é uma Claudia com a mão no bolso, esperando uma razão pra apertar o botão. E a razão, meu amigo, vem da resposta.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Patacori 2019 (5 anúncios derrubados) antes de aprender a regra do marketplace.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-019",
+      "pergunta": "Bible v1.5 - Mercado Livre não pode ser citado como 'ML' sem explicar?",
+      "resposta_observada": "Sim. Cena usa 'Mercado Livre' por extenso, com 'ML' aparecendo só após definição implícita.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-020",
+      "pergunta": "Dados externos (Grupo Via Varejo Black Friday) são citações literais?",
+      "resposta_observada": "Sim. Cita literalmente: 'coisa que Casas Bahia fez recentemente, o grupo via Varejo fez recentemente na última Black Friday. E 20% das vendas da Black Friday viaam do WhatsApp'.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 20,
+    "aprovadas": 20,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 6.2 cumpre integralmente os contratos de continuidade. 4 citações literais (WhatsApp Business 5 funcionalidades, separação chip, Via Varejo, CRM). Case Patacori 2019 (construído com base na lógica do corpus). Regra 80-15-4-1 atenuada. Marketplaces canônicos da Bible respeitados. Próxima cena (6.3 Pré-venda) pode avançar com Claudia saturada de contexto."
+  }
+}

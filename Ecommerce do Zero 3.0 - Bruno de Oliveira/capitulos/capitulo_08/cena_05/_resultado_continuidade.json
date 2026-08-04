@@ -1,0 +1,32 @@
+{
+  "cena": "8.5",
+  "validador": "Continuidade",
+  "metodo": "Bible da Obra + Estado da Obra",
+  "data": "2026-08-04",
+  "perguntas_avaliadas": 10,
+  "aprovadas": 10,
+  "reprovadas": 0,
+  "detalhes": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector 'No próximo capítulo' e variação de fecho respeitados"},
+    {"id": "p2", "tema": "Case Patacori canônico", "status": "APROVADO", "nota": "Patacori é exemplo de distribuição de orçamento"},
+    {"id": "p3", "tema": "Coerência com cena 8.1", "status": "APROVADO", "nota": "Só investir no que gera resultado"},
+    {"id": "p4", "tema": "Coerência com cena 8.3", "status": "APROVADO", "nota": "3-5 campeões → 5 posts × R$ 10/dia"},
+    {"id": "p5", "tema": "Coerência com cena 8.4", "status": "APROVADO", "nota": "Duração 7 dias para público personalizado"},
+    {"id": "p6", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Todos os dados vêm do corpus da Aula 6"},
+    {"id": "p7", "tema": "Conector para Cap 9", "status": "APROVADO", "nota": "'Te vejo no R$ 10K' é o gancho direto"},
+    {"id": "p8", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p9", "tema": "Fechamento do Cap 8", "status": "APROVADO", "nota": "Recapitula as 5 cenas, instala a tese central"},
+    {"id": "p10", "tema": "Preparação para Cap 9", "status": "APROVADO", "nota": "'Te vejo no R$ 10K' prepara marco de validação"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [
+    "Atualizar Bible v1.5 → v1.6 com Cap 8 completo (5/5 cenas, novo checksum)"
+  ],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 8.5 ser fechada, atualizar Cena_atual para {capitulo: 9, cena: 1}",
+    "Incrementar Capitulos_concluidos para 8 (Cap 8 fechado)",
+    "Atualizar Bible_checksum para o novo valor do Cap 8 completo",
+    "Incrementar Chamadas_gastas em ~15 (2 cenas por call)"
+  ],
+  "status_geral": "APROVADO"
+}

@@ -1,0 +1,16 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor (Bruno) com alternância para 2ª pessoa ('você')?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente (conceitos atemporais, sensação de mentoria ao vivo)?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador/transformador com imagens de campo de batalha?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância narrativa Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_DEFINICAO", "pergunta": "Conceito de nicho micro (vs macro) está claramente definido com exemplos?", "referencia_bible": "Decisão Editorial: foco em micro-nicho"},
+  {"id": "CONT-006", "categoria": "CONCEITO_DEFINICAO", "pergunta": "Mapa de Empatia é definido como ferramenta de persona com gente real?", "referencia_bible": "Mapa de Empatia é citado em várias aulas"},
+  {"id": "CONT-007", "categoria": "CONCEITO_REGRA", "pergunta": "A ordem nicho → persona → produto é respeitada?", "referencia_bible": "Corpus '6 - Quem vai te fornecer'"},
+  {"id": "CONT-008", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "O fio 'Triângulo do Sucesso (Audiência × Estrutura × Ofertas)' é antecipado?", "referencia_bible": "Fios: Triângulo do Sucesso ML"},
+  {"id": "CONT-009", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "A 'Estrutura Mínima Viável' é prefigurada para o próximo capítulo (fornecedor = parte da estrutura)?", "referencia_bible": "Fios: Estrutura Mínima Viável"},
+  {"id": "CONT-010", "categoria": "CASE_REFERENCIADO", "pergunta": "Case Bruno (cartucho = 2M/mês em micro-nicho) é citado?", "referencia_bible": "Cases: Bruno/Patacori (PRIMÁRIA)"},
+  {"id": "CONT-011", "categoria": "MITO_DESCONSTRUIDO", "pergunta": "O mito 'mercado macro é melhor' é combatido (micro é rei do nicho)?", "referencia_bible": "Mitos: começar nos marketplaces micro"},
+  {"id": "CONT-012", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "A ordem de execução (pesquisa, escolha, fornecedor) é coerente com Dias 1-7 do cronograma?", "referencia_bible": "Cronologia: Dias 1-7 Planejamento"},
+  {"id": "CONT-013", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular (Teoria → Analogia → Campo de Batalha), fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com '## Resumo da cena' e '## Seu checklist desta cena'?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

@@ -1,0 +1,121 @@
+{
+  "cena_id": "6.3",
+  "cena_anterior": "6.2 (Canais) — checksum e409c721",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 6.3 faz ponte explícita com 6.1 e 6.2?",
+      "resposta_observada": "Sim. Abertura: 'A gente tem o paradigma do CX instalado (cena 6.1), e os canais todos mapeados (cena 6.2). E agora, nessa cena, a gente entra na primeira metade da operação, que é onde a venda nasce ou morre.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada repetidamente: 'conduzir a Claudia à compra', 'a Claudia compra, ou quando ela fala explicitamente que não quer mais ser contatada'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 6.4 (Pós-venda) é claro e emocional?",
+      "resposta_observada": "Sim. 'a gente vai entrar na pós-venda: encantamento, follow-up, recompra. E a gente vai ver que a venda não acaba quando o Pix cai. A venda, na verdade, começa quando o Pix cai.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Case aluna tênis corrida é prototípico com atrito?",
+      "resposta_observada": "Sim. Resposta passiva (30% conversão) → resposta ativa (80% conversão). Padrão atrito completo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "5 passos do protocolo são sínteses fiéis do corpus?",
+      "resposta_observada": "Sim. Cada passo é uma paráfrase da estrutura descrita na Aula 4 (ouvir → conectar → oferecer com atributos → devolver bola).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "3 follow-ups (24h, 7d, 30d) são coerentes com o corpus?",
+      "resposta_observada": "Sim. Aula 4 fala de 'sete, dez, quinze dias' como 'prazo médio dele receber aquele produto' e 'depois de certo tempo você entra em contato para poder checar'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Conceito (resposta ativa) → Analogia (aluna tênis) → Framework (5 passos) → Follow-ups → Erros.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'CX' (Cap 6) continua. Fio 'Patacori como prova social' continua (implícito). Fio 'Audiência > Conteúdo' ecoa.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo de 6.4 e 6.5?",
+      "resposta_observada": "6.4 (Pós-venda) é citada como próxima cena. 6.5 (Conflitos) não é citada.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Aluna tênis corrida: resposta passiva fraca → resposta ativa forte (30% → 80%).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 6 = Dias 70-80 (atendimento). 6.3 (Pré-venda) é a primeira metade do atendimento ativo.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 6.3 fecha com 'Te vejo lá.' Variação com frase provocativa 'a venda não acaba quando o Pix cai. A venda, na verdade, começa quando o Pix cai.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'transformar venda única em relação recorrente'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Aluna tênis tinha 30% de conversão (caos) → 80% com resposta ativa (solução).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Frases-âncora da cena são memoráveis?",
+      "resposta_observada": "Sim. 'A pré-venda só acaba quando a Claudia compra, ou quando ela fala explicitamente que não quer mais ser contatada' / 'Consultor vende 3x mais que vendedor' / 'empatia = entender + oferecer solução'.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 6.3 cumpre integralmente os contratos de continuidade. 5 passos do protocolo são síntese estruturada do corpus. Case aluna tênis corrida é prototípico com atrito claro. Próxima cena (6.4 Pós-venda) pode avançar com gancho forte já plantado."
+  }
+}

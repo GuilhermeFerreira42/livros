@@ -1,0 +1,19 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador com 'campo de batalha'?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "PROTOCOLO", "pergunta": "Lista do que é NECESSÁRIO (mesa, cadeira, luminária, notebook, impressora, embalagem, armário) está clara com valores?", "referencia_bible": "Corpus '1 - Sua Estrutura de Trabalho'"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "Lista do que é FIRULA (caixa personalizada, mesa cara, decoração, notebook gamer, uniforme) está clara?", "referencia_bible": "Bible Filosofia MVP: começar enxuto"},
+  {"id": "CONT-007", "categoria": "CAUSALIDADE", "pergunta": "Causalidade: estrutura física boa = produtividade, cadeira ruim = hérnia = abandono?", "referencia_bible": "Mitos: economizar errado"},
+  {"id": "CONT-008", "categoria": "CASE_REFERENCIADO", "pergunta": "Case Bruno (quarto → espaço 12m², R$ 800, triplicou) é citado com fidelidade?", "referencia_bible": "Cases: Bruno/Patacori (PRIMÁRIA)"},
+  {"id": "CONT-009", "categoria": "CASE_REFERENCIADO", "pergunta": "Patacori 80% em sacos de embalagem é citado com fidelidade?", "referencia_bible": "Cases: Patacori (PRIMÁRIA)"},
+  {"id": "CONT-010", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Fio 'Estrutura Mínima Viável' é aprofundado (MVP aplicado à estrutura física)?", "referencia_bible": "Fios: Estrutura Mínima Viável"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Próxima cena (CNPJ — MEI vs ME) é anunciada com gancho emocional?", "referencia_bible": "Bible Cronologia: Dias 8-21"},
+  {"id": "CONT-012", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "A estrutura física cabe no início do MVP (Dias 8-21, antes do cadastro de produtos)?", "referencia_bible": "Cronologia: Dias 8-21"},
+  {"id": "CONT-013", "categoria": "MITO_DESCONSTRUIDO", "pergunta": "Mito 'começar do quarto é MVP suficiente' é combatido?", "referencia_bible": "Mitos: começar enxuto vs. começar sem estrutura"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa a boa prática da narrativa de caos → alívio (Patacori antes do Bling, Bruno antes do espaço) para evitar virar manual?", "referencia_bible": "Diretriz editorial crítica: âncoras sensoriais"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena tem fecho propulsor variado (não usa só 'Bora', mas também 'Toca', 'Vamos', 'Te vejo')?", "referencia_bible": "Diretriz editorial: variar fechos"},
+  {"id": "CONT-016", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular (Teoria → Analogia/Caso → Campo de Batalha), fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-017", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

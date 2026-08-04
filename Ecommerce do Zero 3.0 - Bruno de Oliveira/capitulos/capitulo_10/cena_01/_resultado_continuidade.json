@@ -1,0 +1,31 @@
+{
+  "cena": "10.1",
+  "validador": "Continuidade",
+  "metodo": "Bible da Obra + Estado da Obra",
+  "data": "2026-08-04",
+  "perguntas_avaliadas": 10,
+  "aprovadas": 10,
+  "reprovadas": 0,
+  "detalhes": [
+    {"id": "p1", "tema": "Decisões editoriais Bible", "status": "APROVADO", "nota": "Conector e variação de fecho respeitados"},
+    {"id": "p2", "tema": "Coerência com cena 9.2", "status": "APROVADO", "nota": "Marketplaces pós-validação aprofundado"},
+    {"id": "p3", "tema": "Fios narrativos centrais", "status": "APROVADO", "nota": "Validação, MVP, Patacori preservados"},
+    {"id": "p4", "tema": "Informação nova conflitante", "status": "APROVADO", "nota": "Dados vêm do corpus ML 2.0"},
+    {"id": "p5", "tema": "Conector para cena 10.2", "status": "APROVADO", "nota": "'Toca equilibrar o triângulo'"},
+    {"id": "p6", "tema": "Leis de Greenforge", "status": "APROVADO", "nota": "Todas as 6 leis respeitadas"},
+    {"id": "p7", "tema": "Preparação para Cap 11", "status": "APROVADO", "nota": "ERP/Bling mencionado"},
+    {"id": "p8", "tema": "Cases ou dados inconsistentes", "status": "APROVADO", "nota": "Nenhum case novo"},
+    {"id": "p9", "tema": "Tom correto", "status": "APROVADO", "nota": "Técnico mas acessível"},
+    {"id": "p10", "tema": "POV mentor + 2ª pessoa", "status": "APROVADO", "nota": "Alternância correta"}
+  ],
+  "conflitos_detectados": [],
+  "recomendacoes_atualizacao_bible": [
+    "Atualizar Bible com detalhamento do ecossistema Mercado Livre (4 braços)",
+    "Adicionar critérios atualizados do Mercado Líder (com aviso de mudança 15/out)"
+  ],
+  "recomendacoes_atualizacao_estado": [
+    "Após cena 10.1 ser fechada, atualizar Cena_atual para {capitulo: 10, cena: 2}",
+    "Incrementar Chamadas_gastas em ~15 (2 cenas por call)"
+  ],
+  "status_geral": "APROVADO"
+}

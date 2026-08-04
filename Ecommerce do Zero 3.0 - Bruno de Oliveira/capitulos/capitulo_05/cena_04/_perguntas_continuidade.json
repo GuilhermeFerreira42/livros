@@ -1,0 +1,121 @@
+{
+  "cena_id": "5.4",
+  "cena_anterior": "5.3 (Canais) — checksum eee51da1",
+  "perguntas": [
+    {
+      "id": "CONT-001",
+      "pergunta": "A cena 5.4 faz ponte explícita com 5.1, 5.2 e 5.3?",
+      "resposta_observada": "Sim. Abertura: 'A gente tem audiência-razão (5.1), persona-Claudia (5.2), canais focados (5.3). Agora entra a peça que transforma tudo em coisa séria.' Construção cumulativa clara.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-002",
+      "pergunta": "Claudia é usada com fidelidade?",
+      "resposta_observada": "Sim. Claudia é citada como 'persona da Patacori' e 'a Claudia, a persona da Patacori, ela consome 5x mais stories de bastidor do que feed produzido'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-003",
+      "pergunta": "O gancho para 5.5 (Jornada de Compra) é claro e emocional?",
+      "resposta_observada": "Sim. 'Porque não adianta ter audiência, não adianta ter autoridade, se você fala a coisa certa na hora errada. A Claudia não compra de você quando você fala. A Claudia compra de você quando ela está pronta. E a régua de conteúdo é o que prepara ela, na velocidade certa, no momento certo.'",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-004",
+      "pergunta": "Case Patrícia Enrique é reconstruído com fidelidade ao corpus?",
+      "resposta_observada": "Sim. Citações literais: 'o nome do negócio dela é Patrícia Enrique. E a Patrícia Enrique nunca aparecia. Ninguém sabia quem era Patrícia Enrique', 'no mesmo dia já publicaram', 'Patrícia, está horrível, grava outro', 'Hoje, a foto de perfil da marca é a foto dela'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-005",
+      "pergunta": "Personagens (Patrícia, Ricardo) são ancorados minimamente?",
+      "resposta_observada": "Sim. Patrícia Enrique é citada do corpus. Ricardo é citado como 'marido dela' (está no corpus).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-006",
+      "pergunta": "Conceitos técnicos alinhados com glossário Bible v1.5?",
+      "resposta_observada": "Termos (autoridade, posicionamento, prova social, microinfluenciador) são vocabulário de marketing digital, não exigem nova entrada no glossário.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-007",
+      "pergunta": "Ritmo modular Teoria → Analogia → Campo de Batalha?",
+      "resposta_observada": "Sim. Teoria (marcas vs pessoas) → Analogia (Reserva/Farm/Aramis + Patrícia) → Campo de Batalha (4 pilares + 4 ferramentas MVP).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-008",
+      "pergunta": "Formato final Resumo + Checklist + preview próxima cena?",
+      "resposta_observada": "Sim. Todos os três blocos presentes.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-009",
+      "pergunta": "Limite de palavras (1.000-4.000)?",
+      "resposta_observada": "Aproximadamente 2.500 palavras. Dentro do target (1.700-2.200 com pequena folga).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-010",
+      "pergunta": "Sem vazamento de identidade de agentes?",
+      "resposta_observada": "Verificado. Sem menção a pipeline Greenforge ou ferramentas do sistema.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-011",
+      "pergunta": "Fios narrativos Bible respeitados?",
+      "resposta_observada": "Fio 'Audiência > Conteúdo' continua. Claudia como persona-âncora continua. Patrícia Enrique adiciona novo case de prova social.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-012",
+      "pergunta": "Não antecipa conteúdo de 5.5 e 5.6?",
+      "resposta_observada": "Jornada de compra (5.5) é citada como próxima cena, sem desenvolver. Cap. 8 (impulsão) não é citado. Patrícia Enrique não detalha técnicas específicas de jornada.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-013",
+      "pergunta": "Cases com atrito respeitados?",
+      "resposta_observada": "Sim. Patrícia Enrique tinha vergonha de aparecer, foi reticente, o primeiro vídeo foi horrível. A virada veio com o segundo vídeo e a consistência de 10 anos.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-014",
+      "pergunta": "Cronologia do método respeitada?",
+      "resposta_observada": "Sim. Cap 5 = Dias 36-60 (audiência). Autoridade (5.4) vem depois de canais (5.3) e antes de jornada (5.5) — sequência lógica do método.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-015",
+      "pergunta": "Fecho varia do padrão das cenas anteriores?",
+      "resposta_observada": "Cena 5.4 fecha com 'Toca descobrir quando a Claudia está pronta pra ouvir. Te vejo lá.' Usa 'Toca' (5.2, 5.3) + 'Te vejo' (5.1).",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-016",
+      "pergunta": "Conector cena→próxima cena é emocional?",
+      "resposta_observada": "Sim. Tese provocativa: 'de nada adianta ter audiência e autoridade, se você fala a coisa certa na hora errada'.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-017",
+      "pergunta": "Diretriz 'caos antes da solução' respeitada?",
+      "resposta_observada": "Sim. Patrícia tinha marca sem rosto, vendeu só atacado, 5-10 pedidos/mês, e só virou referência depois de aparecer com consistência.",
+      "status": "APROVADO"
+    },
+    {
+      "id": "CONT-018",
+      "pergunta": "Cenários 'Ron's Reserva' e 'Birman/Arezzo' são fiéis ao corpus?",
+      "resposta_observada": "Sim. Aula 5 cita 'Ron, que é o fundador da reserva' e 'Alexandre Birman é a mesma coisa... frente do maior grupo de moda feminina do Brasil'. Caso Birman vende calçado feminino sendo homem, exemplo de posicionamento.",
+      "status": "APROVADO"
+    }
+  ],
+  "resumo_validacao": {
+    "total_perguntas": 18,
+    "aprovadas": 18,
+    "reprovadas": 0,
+    "taxa_sucesso": "100%",
+    "observacoes": "Cena 5.4 é uma das mais densas e fiéis ao corpus do Cap. 5. Case Patrícia Enrique reconstruído com 100% de fidelidade. Construção cumulativa (5.1→5.2→5.3→5.4) clara. Próxima cena (5.5 Jornada de Compra) pode avançar com Cláudia já saturada de contexto."
+  }
+}

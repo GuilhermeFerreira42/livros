@@ -1,0 +1,30 @@
+{
+  "cena_id": "5.1",
+  "validador": "CONTINUIDADE (Bible v1.5 + Estado v1.5 + cena 4.8)",
+  "data_validacao": "2026-07-31",
+  "status": "APROVADO",
+  "metricas": {
+    "perguntas_total": 15,
+    "aprovadas": 15,
+    "reprovadas": 0,
+    "taxa_sucesso_percent": 100
+  },
+  "eixos_validados": {
+    "ponte_com_cena_anterior_4_8": "APROVADO — recapitulação da estrutura mínima viável pronta",
+    "introducao_tema_cap_5_sem_repeticao": "APROVADO — conceitual, não técnico",
+    "gancho_emocional_para_cena_5_2": "APROVADO — 'Bora descobrir pra quem você fala, de verdade'",
+    "cases_alinhados_com_bible": "APROVADO — Patacori coerente, Renata é case prototípico novo",
+    "glossario_tecnico_alinhado": "APROVADO — sem termos novos a definir",
+    "personagens_novos_ancorados": "APROVADO — Renata como 'aluna', Ana Clara como 'diretora'",
+    "ritmo_modular_respeitado": "APROVADO",
+    "formato_final_resumo_checklist_preview": "APROVADO",
+    "limite_palavras_respeitado": "APROVADO — ~2.150 palavras (target 1.700-2.200)",
+    "sem_vazamento_pipeline": "APROVADO",
+    "fios_narrativos_bible_respeitados": "APROVADO — instala 'Audiência > Conteúdo' sem ferir anteriores",
+    "sem_antecipacao_indevida_5_2_a_5_6": "APROVADO — citadas como mapa, não desenvolvidas",
+    "mitos_mercado_desconstruidos": "APROVADO — 'Conteúdo é rei' e 'Anunciar resolve'",
+    "cronologia_metodo_respeitada": "APROVADO — Cap 5 = Dias 36-60 (audiência)",
+    "fechos_variados": "APROVADO — 'Bora' + 'Te vejo' combinados"
+  },
+  "veredicto": "Cena APROVADA em todos os 15 eixos de continuidade. Não há conflito com a Bible v1.5, com o Estado v1.5, nem com a Cena 4.8. Pode avançar para a Cena 5.2 com o gancho de persona."
+}

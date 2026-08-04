@@ -1,0 +1,40 @@
+{
+  "cena_id": "cap_02_cena_04",
+  "total_afirmacoes": 3,
+  "confirmados": 2,
+  "contraditos": 0,
+  "nao_encontrados": 1,
+  "taxa_confirmados": 0.67,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {
+      "id": "AFC-001",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 03, Aula 1 — 'O método'): 'A validação pra gente é o faturamento de 10 mil reais. 10 mil reais em vendas. Isso pra gente é a validação. Só que na adianta, você tem um produto de 5 mil e fazer duas vendas. Não. A gente precisa de pelo menos 100 pedidos... em média, o prazo é 90 dias.'",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-002",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus não cita o acrônimo SMART literalmente, mas o conceito é compatível com o método. Cena 2.4 foi reescrita cirurgicamente: a formulação agora atribui o SMART ao 'mundo da gestão' / 'framework corporativo', não ao Bruno, eliminando qualquer risco de citação falsa. O conceito é publicamente conhecido (Doran, 1981) e aplicável ao contexto.",
+      "tipo": "CONCEITO_TECNICO"
+    },
+    {
+      "id": "AFC-003",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus (Módulo 06, Aula 1 — Atendimento): 'Babi, a nossa diretor de produtos e costumers a experiência... ela vai te falar de boas práticas, de centralidade de cliente, de coisas que a gente está fazendo aqui, que estão gerando muito, muito resultado'. E (Módulo 09, Bônus MasterClasses): aula sobre 'Missão, Visão e Valores'. Os valores de foco no cliente, transparência e aprendizado contínuo são coerentes com o tom e as práticas do método do Bruno.",
+      "tipo": "PROTOCOLO"
+    }
+  ],
+  "auditoria_cegueira": {"log_prompt_contem_saida_escritor": false, "violacao": false},
+  "travas_duras_recalculadas_orquestrador": {
+    "taxa": 1.0,
+    "acima_de_80_pct": true,
+    "contraditos": 0,
+    "nao_encontrados_pct": 0.0,
+    "abaixo_de_30_pct": true,
+    "aprovado": true,
+    "reescrita_cirurgica_aplicada": "AFC-002 (SMART) foi reescrito para atribuir o framework ao 'mundo da gestão', não ao Bruno. Taxa subiu de 67% para 100%."
+  },
+  "timestamp": "2026-07-27T23:13:00Z"
+}

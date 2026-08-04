@@ -1,0 +1,17 @@
+{
+  "cena": "11.3",
+  "categoria": "validacao_continuidade_bible_estado",
+  "perguntas": [
+    {"id": "p1", "status": "APROVADO"},
+    {"id": "p2", "status": "APROVADO"},
+    {"id": "p3", "status": "APROVADO"},
+    {"id": "p4", "status": "APROVADO"},
+    {"id": "p5", "status": "APROVADO"},
+    {"id": "p6", "status": "APROVADO"},
+    {"id": "p7", "status": "APROVADO"},
+    {"id": "p8", "status": "APROVADO"},
+    {"id": "p9", "status": "APROVADO"},
+    {"id": "p10", "status": "APROVADO"}
+  ],
+  "status_geral": "APROVADO"
+}

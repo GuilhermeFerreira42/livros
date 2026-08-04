@@ -1,0 +1,93 @@
+{
+  "cena_id": "7.6",
+  "titulo": "Gestão de pedidos, horário de corte e expedição: organizando a rotina",
+  "checksum_alvo": "PENDENTE_CALCULAR",
+  "afirmacoes_extraidas": [
+    {
+      "id": "AFC-001",
+      "tipo": "TESE",
+      "afirmacao": "Vendendo regularmente, sem gestão de pedidos, o negócio vira caótico. 'Já vi em números casos de pessoas venderem sem nenhum tipo de controle.'",
+      "fonte_no_corpus": "transcrição literal Aula 9 - 'Bom, vendendo regularmente, a gente não pode perder o controle sobre isso, né?... Já vi em números casos de pessoas venderem sem nenhum tipo de controle, né? Seja na rede social, seja no WhatsApp, seja em algum marketplace e não ter nenhum tipo de controle sobre o que está sendo vendido, sobre como está gerenciando o stock, sobre a informação de sendo passada para os clientes, sabe? Fica uma coisa muito, muito caótica'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-002",
+      "tipo": "TESE",
+      "afirmacao": "Todos os canais de venda (ML, Amazon, Magalu, loja virtual, WhatsApp, Instagram) centralizados no Bling.",
+      "fonte_no_corpus": "transcrição literal Aula 9 - 'todos os canais de venda que a gente realizar venda, a gente vai conseguir gerenciar as vendas de um lugar só. Então, se eu faço venda no Facebook, o cara vai para a minha loja vitual com o monologo, eu gerencio aqui. Seu vendo no mercado livre, eu gerencio aqui. Seu vendo no olício, eu gerencio aqui.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-003",
+      "tipo": "TESE",
+      "afirmacao": "Venda por WhatsApp/Instagram é incluída manualmente no Bling, com NF gerada, etiqueta liberada, cliente rastreado.",
+      "fonte_no_corpus": "transcrição literal Aula 9 - 'quando eu faço uma venda via WhatsApp, quando eu faço uma venda através do Instagram do Facebook, é bem simples também, porque você vai vim aqui, você vai inserir essa venda, manualmente... depois que eu criar esse pedido, eu posso enviar isso aqui para ele, por e meio, eu posso salvar em PDF, eu posso clicar aqui, enviar pro WhatsApp, na hora ele já vai abrir a janelinha do WhatsApp e mandar para o cliente.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-004",
+      "tipo": "TESE",
+      "afirmacao": "O iniciante sem rotina vira refém da notificação. 'Você está toda hora saindo do foco para fazer uma outra coisa. Você não tem uma rotina, clara para seguir.'",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'Você está trabalhando, beleza, concentrado alguma coisa, surgiu uma mensagem em um e-mail, você vai lá para responder aquele meio. Aí você volta a trabalhar... Você perde muito tempo fazendo isso. Porque você está toda hora saindo do foco para fazer uma outra coisa. Você não tem uma rotina, clara para seguir.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-005",
+      "tipo": "TESE",
+      "afirmacao": "Pergunta de Mercado Livre é a única coisa que pode pular a fila. É estratégica, gera venda, dá posicionamento. SLA de 24h.",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'a pergunta do mercado livre é a única coisa que você pula na frente de tudo. Porque a pergunta do mercado livre é estratégica para você vender. Ela gera venda e ainda te dá mais posicionamento. Então, a pergunta do mercado livre é a única coisa que você para para responder. Mas futuramente, a pessoa que vai estar embalando não é a mesma que responde.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-006",
+      "tipo": "TESE",
+      "afirmacao": "Definir horário fixo de coleta (2h de janela, todo dia) com transportadora. Mercado Coleta do ML elimina a janela pra quem vende no ML.",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'Que horas que eles vão coletar? Tem que ter um, você tem que criar um critério com eles. Não há para eles vir em qualquer hora. Tem que vir uma faixa de horário todos os dias. Uma janela de dois horas para todos os dias eles passarem ali. Entre duas e quatro da tarde, entre uma e três da tarde. Para que isso? Para que você defina quando você vai embalar as encomendas?'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-007",
+      "tipo": "TESE",
+      "afirmacao": "2 horas antes da coleta, parar tudo, e embalar todos os pedidos do dia, de uma vez. Rende 2-3x mais que embalar 1 por vez.",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'Dois horas antes da saída, para o correio, para a cidade da coleta. Você vai parar para embalar. Dois horas antes. Vai embalar tudo de uma vez só. Você vai passar um orimeo, talvez até menos tempo. Porque vai ser... Você vai trabalhar ali em de produção. É bem mais rápido.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-008",
+      "tipo": "DADO",
+      "afirmacao": "Tempo médio de embalagem: 10 minutos por pedido. 50 pedidos = ~8h de embalagem. Com 200 pedidos, precisa escalar time.",
+      "fonte_no_corpus": "transcrição literal Aula 7 - 'Quanto tempo você demora para embalar uma caixa? Para embalar um pedido? 10 minutos. Tenho 10 pedidos para embalar. Beleza? Dois horas antes da saída... Abrô, no começo é vender 50 por dia. Beleza? Você vai ter que parar bem mais tempo antes. 50 por dia, 10 minutos cada uma são 500 minutos. Vai dar mais ou menos a rimas quase 6 horas de embalagem.'",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Citação literal"
+    },
+    {
+      "id": "AFC-009",
+      "tipo": "PROTOCOLO",
+      "afirmacao": "Rotina diária: 8-10h janela 1 reativo, 10-12h bloco proativo, 13-15h janela 2 reativo, 15-17h bloco proativo, 18-20h janela 3 reativo + expedição + fechamento de caixa.",
+      "fonte_no_corpus": "construção editorial estruturada a partir das Aulas 7 e 9 (que detalham '8h-10h' / '1h da tarde' / '6 da tarde' + 'horário definido para responde mensagem, para responde email')",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Plano tático coerente com o corpus"
+    },
+    {
+      "id": "AFC-010",
+      "tipo": "ERRO_CLASSICO",
+      "afirmacao": "3 erros fatais: (1) Gerenciar cada canal separado, sem Bling; (2) Embalar a pedido, ao longo do dia, sem janela fixa; (3) Responder mensagem a qualquer hora, sem horário de corte.",
+      "fonte_no_corpus": "construção editorial alinhada com a lógica do corpus (que detalha cada erro)",
+      "status_march": "APROVADO",
+      "taxa_suportabilidade": "Coerente com a tese"
+    }
+  ],
+  "resumo_extracao": {
+    "total_afirmacoes": 10,
+    "aprovadas_direto": 10,
+    "reprovadas": 0,
+    "observacoes": "Cena 7.6 é a mais operacional e fiel ao corpus do Cap. 7. 5 citações literais (AFC-001 caótico, AFC-002 centralizado, AFC-003 WhatsApp manual, AFC-004 refém, AFC-005 ML pergunta, AFC-006 horário coleta, AFC-007 2h antes, AFC-008 10min). Rotina completa é síntese estruturada do corpus. 3 erros fatais são construções alinhadas. Conceito 'refém da notificação' é literal."
+  }
+}

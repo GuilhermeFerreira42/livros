@@ -1,0 +1,85 @@
+{
+  "cena_id": "cap_03_cena_02",
+  "capitulo": 3,
+  "cena": 2,
+  "data_validacao": "2026-07-30T17:28:00Z",
+  "validador": "MARCH_PODBOOK",
+  "total_perguntas": 10,
+  "auditoria_cegueira": {
+    "log_prompt_contem_saida_escritor": false,
+    "violacao": false
+  },
+  "resultados": [
+    {
+      "id": "AFC-001",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'A validação pra gente é o faturamento de 10 mil reais. 10 mil reais em vendas... a gente precisa de pelo menos 100 vendas... Em média, o prazo é 90 dias.'",
+      "tipo": "DADO_NUMERICO"
+    },
+    {
+      "id": "AFC-002",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Só que não adianta, você tem um produto de 5 mil e fazer duas vendas. Não. A gente precisa de pelo menos 100 vendas para poder considerar que o teu negócio está validado... não é um jogo de uma coisa ou outra. É as duas coisas.'",
+      "tipo": "CONCEITO_TECNICO"
+    },
+    {
+      "id": "AFC-003",
+      "status": "CONFIRMADO",
+      "evidencia": "Bible v1.4 Cronologia: 'Dias 1–7 Planejamento: nicho, persona, fornecedores, ofertas... Dias 8–21 Estrutura: CNPJ, MEI/ME, domínio, e-mail, ERP (Bling), marketplace... Dias 22–35 Primeiros produtos cadastrados com SKU + EAN, descrições, fotos, vídeos... Dias 36–60 Construção de audiência... Dias 60–75 Vendas orgânicas começam... Dias 70–80 Atendimento estruturado... Dias 80–90 Impulsão... Dia 90 Meta: R$ 10 mil + 100 pedidos = VALIDAÇÃO.'",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-004",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Obviamente, apesar disso aqui ser concreto, isso não é ingessado. Em alguns momentos, a gente vai entender que o negócio está validado. Cara, com menos que isso aqui, é só pra gente ter um parâmetro. Beleza? Isso aqui não é um objetivo ingessado e sim um parâmetro.'",
+      "tipo": "REGRA_MERCADO"
+    },
+    {
+      "id": "AFC-005",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Esse contexto aqui, ele é muito, muito utilizado no segmento de startups... Há vários anos atrás, quando a Zappus foi lançada... eles precisavam validar... Vamos fazer um teste. Vamos montar um site ali, colocar alguns calçados... se as pessoas comprarem, a gente vai lá no shopping, compra e envia.' Bible: 'MVP: Metodologia adaptada pelo Bruno do Vale do Silício: estrutura mínima viável de validação.'",
+      "tipo": "ANALOGIA"
+    },
+    {
+      "id": "AFC-006",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus Cap. 2 Cena 3 ('Você pode, você consegue'): 'A curva de validação tem um formato específico. Ela demora para arrancar. E quando arranca, ela acelera. Mas para você ver a aceleração, você precisa sobreviver ao começo lento. E é aí que a maioria desiste.' Corpus '1 - O método Ecommerce do Zero.txt' descreve a progressão natural das etapas culminando no Dia 90.",
+      "tipo": "DADO_NUMERICO"
+    },
+    {
+      "id": "AFC-007",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus Cap. 2 Cena 3: 'A curva de validação tem um formato específico. Ela demora para arrancar. E quando arranca, ela acelera. Mas para você ver a aceleração, você precisa sobreviver ao começo lento. E é aí que a maioria desiste.'",
+      "tipo": "CAUSALIDADE"
+    },
+    {
+      "id": "AFC-008",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Só que quando a gente passar por aqui, significa que esse negócio está validado... você pode... se arriscar mais, porque 99% são a chance desse negócio da certo. O negócio que rompe essa barreira de validação, ele rompe a barreira da incerteza... a gente passa ao invés de correr risco, a gente vai passar para gerenciar risco.'",
+      "tipo": "DADO_NUMERICO"
+    },
+    {
+      "id": "AFC-009",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus '1 - O método Ecommerce do Zero.txt': 'Quando a gente passar por aqui, significa que esse negócio está validado... você pode investir mais. Pode contratar. Pode expandir para outros marketplaces. Pode abrir a sua loja virtual própria.' Bible Cronologia Pós-90: 'Escalar: novos marketplaces, loja virtual própria, mais produtos, equipe.'",
+      "tipo": "PROTOCOLO"
+    },
+    {
+      "id": "AFC-010",
+      "status": "CONFIRMADO",
+      "evidencia": "Corpus módulo 03: Aula 2 'Nichos de Mercado', Aula 4 'O que vender' (nicho/produto), Aula 5 'Para quem vender' (persona), Aula 9 'Ofertas' (produto estrela). Corpus '6 - Quem vai te fornecer': 'O que você vai vender? Para quem você vai vender? Quem vai te fornecer?' — as três perguntas fundantes do planejamento.",
+      "tipo": "PROTOCOLO"
+    }
+  ],
+  "metricas": {
+    "confirmados": 10,
+    "contraditos": 0,
+    "nao_encontrados": 0,
+    "taxa_confirmacao": 1.0,
+    "taxa_nao_encontrado": 0.0,
+    "taxa_contradicao": 0.0
+  },
+  "status_geral": "APROVADO",
+  "motivo_reprovacao": null,
+  "timestamp": "2026-07-30T17:28:00Z"
+}

@@ -1,0 +1,17 @@
+[
+  {"id": "CONT-001", "categoria": "VOZ_NARRATIVA", "pergunta": "A cena usa POV em 1ª do mentor com alternância para 2ª pessoa?", "referencia_bible": "POV_padrao: 2ª pessoa com alternância controlada para 1ª do mentor"},
+  {"id": "CONT-002", "categoria": "VOZ_NARRATIVA", "pergunta": "Tempo verbal presente?", "referencia_bible": "Tempo_verbal: Presente"},
+  {"id": "CONT-003", "categoria": "VOZ_NARRATIVA", "pergunta": "Tom pragmático/encorajador?", "referencia_bible": "Tom_de_voz: Pragmático, pé no chão, encorajador"},
+  {"id": "CONT-004", "categoria": "VOZ_NARRATIVA", "pergunta": "Distância Mentor/Consultor?", "referencia_bible": "Distancia_narrativa: Mentor/Consultor"},
+  {"id": "CONT-005", "categoria": "CONCEITO_TECNICO", "pergunta": "Diferenciação marketplace vs fornecedor está clara?", "referencia_bible": "Glossário: Marketplace vs Fornecedor"},
+  {"id": "CONT-006", "categoria": "PROTOCOLO", "pergunta": "Checklist de homologação com 6 itens?", "referencia_bible": "Corpus '6 - Quem vai te fornecer'"},
+  {"id": "CONT-007", "categoria": "REGRA_MERCADO", "pergunta": "Regra de contingência (1+2)?", "referencia_bible": "Glossário: contingência de fornecedores"},
+  {"id": "CONT-008", "categoria": "CONCEITO_TECNICO", "pergunta": "Fornecedor familiar nacional como bom parceiro?", "referencia_bible": "Cases: Bruno/Patacori (PRIMÁRIA)"},
+  {"id": "CONT-009", "categoria": "PROTOCOLO", "pergunta": "B2B presencial como caminho?", "referencia_bible": "Corpus '6.1 - MasterClass Fornecedores'"},
+  {"id": "CONT-010", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "O fio 'Dropshipping Nacional Homologado' é antecipado?", "referencia_bible": "Fios: Dropshipping Nacional Homologado Solução de Nicho Cap. 3"},
+  {"id": "CONT-011", "categoria": "FIO_NARRATIVO_SETUP", "pergunta": "Estrutura Mínima Viável é ligada à escolha de fornecedor?", "referencia_bible": "Fios: Estrutura Mínima Viável"},
+  {"id": "CONT-012", "categoria": "MITO_DESCONSTRUIDO", "pergunta": "Mito 'preço mais baixo sempre' é combatido (parceria > preço)?", "referencia_bible": "Mitos: preço espremido"},
+  {"id": "CONT-013", "categoria": "TIMELINE_CRONOLOGIA", "pergunta": "Etapa 'homologar fornecedor' cabe em Dias 1-7 (Planejamento) ou 8-21 (Estrutura)?", "referencia_bible": "Cronologia: Dias 1-7 / 8-21"},
+  {"id": "CONT-014", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena tem gancho forte, desenvolvimento modular, fecho propulsor?", "referencia_bible": "Ritmo_padrao: Modular e ondulatório"},
+  {"id": "CONT-015", "categoria": "VOZ_NARRATIVA", "pergunta": "Cena termina com Resumo e Checklist no formato Podbook?", "referencia_bible": "FORMATO_CENA_PODBOOK.md"}
+]

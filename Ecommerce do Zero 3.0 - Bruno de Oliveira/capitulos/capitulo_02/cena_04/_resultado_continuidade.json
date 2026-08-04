@@ -1,0 +1,18 @@
+{
+  "cena_id": "cap_02_cena_04",
+  "total_verificacoes": 5,
+  "confirmados": 5,
+  "contraditos": 0,
+  "nao_encontrados": 0,
+  "status_geral": "APROVADO",
+  "resultados": [
+    {"id": "CONT-001", "status": "CONFIRMADO", "evidencia": "Cena 2.4 mantém padrão: 1ª ('eu te apresento a régua', 'eu recomendo', 'eu te peço', 'eu te dou') e 2ª em comandos ('você pode usar uma régua maior', 'você precisa definir', 'você vai escrever').", "categoria": "PERSONAGEM_ACAO"},
+    {"id": "CONT-002", "status": "CONFIRMADO", "evidencia": "Cena 2.4: 'cliente no centro, transparência, respeito ao próximo, foco no longo prazo, aprendizado contínuo' — todos coerentes com o corpus (Módulo 06 sobre CX, Módulo 12 sobre Missão/Visão/Valores, e o tom geral das aulas de Bruno). SMART atribuído ao 'mundo da gestão', evitando citação falsa.", "categoria": "CONCEITO_REGRA"},
+    {"id": "CONT-003", "status": "CONFIRMADO", "evidencia": "Cena 2.4: presente atemporal, tom prescritivo ('pega um caderno', 'vai fazer', 'não é opcional'), pragmático ('teoria, no e-commerce, não paga boleto'), encorajador ('você pode, você consegue').", "categoria": "VOZ_NARRATIVA"},
+    {"id": "CONT-004", "status": "CONFIRMADO", "evidencia": "Cena 2.4: 'régua mínima (R$ 10K / 90 dias / 100 pedidos), régua intermediária (R$ 20K / 90 dias / 150 pedidos), régua avançada (R$ 50K / 120 dias / 400 pedidos)'. Os 3 modelos escalam a régua padrão da Bible em direção à fase pós-validação, coerente com a estrutura do livro (Cap. 9 é o pagamento da validação).", "categoria": "FIO_NARRATIVO_SETUP"},
+    {"id": "CONT-005", "status": "CONFIRMADO", "evidencia": "Cena 2.4 cumpre o objetivo. Apresenta 3 modelos de régua, ensina objetivo SMART, lista 5 princípios, exige do leitor que escreva e cole onde vai ver. Mudança de estado documentada no checklist (4 itens: objetivo escrito, princípios escritos, lugar visível, data de revisão).", "categoria": "OBJETIVO_CENA"}
+  ],
+  "erros": [],
+  "auditoria_cegueira": {"validador_viu_saida_escritor": false, "violacao": false},
+  "timestamp": "2026-07-27T23:16:00Z"
+}
